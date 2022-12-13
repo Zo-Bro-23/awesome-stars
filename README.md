@@ -136,6 +136,7 @@
 
 ## CSS 
 
+- [nvsnkv/dns-override](https://github.com/nvsnkv/dns-override) - DNS Override is a simple chrome extension, which allows you to override domain names directly in the page
 - [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player) - Youtube Music CSS themes to apply with any injector.
 - [Alan-Zhao-908/control-life-admin](https://github.com/Alan-Zhao-908/control-life-admin) - admin console for directors
 - [Alan-Zhao-908/mjolnir](https://github.com/Alan-Zhao-908/mjolnir) - 
@@ -176,6 +177,7 @@
 
 ## Go 
 
+- [edvardpotter/DiscordLastfmScrobbler](https://github.com/edvardpotter/DiscordLastfmScrobbler) - Allows you to display music from Last.FM to Discord
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
 - [jamesgeorge007/hackalist-cli](https://github.com/jamesgeorge007/hackalist-cli) - Get to know about the upcoming hackathons without leaving your terminal.
 - [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in GoLang.
@@ -280,7 +282,7 @@
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 - [jakesgordon/javascript-pong](https://github.com/jakesgordon/javascript-pong) - A javascript version of the classic 1972 arcade game Pong!
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
 - [AnsonH/youtube-playlist-export](https://github.com/AnsonH/youtube-playlist-export) - Node.js command line app for exporting video data from a YouTube playlist to a JSON/CSV file.
 - [ChristopherChudzicki/math3d-react](https://github.com/ChristopherChudzicki/math3d-react) - A user-friendly 3d graphing calculator for the web. Create, share, and animate 3d mathematical scenes.
 - [tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
@@ -483,6 +485,7 @@
 
 ## Others 
 
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [OceanicSquirrel/themes-for-ytmdesktop-player](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player) - If you are using the https://github.com/ytmdesktop/ytmdesktop player, you can copy these CSS files to try different color themes. (This is not affiliated with YouTube or the ytmdesktop project)
