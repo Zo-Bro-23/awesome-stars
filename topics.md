@@ -297,6 +297,7 @@
 
 ## cli 
 
+- [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [Araxeus/ls-interactive](https://github.com/Araxeus/ls-interactive) - Interactive ls command
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command line processes
@@ -721,6 +722,7 @@
 
 ## javascript 
 
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [MinhasKamal/DarkLight](https://github.com/MinhasKamal/DarkLight) - Webpage in Night Mode
 - [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -1014,6 +1016,7 @@
 
 ## npm 
 
+- [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
@@ -1045,6 +1048,11 @@
 
 ## others 
 
+- [georgebrock/spotify-scrobbler](https://github.com/georgebrock/spotify-scrobbler) - A SIMBL plugin for the Spotify client to scrobble tracks to last.fm
+- [georgebrock/git-browse](https://github.com/georgebrock/git-browse) - Like git blame, but interactive.
+- [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
+- [georgebrock/lastify](https://github.com/georgebrock/lastify) - Adds Last.fm Love, Ban and tagging abilities to Spotify
+- [hansott/spotify-backupper](https://github.com/hansott/spotify-backupper) - 💽 creates backups of your Spotify library
 - [Tominous/Set-Discord-Activity](https://github.com/Tominous/Set-Discord-Activity) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
 - [nvsnkv/dns-override](https://github.com/nvsnkv/dns-override) - DNS Override is a simple chrome extension, which allows you to override domain names directly in the page
 - [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - 🏴‍☠ A hack to read emails on a Slack channel while staying in free plan
@@ -1369,6 +1377,7 @@
 
 ## php 
 
+- [hansott/lastify](https://github.com/hansott/lastify) - 🔄 Syncs your music between Last.fm and Spotify
 - [jamesgeorge007/Mini-Social-Media](https://github.com/jamesgeorge007/Mini-Social-Media) - Mini Social Media backed up by Laravel and MySQL.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -1561,6 +1570,7 @@
 
 ## typescript 
 
+- [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [th-ch/yamux-js](https://github.com/th-ch/yamux-js) - Node.js (TypeScript/JavaScript) port of the multiplexing library for Golang made by HashiCorp: https://github.com/hashicorp/yamux
