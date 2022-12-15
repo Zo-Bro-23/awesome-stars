@@ -28,6 +28,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Markdown](#markdown)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -189,6 +190,7 @@
 
 ## HTML 
 
+- [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
 - [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
 - [techx/hackmit-code](https://github.com/techx/hackmit-code) - :recycle: HackMIT's open source projects
 - [Zo-Bro-23/himandher](https://github.com/Zo-Bro-23/himandher) - Fork of @shenuja/himandher
@@ -238,6 +240,7 @@
 
 ## JavaScript 
 
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Tominous/Set-Discord-Activity](https://github.com/Tominous/Set-Discord-Activity) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
@@ -484,6 +487,11 @@
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 
+## Objective-C 
+
+- [georgebrock/spotify-scrobbler](https://github.com/georgebrock/spotify-scrobbler) - A SIMBL plugin for the Spotify client to scrobble tracks to last.fm
+- [georgebrock/lastify](https://github.com/georgebrock/lastify) - Adds Last.fm Love, Ban and tagging abilities to Spotify
+
 ## Others 
 
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
@@ -534,6 +542,8 @@
 
 ## PHP 
 
+- [hansott/lastify](https://github.com/hansott/lastify) - 🔄 Syncs your music between Last.fm and Spotify
+- [hansott/spotify-backupper](https://github.com/hansott/spotify-backupper) - 💽 creates backups of your Spotify library
 - [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - 🏴‍☠ A hack to read emails on a Slack channel while staying in free plan
 - [nastyox/Repo-Roster](https://github.com/nastyox/Repo-Roster) - Shout-out supporters in your GitHub README file.
 - [jamesgeorge007/Mini-Social-Media](https://github.com/jamesgeorge007/Mini-Social-Media) - Mini Social Media backed up by Laravel and MySQL.
@@ -550,6 +560,7 @@
 
 ## Python 
 
+- [georgebrock/git-browse](https://github.com/georgebrock/git-browse) - Like git blame, but interactive.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kerichdev/spoticode-generator](https://github.com/kerichdev/spoticode-generator) - A simple python script to generate Spotify Codes (cool waveforms). Not scannable.
 - [aarush-narang/password-breaker](https://github.com/aarush-narang/password-breaker) - 
@@ -681,6 +692,7 @@
 
 ## TypeScript 
 
+- [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [Korilakkuma/XSound.app](https://github.com/Korilakkuma/XSound.app) - Web Music Application by XSound
