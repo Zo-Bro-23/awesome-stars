@@ -226,6 +226,10 @@
 
 ## Java 
 
+- [patzly/buzz-android](https://github.com/patzly/buzz-android) - Unofficial Android game based on the official Spelling Bee by The New York Times
+- [patzly/pallax-android](https://github.com/patzly/pallax-android) - Photo live wallpaper with auto dark mode and power-efficient animations
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
+- [patzly/doodle-android](https://github.com/patzly/doodle-android) - Colorful live wallpapers with auto dark mode and power-efficient animations
 - [MinhasKamal/AlphabetRecognizer](https://github.com/MinhasKamal/AlphabetRecognizer) - Simple Optical Character Recognizer (english-ocr-image-to-text-recognition-sample-trainig-alphabet-photo-data-database-dataset)
 - [MinhasKamal/SkinDetector](https://github.com/MinhasKamal/SkinDetector) - Detects Human Skin From Image (color-region-segmentation-photo-detection-extraction-detect)
 - [MinhasKamal/GenderRecognizer](https://github.com/MinhasKamal/GenderRecognizer) - Plain Face Detector & Gender Recognizer
@@ -472,6 +476,7 @@
 
 ## Kotlin 
 
+- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
 - [ligi/PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
 - [tylerbwong/stack](https://github.com/tylerbwong/stack) - An Android app for browsing Stack Overflow and other Stack Exchange sites.
@@ -494,6 +499,7 @@
 
 ## Others 
 
+- [patzly/grocy-android-unlock](https://github.com/patzly/grocy-android-unlock) - Unlock AI-based barcode scanning in Grocy Android
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
@@ -560,6 +566,11 @@
 
 ## Python 
 
+- [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
+- [Jxck-S/FAA-registry-checker](https://github.com/Jxck-S/FAA-registry-checker) - Checks FAA Registry daily for new aircraft registered by certain owners as configured.
+- [Jxck-S/spacex-droneship-bot](https://github.com/Jxck-S/spacex-droneship-bot) - Twitter bot for tracking SpaceX droneships
+- [Jxck-S/TFR-Scraper](https://github.com/Jxck-S/TFR-Scraper) - Scrapes TFRs from FAA site
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
 - [georgebrock/git-browse](https://github.com/georgebrock/git-browse) - Like git blame, but interactive.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kerichdev/spoticode-generator](https://github.com/kerichdev/spoticode-generator) - A simple python script to generate Spotify Codes (cool waveforms). Not scannable.
