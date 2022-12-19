@@ -190,6 +190,7 @@
 
 ## HTML 
 
+- [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
 - [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
 - [techx/hackmit-code](https://github.com/techx/hackmit-code) - :recycle: HackMIT's open source projects
@@ -226,6 +227,7 @@
 
 ## Java 
 
+- [ishwi/Chuu](https://github.com/ishwi/Chuu) - Last.fm bot for discord
 - [patzly/buzz-android](https://github.com/patzly/buzz-android) - Unofficial Android game based on the official Spelling Bee by The New York Times
 - [patzly/pallax-android](https://github.com/patzly/pallax-android) - Photo live wallpaper with auto dark mode and power-efficient animations
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
@@ -244,6 +246,7 @@
 
 ## JavaScript 
 
+- [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Tominous/Set-Discord-Activity](https://github.com/Tominous/Set-Discord-Activity) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
@@ -566,6 +569,7 @@
 
 ## Python 
 
+- [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/, though this may change soon! (see https://trac.sagemath.org/ticket/30363
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
 - [Jxck-S/FAA-registry-checker](https://github.com/Jxck-S/FAA-registry-checker) - Checks FAA Registry daily for new aircraft registered by certain owners as configured.
 - [Jxck-S/spacex-droneship-bot](https://github.com/Jxck-S/spacex-droneship-bot) - Twitter bot for tracking SpaceX droneships
