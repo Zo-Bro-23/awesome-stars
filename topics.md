@@ -258,6 +258,7 @@
 
 ## bot 
 
+- [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [vegeta897/discord-syntax-test](https://github.com/vegeta897/discord-syntax-test) - Automated testing of all syntax highlighting languages for code blocks
 - [vegeta897/weekly-notices](https://github.com/vegeta897/weekly-notices) - A simple Discord notification bot designed for weekly schedules
 - [vegeta897/d-bot](https://github.com/vegeta897/d-bot) - A quirky Discord bot made for single, small, private servers
@@ -396,6 +397,8 @@
 
 ## discord 
 
+- [ishwi/Chuu](https://github.com/ishwi/Chuu) - Last.fm bot for discord
+- [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [edvardpotter/DiscordLastfmScrobbler](https://github.com/edvardpotter/DiscordLastfmScrobbler) - Allows you to display music from Last.FM to Discord
 - [vegeta897/discord-syntax-test](https://github.com/vegeta897/discord-syntax-test) - Automated testing of all syntax highlighting languages for code blocks
 - [vegeta897/weekly-notices](https://github.com/vegeta897/weekly-notices) - A simple Discord notification bot designed for weekly schedules
@@ -719,6 +722,7 @@
 
 ## java 
 
+- [ishwi/Chuu](https://github.com/ishwi/Chuu) - Last.fm bot for discord
 - [MinhasKamal/AlphabetRecognizer](https://github.com/MinhasKamal/AlphabetRecognizer) - Simple Optical Character Recognizer (english-ocr-image-to-text-recognition-sample-trainig-alphabet-photo-data-database-dataset)
 - [MinhasKamal/SkinDetector](https://github.com/MinhasKamal/SkinDetector) - Detects Human Skin From Image (color-region-segmentation-photo-detection-extraction-detect)
 - [MinhasKamal/GenderRecognizer](https://github.com/MinhasKamal/GenderRecognizer) - Plain Face Detector & Gender Recognizer
@@ -1058,6 +1062,7 @@
 
 ## others 
 
+- [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [Jxck-S/FAA-registry-checker](https://github.com/Jxck-S/FAA-registry-checker) - Checks FAA Registry daily for new aircraft registered by certain owners as configured.
 - [Jxck-S/spacex-droneship-bot](https://github.com/Jxck-S/spacex-droneship-bot) - Twitter bot for tracking SpaceX droneships
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
@@ -1416,6 +1421,7 @@
 
 ## python 
 
+- [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/, though this may change soon! (see https://trac.sagemath.org/ticket/30363
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
 - [ryo-ma/covid19-japan-web-api](https://github.com/ryo-ma/covid19-japan-web-api) - 🇯🇵 Web API to get 🦠COVID-19(coronavirus) information of each prefecture in Japan
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
