@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [edvardpotter/DiscordLastfmScrobbler](https://github.com/edvardpotter/DiscordLastfmScrobbler) - Allows you to display music from Last.FM to Discord
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
 - [jamesgeorge007/hackalist-cli](https://github.com/jamesgeorge007/hackalist-cli) - Get to know about the upcoming hackathons without leaving your terminal.
@@ -246,6 +247,9 @@
 
 ## JavaScript 
 
+- [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
+- [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
+- [coreybutler/node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Tominous/Set-Discord-Activity](https://github.com/Tominous/Set-Discord-Activity) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
@@ -597,7 +601,7 @@
 - [addyett/mel](https://github.com/addyett/mel) - a simple interactive command line tool written in python for playing music with sweet features
 - [addyett/mega-uploader](https://github.com/addyett/mega-uploader) - a command-line tool to upload local files and pastebin pastes to your mega account, without signing in anywhere
 - [addyett/pomodorow](https://github.com/addyett/pomodorow) - a timer and music script as a companion for your pomodorow sessions
-- [addyett/cvplayer](https://github.com/addyett/cvplayer) - a simple video player written in python using ffpyplayer and OpenCV
+- [addyett/cvplayer](https://github.com/addyett/cvplayer) - simple platform independant video player written in python using ffpyplayer and OpenCV
 - [addyett/readme-now-playing](https://github.com/addyett/readme-now-playing) - good looking cards for your github readme showing your currently playing song on spotify
 - [kittinan/trex-keras-cnn](https://github.com/kittinan/trex-keras-cnn) - Play T-Rex game with Keras using convolutional neural network
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
@@ -675,6 +679,7 @@
 
 ## Shell 
 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [shravan20/software-installation-guides](https://github.com/shravan20/software-installation-guides) - Installation Guide for various development software, tools and packages
 - [MrS0m30n3/movies-for-hackers](https://github.com/MrS0m30n3/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [nathanielop/achievements](https://github.com/nathanielop/achievements) - A collection of shell scripts to achieve 100% of API-accessible Github achievements
