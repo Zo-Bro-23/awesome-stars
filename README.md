@@ -483,6 +483,7 @@
 
 ## Kotlin 
 
+- [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
 - [ligi/PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
