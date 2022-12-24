@@ -364,7 +364,7 @@
 
 ## css 
 
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
@@ -632,7 +632,7 @@
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [mishmanners/mish-friendly-food](https://github.com/mishmanners/mish-friendly-food) - App for providing dietary requirements :pineapple: on cute cards in different languages
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
@@ -688,7 +688,7 @@
 
 ## html 
 
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [prashantsengar/mTracker](https://github.com/prashantsengar/mTracker) - An email tracker built with Python and Flask
 
@@ -745,7 +745,7 @@
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [skolakoda/programming-quotes](https://github.com/skolakoda/programming-quotes) - Programming Quotes, an open source app and database.
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -960,7 +960,7 @@
 
 ## nextjs 
 
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [KRTirtho/schoolacious](https://github.com/KRTirtho/schoolacious) - A destination where all the reading sound📔 of small learners🧒 & day to day learning👩‍🏫 takes place bringing up all the thing a student👩‍🎓 used to do before Quarantine & Pandemic🦠
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [theabhayprajapati/twitter-m-2](https://github.com/theabhayprajapati/twitter-m-2) - A simple twitter Clone build on next.js and tailwindcss
@@ -987,7 +987,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [AnsonH/youtube-playlist-export](https://github.com/AnsonH/youtube-playlist-export) - Node.js command line app for exporting video data from a YouTube playlist to a JSON/CSV file.
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -1073,11 +1073,16 @@
 
 ## others 
 
+- [staltz/matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz) - 
+- [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy) - Easy script for running youtube-dl with basic options
+- [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
+- [samholmes/node-open-graph](https://github.com/samholmes/node-open-graph) - An Open Graph implementation for Node.js.
 - [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [Jxck-S/FAA-registry-checker](https://github.com/Jxck-S/FAA-registry-checker) - Checks FAA Registry daily for new aircraft registered by certain owners as configured.
 - [Jxck-S/spacex-droneship-bot](https://github.com/Jxck-S/spacex-droneship-bot) - Twitter bot for tracking SpaceX droneships
-- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
 - [georgebrock/spotify-scrobbler](https://github.com/georgebrock/spotify-scrobbler) - A SIMBL plugin for the Spotify client to scrobble tracks to last.fm
 - [georgebrock/git-browse](https://github.com/georgebrock/git-browse) - Like git blame, but interactive.
 - [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
@@ -1487,7 +1492,7 @@
 ## reactjs 
 
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [jamesgeorge007/spacex-launcher-stats](https://github.com/jamesgeorge007/spacex-launcher-stats) - React-Apollo GraphQL WebApp to display launch stats using SpaceX API.
 - [jamesgeorge007/Crypto-Compare](https://github.com/jamesgeorge007/Crypto-Compare) - Comparison chart between popular cryptocurrencies.
 - [wsmd/use-clipboard-copy](https://github.com/wsmd/use-clipboard-copy) - 📋 Lightweight copy to clipboard hook for React
