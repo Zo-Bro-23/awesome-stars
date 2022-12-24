@@ -247,6 +247,7 @@
 
 ## JavaScript 
 
+- [samholmes/node-open-graph](https://github.com/samholmes/node-open-graph) - An Open Graph implementation for Node.js.
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
 - [coreybutler/node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).
@@ -297,7 +298,7 @@
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 - [jakesgordon/javascript-pong](https://github.com/jakesgordon/javascript-pong) - A javascript version of the classic 1972 arcade game Pong!
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - The Open Source alternative to LinkTree. A hub to showcase YOUR links and content
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [AnsonH/youtube-playlist-export](https://github.com/AnsonH/youtube-playlist-export) - Node.js command line app for exporting video data from a YouTube playlist to a JSON/CSV file.
 - [ChristopherChudzicki/math3d-react](https://github.com/ChristopherChudzicki/math3d-react) - A user-friendly 3d graphing calculator for the web. Create, share, and animate 3d mathematical scenes.
 - [tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
@@ -569,17 +570,20 @@
 
 ## PowerShell 
 
+- [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy) - Easy script for running youtube-dl with basic options
 - [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 
 ## Python 
 
+- [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
 - [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/, though this may change soon! (see https://trac.sagemath.org/ticket/30363
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
 - [Jxck-S/FAA-registry-checker](https://github.com/Jxck-S/FAA-registry-checker) - Checks FAA Registry daily for new aircraft registered by certain owners as configured.
 - [Jxck-S/spacex-droneship-bot](https://github.com/Jxck-S/spacex-droneship-bot) - Twitter bot for tracking SpaceX droneships
 - [Jxck-S/TFR-Scraper](https://github.com/Jxck-S/TFR-Scraper) - Scrapes TFRs from FAA site
-- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
 - [georgebrock/git-browse](https://github.com/georgebrock/git-browse) - Like git blame, but interactive.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kerichdev/spoticode-generator](https://github.com/kerichdev/spoticode-generator) - A simple python script to generate Spotify Codes (cool waveforms). Not scannable.
@@ -713,6 +717,7 @@
 
 ## TypeScript 
 
+- [staltz/matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz) - 
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
