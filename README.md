@@ -165,6 +165,7 @@
 
 ## Elixir 
 
+- [2016rshah/comet](https://github.com/2016rshah/comet) - :dizzy: GET your latest github commit
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 - [dwyl/hits](https://github.com/dwyl/hits) - :chart_with_upwards_trend: General purpose hits (page views) counter
 
@@ -224,6 +225,8 @@
 
 ## Haskell 
 
+- [2016rshah/Tic-Hack-Toe](https://github.com/2016rshah/Tic-Hack-Toe) - :x: :o: TicTacToe in Haskell.
+- [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Java 
@@ -247,6 +250,8 @@
 
 ## JavaScript 
 
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
+- [2016rshah/mergify](https://github.com/2016rshah/mergify) - :musical_note: Merge spotify playlists from anywhere.
 - [samholmes/node-open-graph](https://github.com/samholmes/node-open-graph) - An Open Graph implementation for Node.js.
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
@@ -576,6 +581,7 @@
 
 ## Python 
 
+- [ZippyCodeYT/Zippy_Codes](https://github.com/ZippyCodeYT/Zippy_Codes) - Codes I used in my YouTube videos
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
 - [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/, though this may change soon! (see https://trac.sagemath.org/ticket/30363
@@ -647,6 +653,9 @@
 
 ## Ruby 
 
+- [2016rshah/article-generator](https://github.com/2016rshah/article-generator) - :newspaper: Makes articles look like they are on CNN.
+- [2016rshah/bookshelf](https://github.com/2016rshah/bookshelf) - :books: Showcase the books you have read.
+- [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 - [Zo-Bro-23/netra-website](https://github.com/Zo-Bro-23/netra-website) - A portfolio website I built for my cousin
 - [evrone/vocabulary](https://github.com/evrone/vocabulary) - Wrapper for unofficial Google Dictionary API
 - [jakesgordon/sprite-factory](https://github.com/jakesgordon/sprite-factory) - Automatic CSS Sprite Generator
