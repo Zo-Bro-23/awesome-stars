@@ -43,6 +43,7 @@
 - [elixir](#elixir)
 - [emoji](#emoji)
 - [english](#english)
+- [eslint](#eslint)
 - [express](#express)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -470,6 +471,10 @@
 
 - [MinhasKamal/AlphabetRecognizer](https://github.com/MinhasKamal/AlphabetRecognizer) - Simple Optical Character Recognizer (english-ocr-image-to-text-recognition-sample-trainig-alphabet-photo-data-database-dataset)
 
+## eslint 
+
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
+
 ## express 
 
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
@@ -543,6 +548,7 @@
 
 ## github 
 
+- [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
@@ -571,6 +577,7 @@
 
 ## github-api 
 
+- [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [jamesgeorge007/GitHub-Mate](https://github.com/jamesgeorge007/GitHub-Mate) - This is the web implementation of github-mate Desktop app using the Flask web application framework with extended capabilities.
@@ -680,6 +687,7 @@
 
 ## haskell 
 
+- [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## homebrew 
@@ -801,6 +809,7 @@
 
 ## jekyll 
 
+- [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
 - [jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -841,6 +850,7 @@
 
 ## latex 
 
+- [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
 - [DXsmiley/LatexBot](https://github.com/DXsmiley/LatexBot) - Discord bot that renders LaTeX equations.
 - [DXsmiley/rtex](https://github.com/DXsmiley/rtex) - Minimal LaTeX rendering server
 - [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
@@ -982,6 +992,7 @@
 
 ## nodejs 
 
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [coreybutler/node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1073,6 +1084,12 @@
 
 ## others 
 
+- [ZippyCodeYT/Zippy_Codes](https://github.com/ZippyCodeYT/Zippy_Codes) - Codes I used in my YouTube videos
+- [2016rshah/comet](https://github.com/2016rshah/comet) - :dizzy: GET your latest github commit
+- [2016rshah/mergify](https://github.com/2016rshah/mergify) - :musical_note: Merge spotify playlists from anywhere.
+- [2016rshah/article-generator](https://github.com/2016rshah/article-generator) - :newspaper: Makes articles look like they are on CNN.
+- [2016rshah/bookshelf](https://github.com/2016rshah/bookshelf) - :books: Showcase the books you have read.
+- [2016rshah/Tic-Hack-Toe](https://github.com/2016rshah/Tic-Hack-Toe) - :x: :o: TicTacToe in Haskell.
 - [staltz/matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz) - 
 - [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy) - Easy script for running youtube-dl with basic options
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
