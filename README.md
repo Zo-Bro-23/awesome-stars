@@ -32,6 +32,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
+- [Processing](#processing)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -45,6 +46,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [XSLT](#xslt)
 
 ## ActionScript 
 
@@ -64,6 +66,7 @@
 
 ## C 
 
+- [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [exeldro/obs-time-shift](https://github.com/exeldro/obs-time-shift) - 
 - [exeldro/obs-dir-watch-media](https://github.com/exeldro/obs-dir-watch-media) - 
@@ -108,6 +111,7 @@
 - [MinhasKamal/ProgrammerTransformation](https://github.com/MinhasKamal/ProgrammerTransformation) - The Insipid Journey of Homo Programmer (naive-novice-beginner-super-god-transformation-evolution-improvement-programmer-coder-software-engineer)
 - [MinhasKamal/StupidKeylogger](https://github.com/MinhasKamal/StupidKeylogger) - A Terrific Keystroke Recorder
 - [MinhasKamal/TrojanCockroach](https://github.com/MinhasKamal/TrojanCockroach) - A Stealthy Trojan Spyware
+- [exeldro/obs-device-switcher](https://github.com/exeldro/obs-device-switcher) - 
 - [exeldro/obs-scene-collection-manager](https://github.com/exeldro/obs-scene-collection-manager) - 
 - [exeldro/obs-source-dock](https://github.com/exeldro/obs-source-dock) - 
 - [exeldro/obs-downstream-keyer](https://github.com/exeldro/obs-downstream-keyer) - 
@@ -123,7 +127,6 @@
 ## CMake 
 
 - [exeldro/obs-source-clone](https://github.com/exeldro/obs-source-clone) - 
-- [exeldro/obs-device-switcher](https://github.com/exeldro/obs-device-switcher) - 
 - [exeldro/obs-setting-docks](https://github.com/exeldro/obs-setting-docks) - 
 - [exeldro/obs-time-warp-scan](https://github.com/exeldro/obs-time-warp-scan) - 
 - [exeldro/obs-scene-notes-dock](https://github.com/exeldro/obs-scene-notes-dock) - 
@@ -250,6 +253,8 @@
 
 ## JavaScript 
 
+- [krateng/albula](https://github.com/krateng/albula) - Minimalist self-hosted music server
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [2016rshah/mergify](https://github.com/2016rshah/mergify) - :musical_note: Merge spotify playlists from anywhere.
 - [samholmes/node-open-graph](https://github.com/samholmes/node-open-graph) - An Open Graph implementation for Node.js.
@@ -513,6 +518,7 @@
 
 ## Others 
 
+- [carykh/EvolutionSimulator2D](https://github.com/carykh/EvolutionSimulator2D) - This is my old evolution simulator from July 2016. I guess that's not THAT long ago...
 - [patzly/grocy-android-unlock](https://github.com/patzly/grocy-android-unlock) - Unlock AI-based barcode scanning in Grocy Android
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -562,6 +568,7 @@
 
 ## PHP 
 
+- [mattl/librefm](https://github.com/mattl/librefm) - 
 - [hansott/lastify](https://github.com/hansott/lastify) - 🔄 Syncs your music between Last.fm and Spotify
 - [hansott/spotify-backupper](https://github.com/hansott/spotify-backupper) - 💽 creates backups of your Spotify library
 - [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - 🏴‍☠ A hack to read emails on a Slack channel while staying in free plan
@@ -579,8 +586,26 @@
 - [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 
+## Processing 
+
+- [carykh/neuralNetworkLanguageDetection](https://github.com/carykh/neuralNetworkLanguageDetection) - The first neural network I've ever made to improve itself with gradient descent, made on Nov. 20, 2016
+- [carykh/yoyleCityWords](https://github.com/carykh/yoyleCityWords) - This is a city renderer I created in 2013. It's all hacked together and very slow, so watch out. Explanation video here: https://www.youtube.com/watch?v=y0nsXiI_I9c
+- [carykh/AbacabaCOVID19](https://github.com/carykh/AbacabaCOVID19) - A dumping ground of all my COVID-19 visualizations posted here: https://www.youtube.com/user/1abacaba1/videos
+- [carykh/evolutionSteer](https://github.com/carykh/evolutionSteer) - Evolution simulator of creatures learning how to steer towards food pellets better and better.
+- [carykh/VirusGame](https://github.com/carykh/VirusGame) - Watch here for information about this project: https://www.youtube.com/watch?v=o1IheoDRdGE
+
 ## Python 
 
+- [krateng/doreah](https://github.com/krateng/doreah) - Personal package of helpful utilities
+- [krateng/surselva](https://github.com/krateng/surselva) - Self-hosted website for youtube video downloads
+- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
+- [yarkhinephyo/audio_to_slideshow](https://github.com/yarkhinephyo/audio_to_slideshow) - A script that automatically converts an audio file into a video with subtitles and relevant images
+- [carykh/chineseCharacterConverter](https://github.com/carykh/chineseCharacterConverter) - We're trying to convert traditional Chinese characters to simplified ones.
+- [carykh/rapLyrics](https://github.com/carykh/rapLyrics) - "Source code" for this video: https://www.youtube.com/watch?v=a0EyfdQ0QTQ I'm only adding 1 file here bc I didn't actually code that much.
+- [carykh/videoToVoice](https://github.com/carykh/videoToVoice) - takes in a sequence of lip images, and predicts the phonemes being said.
+- [carykh/alignedCelebFaces](https://github.com/carykh/alignedCelebFaces) - Better version of my face editing tool. Explanation video here: https://www.youtube.com/watch?v=NTlXEJjfsQU
+- [carykh/PrisonersDilemmaTournament](https://github.com/carykh/PrisonersDilemmaTournament) - Watch This Place's awesome video about iterated Prisoner's Dilemma for context! https://www.youtube.com/watch?v=BOvAbjfJ0x0
+- [carykh/lazykh](https://github.com/carykh/lazykh) - Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY
 - [ZippyCodeYT/Zippy_Codes](https://github.com/ZippyCodeYT/Zippy_Codes) - Codes I used in my YouTube videos
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
@@ -710,6 +735,7 @@
 
 ## Swift 
 
+- [mxcl/Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [dkhamsing/fastmdb](https://github.com/dkhamsing/fastmdb) - :mag: Fast iOS app to browse and search movies, tv, actors, credits
@@ -827,6 +853,10 @@
 - [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
+
+## XSLT 
+
+- [lastfm/lastfm-android](https://github.com/lastfm/lastfm-android) - The official Last.fm Android application suite
 
 
 ## License
