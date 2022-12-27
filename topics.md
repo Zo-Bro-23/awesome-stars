@@ -290,6 +290,7 @@
 
 ## chrome-extension 
 
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [plibither8/markdown-new-tab](https://github.com/plibither8/markdown-new-tab) - 🗒️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page
 - [DaAwesomeP/tab-counter](https://github.com/DaAwesomeP/tab-counter) - A button badge that shows the number of tabs open in a window
@@ -628,6 +629,7 @@
 
 ## hacktoberfest 
 
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [shravan20/LearningResources](https://github.com/shravan20/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [Tyrrrz/Onova](https://github.com/Tyrrrz/Onova) - Unopinionated auto-update framework for desktop applications
@@ -955,6 +957,8 @@
 
 ## music 
 
+- [krateng/albula](https://github.com/krateng/albula) - Minimalist self-hosted music server
+- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [Korilakkuma/XSound](https://github.com/Korilakkuma/XSound) - XSound gives Web Developers Powerful Audio Features Easily !
@@ -1084,6 +1088,24 @@
 
 ## others 
 
+- [krateng/doreah](https://github.com/krateng/doreah) - Personal package of helpful utilities
+- [krateng/surselva](https://github.com/krateng/surselva) - Self-hosted website for youtube video downloads
+- [lastfm/lastfm-android](https://github.com/lastfm/lastfm-android) - The official Last.fm Android application suite
+- [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
+- [mattl/librefm](https://github.com/mattl/librefm) - 
+- [yarkhinephyo/audio_to_slideshow](https://github.com/yarkhinephyo/audio_to_slideshow) - A script that automatically converts an audio file into a video with subtitles and relevant images
+- [carykh/EvolutionSimulator2D](https://github.com/carykh/EvolutionSimulator2D) - This is my old evolution simulator from July 2016. I guess that's not THAT long ago...
+- [carykh/chineseCharacterConverter](https://github.com/carykh/chineseCharacterConverter) - We're trying to convert traditional Chinese characters to simplified ones.
+- [carykh/neuralNetworkLanguageDetection](https://github.com/carykh/neuralNetworkLanguageDetection) - The first neural network I've ever made to improve itself with gradient descent, made on Nov. 20, 2016
+- [carykh/yoyleCityWords](https://github.com/carykh/yoyleCityWords) - This is a city renderer I created in 2013. It's all hacked together and very slow, so watch out. Explanation video here: https://www.youtube.com/watch?v=y0nsXiI_I9c
+- [carykh/AbacabaCOVID19](https://github.com/carykh/AbacabaCOVID19) - A dumping ground of all my COVID-19 visualizations posted here: https://www.youtube.com/user/1abacaba1/videos
+- [carykh/evolutionSteer](https://github.com/carykh/evolutionSteer) - Evolution simulator of creatures learning how to steer towards food pellets better and better.
+- [carykh/rapLyrics](https://github.com/carykh/rapLyrics) - "Source code" for this video: https://www.youtube.com/watch?v=a0EyfdQ0QTQ I'm only adding 1 file here bc I didn't actually code that much.
+- [carykh/VirusGame](https://github.com/carykh/VirusGame) - Watch here for information about this project: https://www.youtube.com/watch?v=o1IheoDRdGE
+- [carykh/videoToVoice](https://github.com/carykh/videoToVoice) - takes in a sequence of lip images, and predicts the phonemes being said.
+- [carykh/alignedCelebFaces](https://github.com/carykh/alignedCelebFaces) - Better version of my face editing tool. Explanation video here: https://www.youtube.com/watch?v=NTlXEJjfsQU
+- [carykh/PrisonersDilemmaTournament](https://github.com/carykh/PrisonersDilemmaTournament) - Watch This Place's awesome video about iterated Prisoner's Dilemma for context! https://www.youtube.com/watch?v=BOvAbjfJ0x0
+- [carykh/lazykh](https://github.com/carykh/lazykh) - Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY
 - [ZippyCodeYT/Zippy_Codes](https://github.com/ZippyCodeYT/Zippy_Codes) - Codes I used in my YouTube videos
 - [2016rshah/comet](https://github.com/2016rshah/comet) - :dizzy: GET your latest github commit
 - [2016rshah/mergify](https://github.com/2016rshah/mergify) - :musical_note: Merge spotify playlists from anywhere.
@@ -1546,6 +1568,7 @@
 
 ## server 
 
+- [krateng/albula](https://github.com/krateng/albula) - Minimalist self-hosted music server
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
@@ -1572,11 +1595,13 @@
 
 ## statistics 
 
+- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
 ## swift 
 
+- [mxcl/Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [dkhamsing/fastmdb](https://github.com/dkhamsing/fastmdb) - :mag: Fast iOS app to browse and search movies, tv, actors, credits
