@@ -962,6 +962,7 @@
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [Korilakkuma/XSound](https://github.com/Korilakkuma/XSound) - XSound gives Web Developers Powerful Audio Features Easily !
+- [Zo-Bro-23/youtube-music](https://github.com/Zo-Bro-23/youtube-music) - Fork of @th-ch/youtube-music
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [wsmd/github-now-playing](https://github.com/wsmd/github-now-playing) - 🎵 Display what you're listening to right on your Github profile
 - [addyett/mel](https://github.com/addyett/mel) - a simple interactive command line tool written in python for playing music with sweet features
@@ -1155,7 +1156,6 @@
 - [Korilakkuma/ActionAudioAPI](https://github.com/Korilakkuma/ActionAudioAPI) - ActionScript 3.0 Library like Web Audio API
 - [Korilakkuma/XSound.app](https://github.com/Korilakkuma/XSound.app) - Web Music Application by XSound
 - [Korilakkuma/XSound.js](https://github.com/Korilakkuma/XSound.js) - HTML5 Web Audio API Library
-- [Zo-Bro-23/youtube-music](https://github.com/Zo-Bro-23/youtube-music) - Fork of @th-ch/youtube-music
 - [Zo-Bro-23/discord-readme-badge](https://github.com/Zo-Bro-23/discord-readme-badge) - Fork of @Zyplos/discord-readme-badge
 - [Zo-Bro-23/himandher](https://github.com/Zo-Bro-23/himandher) - Fork of @shenuja/himandher
 - [Zo-Bro-23/view-count-badge](https://github.com/Zo-Bro-23/view-count-badge) - Generates badges for showing view counts using Count API and Custom Icon Badges
