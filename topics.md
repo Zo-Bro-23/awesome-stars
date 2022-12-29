@@ -34,6 +34,7 @@
 - [data](#data)
 - [data-visualization](#data-visualization)
 - [database](#database)
+- [deployment](#deployment)
 - [design](#design)
 - [discord](#discord)
 - [docker](#docker)
@@ -174,6 +175,7 @@
 
 ## api 
 
+- [Zo-Bro-23/githubusercontent](https://github.com/Zo-Bro-23/githubusercontent) - My ISP blocked the raw.githubusercontent.com domain (😕), so I wrote code to bypass the restriction!
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api) - Programming Quotes API for open source projects.
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
@@ -200,6 +202,11 @@
 
 ## awesome 
 
+- [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
+- [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
+- [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
@@ -366,6 +373,7 @@
 
 ## css 
 
+- [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
@@ -393,6 +401,10 @@
 
 - [MinhasKamal/AlphabetRecognizer](https://github.com/MinhasKamal/AlphabetRecognizer) - Simple Optical Character Recognizer (english-ocr-image-to-text-recognition-sample-trainig-alphabet-photo-data-database-dataset)
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+
+## deployment 
+
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 
 ## design 
 
@@ -465,6 +477,7 @@
 
 ## emoji 
 
+- [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
@@ -527,6 +540,7 @@
 - [Platane/js13k-2017](https://github.com/Platane/js13k-2017) - 🖼️ Vernissage !
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [triplea-game/triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
+- [Zo-Bro-23/c29](https://github.com/Zo-Bro-23/c29) - C29 - Configure your Logitech G29!
 - [octokatherine/word-master](https://github.com/octokatherine/word-master) - A Mastermind-like word guessing game
 
 ## game-development 
@@ -553,6 +567,7 @@
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
+- [Zo-Bro-23/Zo-Bro-23](https://github.com/Zo-Bro-23/Zo-Bro-23) - My profile repo!
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
@@ -698,6 +713,8 @@
 
 ## html 
 
+- [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
+- [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [prashantsengar/mTracker](https://github.com/prashantsengar/mTracker) - An email tracker built with Python and Flask
@@ -811,6 +828,10 @@
 
 ## jekyll 
 
+- [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
+- [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
+- [MihajloNesic/jekyll-pdf-embed](https://github.com/MihajloNesic/jekyll-pdf-embed) - :page_facing_up: :pushpin: Jekyll plugin for embedding PDF and PowerPoint files to any page or post
 - [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
 - [jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
@@ -821,6 +842,7 @@
 
 ## jekyll-theme 
 
+- [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [abhinavs/moonwalk](https://github.com/abhinavs/moonwalk) - A fast & minimal Jekyll blog theme with clean dark mode
 - [sharadcodes/jekyll-theme-dark-reader](https://github.com/sharadcodes/jekyll-theme-dark-reader) - A Minimal Dark theme for jekyll with minimal CSS and blazing fast loading of pages by Sharad Raj Singh Maurya
 
@@ -852,6 +874,7 @@
 
 ## latex 
 
+- [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
 - [DXsmiley/LatexBot](https://github.com/DXsmiley/LatexBot) - Discord bot that renders LaTeX equations.
 - [DXsmiley/rtex](https://github.com/DXsmiley/rtex) - Minimal LaTeX rendering server
@@ -916,6 +939,7 @@
 
 ## markdown 
 
+- [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [ashmonty/discord-md-badge](https://github.com/ashmonty/discord-md-badge) - Add to your GitHub readme a badge that shows your Discord username and presence, or a server invite!
@@ -957,6 +981,7 @@
 
 ## music 
 
+- [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [krateng/albula](https://github.com/krateng/albula) - Minimalist self-hosted music server
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
@@ -1056,6 +1081,7 @@
 
 ## npm 
 
+- [Zo-Bro-23/population-simulation](https://github.com/Zo-Bro-23/population-simulation) - NPM package that runs population simulations based on Hardy-Weinberg principles
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
@@ -1160,8 +1186,6 @@
 - [Zo-Bro-23/himandher](https://github.com/Zo-Bro-23/himandher) - Fork of @shenuja/himandher
 - [Zo-Bro-23/view-count-badge](https://github.com/Zo-Bro-23/view-count-badge) - Generates badges for showing view counts using Count API and Custom Icon Badges
 - [Zo-Bro-23/netra-website](https://github.com/Zo-Bro-23/netra-website) - A portfolio website I built for my cousin
-- [Zo-Bro-23/terminal-portfolio](https://github.com/Zo-Bro-23/terminal-portfolio) - Fork of @aarush-narang/portfolio
-- [Zo-Bro-23/Zo-Bro-23](https://github.com/Zo-Bro-23/Zo-Bro-23) - My profile repo!
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype
 - [shravan20/software-installation-guides](https://github.com/shravan20/software-installation-guides) - Installation Guide for various development software, tools and packages
 - [evrone/vocabulary](https://github.com/evrone/vocabulary) - Wrapper for unofficial Google Dictionary API
@@ -1334,14 +1358,12 @@
 - [lowerquality/gentle](https://github.com/lowerquality/gentle) - gentle forced aligner
 - [carykh/jumpcutter](https://github.com/carykh/jumpcutter) - Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 - [carykh/WordleEdit](https://github.com/carykh/WordleEdit) - Multiplayer game that plays a version of Wordle where players can edit their own words as they go. Runs as a Discord bot!
-- [Zo-Bro-23/writing-stats-web](https://github.com/Zo-Bro-23/writing-stats-web) - A website that shows you your various writing stats such as Word Count, Paragraph Density, etc
 - [Zo-Bro-23/youtube-live-chat-overlay](https://github.com/Zo-Bro-23/youtube-live-chat-overlay) - NOTE: NOT COMPLETED! Trying to build a website which helps you customize and add YouTube live chat to OBS and other streaming software! Also planning to add banner support for showing special comments
 - [Zo-Bro-23/newton-method](https://github.com/Zo-Bro-23/newton-method) - This is a simple package demonstrating the Newton Method for finding roots of a function.
 - [Zo-Bro-23/zoauth-encryptions](https://github.com/Zo-Bro-23/zoauth-encryptions) - NOTE: CLIENT-SIDE APPLICATION NOT COMPLETED (DEMO APP)! Trying to build an app which encrypts using your location... Only the encryption and decryption API is complete. Location thing doesn't work...
 - [Zo-Bro-23/discord-prank](https://github.com/Zo-Bro-23/discord-prank) - Discord prank... Go to https://discord.com/developers, create a bot, and copy the id. Clone the repo, and add a file called cred.json in this format: {bot: 'yourUniqueId'}. Run index.js with NodeJS 14
 - [Zo-Bro-23/html-demo](https://github.com/Zo-Bro-23/html-demo) - A site to show people the potential of HTML... I'm currently following this website: https://www.w3schools.com/html/, and I am trying to include everything they talk about there.
 - [Zo-Bro-23/minecraft-afk-bot](https://github.com/Zo-Bro-23/minecraft-afk-bot) - NOTE: NOT COMPLETED! A bot to make sure that my Minecraft server doesn't shut off after I leave it.
-- [Zo-Bro-23/newton-method-web](https://github.com/Zo-Bro-23/newton-method-web) - A website that uses Newton's Method to calculate the root of a function
 - [Zo-Bro-23/zoauth-demoApp](https://github.com/Zo-Bro-23/zoauth-demoApp) - Demo app for the ZoAuth npm package...
 - [Zo-Bro-23/automatic-git-commits](https://github.com/Zo-Bro-23/automatic-git-commits) - NOTE: NOT COMPLETED! Will create a repo on GitHub, initiliaze one locally, stage and commit all changes continuously AND pull and push periodically!!
 - [Zo-Bro-23/adventurer-3-communication](https://github.com/Zo-Bro-23/adventurer-3-communication) - NOTE: NOT COMPLETED! Testing out a reverse-engineered API for the Adventurer 3! Also have plans to integrate with PushBullet to remotely access my printer.
@@ -1371,7 +1393,6 @@
 - [Zo-Bro-23/web-captioner-obs-integration](https://github.com/Zo-Bro-23/web-captioner-obs-integration) - An application to show live captions in OBS with custom CSS using the browser source!
 - [Zo-Bro-23/writing-stats](https://github.com/Zo-Bro-23/writing-stats) - This is a simple package to get stats (such as word count, paragraph density, etc) from a TXT file.
 - [Zo-Bro-23/meme-bot](https://github.com/Zo-Bro-23/meme-bot) - A meme bot for Discord... Go to https://discord.com/developers, create a bot, and copy the id. Clone the repo, and add a file called cred.json in this format: {bot: 'yourUniqueId'}. Run index.js with 
-- [Zo-Bro-23/c29](https://github.com/Zo-Bro-23/c29) - C29 - Configure your Logitech G29!
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [qntm/t-a-i](https://github.com/qntm/t-a-i) - Converts Unix milliseconds to and from International Atomic Time (TAI) milliseconds
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece
@@ -1555,6 +1576,7 @@
 
 ## ruby 
 
+- [MihajloNesic/jekyll-pdf-embed](https://github.com/MihajloNesic/jekyll-pdf-embed) - :page_facing_up: :pushpin: Jekyll plugin for embedding PDF and PowerPoint files to any page or post
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [sharadcodes/jekyll-theme-dark-reader](https://github.com/sharadcodes/jekyll-theme-dark-reader) - A Minimal Dark theme for jekyll with minimal CSS and blazing fast loading of pages by Sharad Raj Singh Maurya
@@ -1580,6 +1602,7 @@
 
 ## shell 
 
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command line processes
@@ -1628,6 +1651,8 @@
 
 ## terminal 
 
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [Zo-Bro-23/terminal-portfolio](https://github.com/Zo-Bro-23/terminal-portfolio) - Fork of @aarush-narang/portfolio
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
@@ -1667,6 +1692,7 @@
 
 ## vim 
 
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [agarrharr/settings](https://github.com/agarrharr/settings) - 🖥 🛠 My macOS and GNU+Linux settings and dotfiles
 
 ## visual-studio-code 
@@ -1690,14 +1716,18 @@
 
 ## webapp 
 
+- [Zo-Bro-23/population-simulation-web](https://github.com/Zo-Bro-23/population-simulation-web) - A website that runs population (genetics) simulations based on Hardy-Weinberg principles
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [JacobLinCool/Clubhouse-Avatar-Pro](https://github.com/JacobLinCool/Clubhouse-Avatar-Pro) - A simple but powerful web app that helps you to create excellent Clubhouse avatars with beautiful borders. Free, secure, and highly customizable.
 - [jamesgeorge007/Crypto-Compare](https://github.com/jamesgeorge007/Crypto-Compare) - Comparison chart between popular cryptocurrencies.
 - [jamesgeorge007/Mini-Social-Media](https://github.com/jamesgeorge007/Mini-Social-Media) - Mini Social Media backed up by Laravel and MySQL.
 - [msaaddev/open-source](https://github.com/msaaddev/open-source) - ⚡️ A comprehensive list of all the open-source work I have done over the years. Authored 20+ open-source software that includes automation tools, node packages, web applications, etc.
+- [Zo-Bro-23/writing-stats-web](https://github.com/Zo-Bro-23/writing-stats-web) - A website that shows you your various writing stats such as Word Count, Paragraph Density, etc
+- [Zo-Bro-23/newton-method-web](https://github.com/Zo-Bro-23/newton-method-web) - A website that uses Newton's Method to calculate the root of a function
 
 ## website 
 
+- [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [eggsy/lanyard-web](https://github.com/eggsy/lanyard-web) - 🏷 Landing page and API documentation concept for Lanyard API.
 - [DXsmiley/Whiteboard](https://github.com/DXsmiley/Whiteboard) - An online whiteboard
 - [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com) - The Annoying Site a.k.a. "The Power of the Web Platform"
