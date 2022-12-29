@@ -195,6 +195,8 @@
 
 ## HTML 
 
+- [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
+- [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
 - [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
@@ -253,6 +255,9 @@
 
 ## JavaScript 
 
+- [Zo-Bro-23/githubusercontent](https://github.com/Zo-Bro-23/githubusercontent) - My ISP blocked the raw.githubusercontent.com domain (😕), so I wrote code to bypass the restriction!
+- [Zo-Bro-23/population-simulation-web](https://github.com/Zo-Bro-23/population-simulation-web) - A website that runs population (genetics) simulations based on Hardy-Weinberg principles
+- [Zo-Bro-23/population-simulation](https://github.com/Zo-Bro-23/population-simulation) - NPM package that runs population simulations based on Hardy-Weinberg principles
 - [krateng/albula](https://github.com/krateng/albula) - Minimalist self-hosted music server
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -678,6 +683,8 @@
 
 ## Ruby 
 
+- [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
+- [MihajloNesic/jekyll-pdf-embed](https://github.com/MihajloNesic/jekyll-pdf-embed) - :page_facing_up: :pushpin: Jekyll plugin for embedding PDF and PowerPoint files to any page or post
 - [2016rshah/article-generator](https://github.com/2016rshah/article-generator) - :newspaper: Makes articles look like they are on CNN.
 - [2016rshah/bookshelf](https://github.com/2016rshah/bookshelf) - :books: Showcase the books you have read.
 - [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
@@ -718,6 +725,8 @@
 
 ## Shell 
 
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [shravan20/software-installation-guides](https://github.com/shravan20/software-installation-guides) - Installation Guide for various development software, tools and packages
 - [MrS0m30n3/movies-for-hackers](https://github.com/MrS0m30n3/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
