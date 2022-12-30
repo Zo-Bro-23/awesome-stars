@@ -1115,6 +1115,10 @@
 
 ## others 
 
+- [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
+- [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
+- [GNOME/gnome-sudoku](https://github.com/GNOME/gnome-sudoku) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-sudoku
+- [GNOME/gnome-mines](https://github.com/GNOME/gnome-mines) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-mines
 - [krateng/doreah](https://github.com/krateng/doreah) - Personal package of helpful utilities
 - [krateng/surselva](https://github.com/krateng/surselva) - Self-hosted website for youtube video downloads
 - [lastfm/lastfm-android](https://github.com/lastfm/lastfm-android) - The official Last.fm Android application suite
