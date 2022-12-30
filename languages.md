@@ -44,6 +44,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
@@ -66,6 +67,8 @@
 
 ## C 
 
+- [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
+- [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [exeldro/obs-time-shift](https://github.com/exeldro/obs-time-shift) - 
@@ -848,6 +851,11 @@
 - [Savjee/google-sheets-wrapper](https://github.com/Savjee/google-sheets-wrapper) - Lightweight wrapper around the official Google Sheets API that makes it easy to read/write rows
 - [andycb/AdventurerClientJS](https://github.com/andycb/AdventurerClientJS) - An unofficial cross platform client for working with the Monoprice Voxel or Flashforge Adventurer 3
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
+## Vala 
+
+- [GNOME/gnome-sudoku](https://github.com/GNOME/gnome-sudoku) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-sudoku
+- [GNOME/gnome-mines](https://github.com/GNOME/gnome-mines) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-mines
 
 ## Vim Script 
 
