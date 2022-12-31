@@ -14,6 +14,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
@@ -82,6 +83,7 @@
 - [json](#json)
 - [kotlin](#kotlin)
 - [language](#language)
+- [laravel](#laravel)
 - [latex](#latex)
 - [learning](#learning)
 - [library](#library)
@@ -246,6 +248,10 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [ManimCommunity/awesome-manim](https://github.com/ManimCommunity/awesome-manim) - A database with many Manim users and content creators
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
+
+## aws 
+
+- [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) - A Sidecar function to run Browsershot on Lambda.
 
 ## azure 
 
@@ -554,6 +560,7 @@
 
 ## git 
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [msaaddev/git-commands-workflows](https://github.com/msaaddev/git-commands-workflows) - 🚀 All the git commands and workflows you need to know
@@ -563,6 +570,7 @@
 
 ## github 
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
@@ -872,6 +880,13 @@
 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
+## laravel 
+
+- [stefanzweifel/diary-app](https://github.com/stefanzweifel/diary-app) - 🔐An End-To-End Encrypted Diary Web App
+- [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) - A Sidecar function to run Browsershot on Lambda.
+- [stefanzweifel/screeenly](https://github.com/stefanzweifel/screeenly) - 📸  Screenshot as a Service
+- [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
+
 ## latex 
 
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
@@ -1115,6 +1130,8 @@
 
 ## others 
 
+- [stefanzweifel/laravel-sends](https://github.com/stefanzweifel/laravel-sends) - A package to keep track of outgoing emails in your Laravel application.
+- [suisei-cn/actions-download-file](https://github.com/suisei-cn/actions-download-file) - An action used to filter out a URL and download files for further works.
 - [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [GNOME/gnome-sudoku](https://github.com/GNOME/gnome-sudoku) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-sudoku
@@ -1475,6 +1492,8 @@
 
 ## php 
 
+- [stefanzweifel/screeenly](https://github.com/stefanzweifel/screeenly) - 📸  Screenshot as a Service
+- [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
 - [hansott/lastify](https://github.com/hansott/lastify) - 🔄 Syncs your music between Last.fm and Spotify
 - [jamesgeorge007/Mini-Social-Media](https://github.com/jamesgeorge007/Mini-Social-Media) - Mini Social Media backed up by Laravel and MySQL.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
@@ -1622,6 +1641,7 @@
 
 ## statistics 
 
+- [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
@@ -1706,6 +1726,7 @@
 
 ## vue 
 
+- [stefanzweifel/diary-app](https://github.com/stefanzweifel/diary-app) - 🔐An End-To-End Encrypted Diary Web App
 - [eggsy/lanyard-web](https://github.com/eggsy/lanyard-web) - 🏷 Landing page and API documentation concept for Lanyard API.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
