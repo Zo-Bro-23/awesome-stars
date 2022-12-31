@@ -258,6 +258,7 @@
 
 ## JavaScript 
 
+- [suisei-cn/actions-download-file](https://github.com/suisei-cn/actions-download-file) - An action used to filter out a URL and download files for further works.
 - [Zo-Bro-23/githubusercontent](https://github.com/Zo-Bro-23/githubusercontent) - My ISP blocked the raw.githubusercontent.com domain (😕), so I wrote code to bypass the restriction!
 - [Zo-Bro-23/population-simulation-web](https://github.com/Zo-Bro-23/population-simulation-web) - A website that runs population (genetics) simulations based on Hardy-Weinberg principles
 - [Zo-Bro-23/population-simulation](https://github.com/Zo-Bro-23/population-simulation) - NPM package that runs population simulations based on Hardy-Weinberg principles
@@ -576,6 +577,11 @@
 
 ## PHP 
 
+- [stefanzweifel/laravel-sends](https://github.com/stefanzweifel/laravel-sends) - A package to keep track of outgoing emails in your Laravel application.
+- [stefanzweifel/diary-app](https://github.com/stefanzweifel/diary-app) - 🔐An End-To-End Encrypted Diary Web App
+- [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) - A Sidecar function to run Browsershot on Lambda.
+- [stefanzweifel/screeenly](https://github.com/stefanzweifel/screeenly) - 📸  Screenshot as a Service
+- [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
 - [mattl/librefm](https://github.com/mattl/librefm) - 
 - [hansott/lastify](https://github.com/hansott/lastify) - 🔄 Syncs your music between Last.fm and Spotify
 - [hansott/spotify-backupper](https://github.com/hansott/spotify-backupper) - 💽 creates backups of your Spotify library
@@ -728,6 +734,7 @@
 
 ## Shell 
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
