@@ -406,7 +406,6 @@
 - [anuraghazra/CanvasFun](https://github.com/anuraghazra/CanvasFun) - :heart: Creative Coding Projects
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [yochrisbolton/terminal-adventure-framework](https://github.com/yochrisbolton/terminal-adventure-framework) - Choose-your-own-adventure terminal mini-framework
-- [yochrisbolton/simpleForum](https://github.com/yochrisbolton/simpleForum) - Just another MVP
 - [yochrisbolton/chrisbolton.dev](https://github.com/yochrisbolton/chrisbolton.dev) - Personal landing page
 - [discord/discord-open-source](https://github.com/discord/discord-open-source) - List of open source communities living on Discord
 - [behackl/manim-with-ease](https://github.com/behackl/manim-with-ease) - Tutorial series for the community maintained version of Manim, https://www.manim.community
@@ -527,6 +526,7 @@
 
 ## Others 
 
+- [miketheman/awesome-taglines](https://github.com/miketheman/awesome-taglines) - Awesome list of software taglines
 - [carykh/EvolutionSimulator2D](https://github.com/carykh/EvolutionSimulator2D) - This is my old evolution simulator from July 2016. I guess that's not THAT long ago...
 - [patzly/grocy-android-unlock](https://github.com/patzly/grocy-android-unlock) - Unlock AI-based barcode scanning in Grocy Android
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
