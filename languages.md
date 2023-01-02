@@ -692,6 +692,7 @@
 
 ## Ruby 
 
+- [abhinavs/jekyll-soopr-seo-tag](https://github.com/abhinavs/jekyll-soopr-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [MihajloNesic/jekyll-pdf-embed](https://github.com/MihajloNesic/jekyll-pdf-embed) - :page_facing_up: :pushpin: Jekyll plugin for embedding PDF and PowerPoint files to any page or post
 - [2016rshah/article-generator](https://github.com/2016rshah/article-generator) - :newspaper: Makes articles look like they are on CNN.
@@ -771,6 +772,7 @@
 
 ## TypeScript 
 
+- [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [staltz/matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz) - 
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
