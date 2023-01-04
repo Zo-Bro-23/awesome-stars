@@ -1,0 +1,11 @@
+project_entries:
+  - title: Topics
+    url: topics
+    desc: My awesome stars, sorted by topics
+  - title: Languages
+    url: languages
+    desc: My awesome stars, sorted by languages
+    
+footer_entries:
+  - title: GitHub
+    url: https://github.com/Zo-Bro-23/awesome-stars
