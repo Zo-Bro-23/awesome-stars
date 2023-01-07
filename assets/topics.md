@@ -1012,6 +1012,7 @@
 
 ## music 
 
+- [digitalheir/lastfm-to-librefm-exporter](https://github.com/digitalheir/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [krateng/albula](https://github.com/krateng/albula) - Minimalist self-hosted music server
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
@@ -1146,6 +1147,12 @@
 
 ## others 
 
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+- [pcottle/FriendMapper](https://github.com/pcottle/FriendMapper) - Map your friends geographically
+- [pcottle/MSWorddit](https://github.com/pcottle/MSWorddit) - Reskin Reddit into Microsoft Word
+- [pcottle/MSOutlookit](https://github.com/pcottle/MSOutlookit) - Reskinning Reddit into an Outlook interface
+- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
+- [nzufelt/resources_for_students](https://github.com/nzufelt/resources_for_students) - A collection of currated online resources for students to learn topics in Computer Science.
 - [Somsubhra/FlySim](https://github.com/Somsubhra/FlySim) - Flight Simulator in Panda3D
 - [tooomm/github-release-stats](https://github.com/tooomm/github-release-stats) - GitHub release stats API queries at https://tooomm.github.io/github-release-stats
 - [Somsubhra/github-release-stats](https://github.com/Somsubhra/github-release-stats) - Get the latest release stats of your project on Github
