@@ -142,6 +142,8 @@
 
 ## CSS 
 
+- [femioladeji/slack-words](https://github.com/femioladeji/slack-words) - Do you want to test your word-formation skills? This is the game for you. Once you use the /wordsgame slash command, a game is started and players can respond in a thread with all the possible English
+- [tomondre/my-ip](https://github.com/tomondre/my-ip) - Simple backend + frontend app that allows client's to find information about their IP and their ISP
 - [nvsnkv/dns-override](https://github.com/nvsnkv/dns-override) - DNS Override is a simple chrome extension, which allows you to override domain names directly in the page
 - [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player) - Youtube Music CSS themes to apply with any injector.
 - [Alan-Zhao-908/control-life-admin](https://github.com/Alan-Zhao-908/control-life-admin) - admin console for directors
@@ -200,6 +202,7 @@
 
 ## HTML 
 
+- [femioladeji/celebrity-game](https://github.com/femioladeji/celebrity-game) - A simple game that tests how much you recognize your favourite celebrities
 - [pcottle/FriendMapper](https://github.com/pcottle/FriendMapper) - Map your friends geographically
 - [pcottle/MSWorddit](https://github.com/pcottle/MSWorddit) - Reskin Reddit into Microsoft Word
 - [califyn/andover-housing](https://github.com/califyn/andover-housing) - A report on housing at Phillips Academy. || Made by the Bias Group @ The Workshop 2022
@@ -244,6 +247,7 @@
 
 ## Java 
 
+- [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages
 - [ishwi/Chuu](https://github.com/ishwi/Chuu) - Last.fm bot for discord
 - [patzly/buzz-android](https://github.com/patzly/buzz-android) - Unofficial Android game based on the official Spelling Bee by The New York Times
 - [patzly/pallax-android](https://github.com/patzly/pallax-android) - Photo live wallpaper with auto dark mode and power-efficient animations
@@ -263,6 +267,11 @@
 
 ## JavaScript 
 
+- [femioladeji/react-slideshow](https://github.com/femioladeji/react-slideshow) - A react component for slideshow supporting slide, fade and zoom
+- [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
+- [pvorb/node-comments](https://github.com/pvorb/node-comments) - providing commenting functionality with the help of mongodb and node.js
+- [pvorb/node-git-wrapper](https://github.com/pvorb/node-git-wrapper) - node.js git wrapper
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [pcottle/MSOutlookit](https://github.com/pcottle/MSOutlookit) - Reskinning Reddit into an Outlook interface
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
@@ -626,6 +635,7 @@
 
 ## Python 
 
+- [femioladeji/License-Plate-Recognition-Nigerian-vehicles](https://github.com/femioladeji/License-Plate-Recognition-Nigerian-vehicles) - A python program that uses the concept of OCR using machine learning to identify the characters on a Nigerian license plate
 - [Somsubhra/FlySim](https://github.com/Somsubhra/FlySim) - Flight Simulator in Panda3D
 - [krateng/doreah](https://github.com/krateng/doreah) - Personal package of helpful utilities
 - [krateng/surselva](https://github.com/krateng/surselva) - Self-hosted website for youtube video downloads
@@ -791,6 +801,10 @@
 
 ## TypeScript 
 
+- [femioladeji/movie-app](https://github.com/femioladeji/movie-app) - A chrome extension developed with angular2 that consumes omdb api to make movie search, scheduling and streaming a lot more fun
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [tomondre/api](https://github.com/tomondre/api) - Rest API that allows caller to get json data about myself - projects, work history, education, certifications and deployments. This API is used in portfolio website, as well as in the deployments page
+- [tomondre/portfolio-angular](https://github.com/tomondre/portfolio-angular) - Portfolio webpage converted from static HTML to Angular for easier webpage development and management.
 - [digitalheir/lastfm-to-librefm-exporter](https://github.com/digitalheir/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -894,6 +908,7 @@
 
 ## Vue 
 
+- [femioladeji/screentime](https://github.com/femioladeji/screentime) - A chrome extension for keeping track and managing your time on social media platforms and websites
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [JacobLinCool/Clubhouse-Avatar-Pro](https://github.com/JacobLinCool/Clubhouse-Avatar-Pro) - A simple but powerful web app that helps you to create excellent Clubhouse avatars with beautiful borders. Free, secure, and highly customizable.
 - [eggsy/lanyard-web](https://github.com/eggsy/lanyard-web) - 🏷 Landing page and API documentation concept for Lanyard API.
