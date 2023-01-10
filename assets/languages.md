@@ -270,6 +270,7 @@
 
 ## JavaScript 
 
+- [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
 - [probot/unfurl](https://github.com/probot/unfurl) - a GitHub App built with Probot that unfurls links on Issues and Pull Request discussions
 - [probot/stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [probot/reminders](https://github.com/probot/reminders) - set reminders on Issues and Pull Requests
@@ -808,6 +809,7 @@
 
 ## TypeScript 
 
+- [jitterbit/get-changed-files](https://github.com/jitterbit/get-changed-files) - Get all of the files changed/modified in a pull request or push's commits.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [femioladeji/movie-app](https://github.com/femioladeji/movie-app) - A chrome extension developed with angular2 that consumes omdb api to make movie search, scheduling and streaming a lot more fun
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
