@@ -204,7 +204,8 @@
 
 ## HTML 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [femioladeji/celebrity-game](https://github.com/femioladeji/celebrity-game) - A simple game that tests how much you recognize your favourite celebrities
 - [pcottle/FriendMapper](https://github.com/pcottle/FriendMapper) - Map your friends geographically
 - [pcottle/MSWorddit](https://github.com/pcottle/MSWorddit) - Reskin Reddit into Microsoft Word
@@ -545,6 +546,7 @@
 
 ## Markdown 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 
