@@ -645,6 +645,7 @@
 
 ## go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -658,6 +659,7 @@
 
 ## golang 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
 - [edvardpotter/DiscordLastfmScrobbler](https://github.com/edvardpotter/DiscordLastfmScrobbler) - Allows you to display music from Last.FM to Discord
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
@@ -1054,6 +1056,7 @@
 
 ## music 
 
+- [web-scrobbler/metadata-filter](https://github.com/web-scrobbler/metadata-filter) - A module for cleaning up artist, album, and song names
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [digitalheir/lastfm-to-librefm-exporter](https://github.com/digitalheir/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
@@ -1192,6 +1195,8 @@
 
 ## others 
 
+- [snapcrunch/electron-preferences](https://github.com/snapcrunch/electron-preferences) - A simple, consistent interface for managing user preferences within an Electron application.
+- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [Chernavskikh/pixel-avatars](https://github.com/Chernavskikh/pixel-avatars) - React pixel avatars generator https://chernavskikh.github.io/pixel-avatars/
 - [coffee-cup/gradient-avatars](https://github.com/coffee-cup/gradient-avatars) - Generate gradient profile images based on some text
