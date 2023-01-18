@@ -149,7 +149,6 @@
 - [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player) - Youtube Music CSS themes to apply with any injector.
 - [Alan-Zhao-908/control-life-admin](https://github.com/Alan-Zhao-908/control-life-admin) - admin console for directors
 - [Alan-Zhao-908/mjolnir](https://github.com/Alan-Zhao-908/mjolnir) - 
-- [Brenden2008/git.taxi](https://github.com/Brenden2008/git.taxi) - The git.taxi service is a link shortener like git.io powered by deta.sh.
 - [DiscordStyles/DarkMatter](https://github.com/DiscordStyles/DarkMatter) - A cold, dark & frosty theme.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
 - [Technetium1/BetterDiscordPlugins](https://github.com/Technetium1/BetterDiscordPlugins) - Plugins and themes for BandagedBetterDiscord
@@ -227,6 +226,7 @@
 - [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris) - A simple javascript tetris game
 - [mishmanners/reviewing-a-pull-request](https://github.com/mishmanners/reviewing-a-pull-request) - 
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
+- [Brenden2008/git.taxi](https://github.com/Brenden2008/git.taxi) - The git.taxi service is a link shortener like git.io powered by deta.sh.
 - [Platane/performance-clock](https://github.com/Platane/performance-clock) - 🕕 Detect performance lag in your app
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
