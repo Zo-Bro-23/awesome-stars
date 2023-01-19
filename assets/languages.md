@@ -6,6 +6,7 @@
 ## Contents
 
 - [ActionScript](#actionscript)
+- [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
@@ -31,10 +32,12 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
 - [Python](#python)
 - [ReScript](#rescript)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -53,6 +56,10 @@
 ## ActionScript 
 
 - [Korilakkuma/ActionAudioAPI](https://github.com/Korilakkuma/ActionAudioAPI) - ActionScript 3.0 Library like Web Audio API
+
+## Arduino 
+
+- [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
 
 ## Assembly 
 
@@ -207,6 +214,7 @@
 
 ## HTML 
 
+- [jlord/essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -276,6 +284,13 @@
 
 ## JavaScript 
 
+- [sallar/led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - :crystal_ball: A simple HTML5 LED Matrix Simulator for fun
+- [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server) - Local RTMP Streaming Server
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
+- [ozh/ascii-tables](https://github.com/ozh/ascii-tables) - ⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!
+- [jlord/offline-issues](https://github.com/jlord/offline-issues) - :grey_exclamation: :signal_strength: Get your GitHub Issues to read offline later. Mmm.
+- [jlord/sheetdown](https://github.com/jlord/sheetdown) - :page_with_curl: :arrow_down: Convert a Google Spreadsheet into a Table in Markdown
+- [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
 - [emerleite/node-stopwatch](https://github.com/emerleite/node-stopwatch) - A managed stopwatch for Node.JS
 - [emerleite/node-gravatar](https://github.com/emerleite/node-gravatar) - Node.JS library to generate gravatar URLs
 - [wei/github-project-notifier](https://github.com/wei/github-project-notifier) - A Discord 🤖 that notifies on GitHub Project Card updates
@@ -571,6 +586,8 @@
 
 ## Others 
 
+- [drknzz/drknzz](https://github.com/drknzz/drknzz) - 
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [Zo-Bro-23/templates](https://github.com/Zo-Bro-23/templates) - All the GitHub template repos that I have created!
 - [drhus/awesome-identicons](https://github.com/drhus/awesome-identicons) - A curated list of "Visual Hashs" (Identicon, Avatar, Fractal, RandomArt and general Hash Visualization)
 - [probot/ideas](https://github.com/probot/ideas) - Share ideas for new GitHub Apps built with Probot
@@ -645,6 +662,10 @@
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 
+## Perl 
+
+- [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
+
 ## PowerShell 
 
 - [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy) - Easy script for running youtube-dl with basic options
@@ -661,6 +682,8 @@
 
 ## Python 
 
+- [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
+- [drknzz/auto-lingo](https://github.com/drknzz/auto-lingo) - A Duolingo Bot for automatic XP earning
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [femioladeji/License-Plate-Recognition-Nigerian-vehicles](https://github.com/femioladeji/License-Plate-Recognition-Nigerian-vehicles) - A python program that uses the concept of OCR using machine learning to identify the characters on a Nigerian license plate
 - [Somsubhra/FlySim](https://github.com/Somsubhra/FlySim) - Flight Simulator in Panda3D
@@ -747,6 +770,10 @@
 ## ReScript 
 
 - [draftbit/avatar-generator](https://github.com/draftbit/avatar-generator) - Personas, an avatar generator by Draftbit
+
+## Rich Text Format 
+
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Ruby 
 
@@ -835,6 +862,8 @@
 
 ## TypeScript 
 
+- [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
+- [sallar/stringz](https://github.com/sallar/stringz) - :100: Super fast unicode-aware string manipulation Javascript library
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [web-scrobbler/metadata-filter](https://github.com/web-scrobbler/metadata-filter) - A module for cleaning up artist, album, and song names
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
