@@ -179,6 +179,7 @@
 
 ## api 
 
+- [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 - [Zo-Bro-23/githubusercontent](https://github.com/Zo-Bro-23/githubusercontent) - My ISP blocked the raw.githubusercontent.com domain (😕), so I wrote code to bypass the restriction!
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
@@ -425,6 +426,7 @@
 
 ## database 
 
+- [deta/deta](https://github.com/deta/deta) - the leading no-code platform (written in rust)
 - [MinhasKamal/AlphabetRecognizer](https://github.com/MinhasKamal/AlphabetRecognizer) - Simple Optical Character Recognizer (english-ocr-image-to-text-recognition-sample-trainig-alphabet-photo-data-database-dataset)
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 
@@ -472,12 +474,15 @@
 
 ## docker 
 
+- [rickstaa/action-create-tag](https://github.com/rickstaa/action-create-tag) - Simple GitHub action that can be used to create a tag inside a GitHub action.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
 
 ## documentation 
 
+- [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
+- [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen) - 📔 API documentation generator CLI for https://hoppscotch.io
@@ -511,6 +516,7 @@
 
 ## emoji 
 
+- [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -600,6 +606,7 @@
 
 ## github 
 
+- [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
@@ -756,7 +763,7 @@
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -827,6 +834,7 @@
 
 ## javascript 
 
+- [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [sallar/stringz](https://github.com/sallar/stringz) - :100: Super fast unicode-aware string manipulation Javascript library
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -1024,6 +1032,7 @@
 
 ## markdown 
 
+- [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
 - [ozh/ascii-tables](https://github.com/ozh/ascii-tables) - ⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -1211,6 +1220,10 @@
 
 ## others 
 
+- [peter-murray/issue-body-parser-action](https://github.com/peter-murray/issue-body-parser-action) - A GitHub Action that can parse data from the body of an Issue and provide it as output to other GitHub Action steps
+- [christine-hu/exeter-simulator](https://github.com/christine-hu/exeter-simulator) - An homage to the trials and tribulations of attending Phillips Exeter Academy. Created January 2018.
+- [deta/deta-cli](https://github.com/deta/deta-cli) - Command line interface for managing Deta micros and deployments
+- [deta/docs](https://github.com/deta/docs) - 
 - [sallar/led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - :crystal_ball: A simple HTML5 LED Matrix Simulator for fun
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
 - [drknzz/drknzz](https://github.com/drknzz/drknzz) - 
@@ -1898,6 +1911,7 @@
 
 ## website 
 
+- [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [Zo-Bro-23/moonwalk-template](https://github.com/Zo-Bro-23/moonwalk-template) - Template for generating a Jekyll website based on the Moonwalk (@abhinavs/moonwalk) theme
 - [Zo-Bro-23/portfolio](https://github.com/Zo-Bro-23/portfolio) - My portfolio website
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
