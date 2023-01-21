@@ -111,6 +111,7 @@
 - [package-manager](#package-manager)
 - [php](#php)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [programming](#programming)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -272,6 +273,7 @@
 
 ## bash 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [lennardv2/ehh](https://github.com/lennardv2/ehh) - Commandline tool for remembering linux/terminal commands
@@ -339,6 +341,8 @@
 
 ## cli 
 
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
@@ -369,6 +373,7 @@
 
 ## compiler 
 
+- [ajeetdsouza/loxcraft](https://github.com/ajeetdsouza/loxcraft) - Language tooling for the Lox programming language
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 
 ## config 
@@ -383,6 +388,7 @@
 
 ## cpp 
 
+- [ajeetdsouza/pifs](https://github.com/ajeetdsouza/pifs) - The compile-time data-free filesystem
 - [MinhasKamal/TrojanCockroach](https://github.com/MinhasKamal/TrojanCockroach) - A Stealthy Trojan Spyware
 - [knightron0/helloworld](https://github.com/knightron0/helloworld) - Collection of "hello world" programs in different programming languages.
 
@@ -399,6 +405,7 @@
 
 ## css 
 
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -565,6 +572,7 @@
 
 ## font 
 
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [somq/consolas-ligaturized](https://github.com/somq/consolas-ligaturized) - 🖊️ Standard Consolas font with FiraCode ligatures
 
@@ -606,6 +614,7 @@
 
 ## github 
 
+- [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
@@ -659,6 +668,7 @@
 
 ## go 
 
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
@@ -673,6 +683,7 @@
 
 ## golang 
 
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
 - [edvardpotter/DiscordLastfmScrobbler](https://github.com/edvardpotter/DiscordLastfmScrobbler) - Allows you to display music from Last.FM to Discord
@@ -704,6 +715,9 @@
 
 ## hacktoberfest 
 
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [wei/github-project-notifier](https://github.com/wei/github-project-notifier) - A Discord 🤖 that notifies on GitHub Project Card updates
 - [wei/git-sync](https://github.com/wei/git-sync) - 🔃 A GitHub Action for syncing between two independent repositories using force push
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
@@ -1215,11 +1229,17 @@
 
 ## opencv 
 
+- [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
 - [MinhasKamal/GenderRecognizer](https://github.com/MinhasKamal/GenderRecognizer) - Plain Face Detector & Gender Recognizer
 - [addyett/cvplayer](https://github.com/addyett/cvplayer) - simple platform independant video player written in python using ffpyplayer and OpenCV
 
 ## others 
 
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
+- [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
+- [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [peter-murray/issue-body-parser-action](https://github.com/peter-murray/issue-body-parser-action) - A GitHub Action that can parse data from the body of an Issue and provide it as output to other GitHub Action steps
 - [christine-hu/exeter-simulator](https://github.com/christine-hu/exeter-simulator) - An homage to the trials and tribulations of attending Phillips Exeter Academy. Created January 2018.
 - [deta/deta-cli](https://github.com/deta/deta-cli) - Command line interface for managing Deta micros and deployments
@@ -1645,6 +1665,10 @@
 
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
+## powershell 
+
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
 ## programming 
 
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
@@ -1661,6 +1685,7 @@
 
 ## python 
 
+- [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [femioladeji/License-Plate-Recognition-Nigerian-vehicles](https://github.com/femioladeji/License-Plate-Recognition-Nigerian-vehicles) - A python program that uses the concept of OCR using machine learning to identify the characters on a Nigerian license plate
 - [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/, though this may change soon! (see https://trac.sagemath.org/ticket/30363
@@ -1756,6 +1781,7 @@
 
 ## rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [KRTirtho/metadata_god](https://github.com/KRTirtho/metadata_god) - Audio file Metadata reading and writing library for Flutter
 - [knightron0/helloworld](https://github.com/knightron0/helloworld) - Collection of "hello world" programs in different programming languages.
@@ -1776,6 +1802,7 @@
 
 ## shell 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
