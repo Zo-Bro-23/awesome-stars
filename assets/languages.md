@@ -75,6 +75,7 @@
 
 ## C 
 
+- [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
@@ -100,6 +101,7 @@
 
 ## C# # 
 
+- [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Tyrrrz/Gress](https://github.com/Tyrrrz/Gress) - Progress reporting toolbox
 - [Tyrrrz/Onova](https://github.com/Tyrrrz/Onova) - Unopinionated auto-update framework for desktop applications
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces
@@ -119,6 +121,7 @@
 
 ## C++ 
 
+- [ajeetdsouza/pifs](https://github.com/ajeetdsouza/pifs) - The compile-time data-free filesystem
 - [MinhasKamal/ProgrammerTransformation](https://github.com/MinhasKamal/ProgrammerTransformation) - The Insipid Journey of Homo Programmer (naive-novice-beginner-super-god-transformation-evolution-improvement-programmer-coder-software-engineer)
 - [MinhasKamal/StupidKeylogger](https://github.com/MinhasKamal/StupidKeylogger) - A Terrific Keystroke Recorder
 - [MinhasKamal/TrojanCockroach](https://github.com/MinhasKamal/TrojanCockroach) - A Stealthy Trojan Spyware
@@ -196,6 +199,7 @@
 
 ## Go 
 
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [deta/deta-cli](https://github.com/deta/deta-cli) - Command line interface for managing Deta micros and deployments
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -285,6 +289,8 @@
 
 ## JavaScript 
 
+- [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [peter-murray/issue-body-parser-action](https://github.com/peter-murray/issue-body-parser-action) - A GitHub Action that can parse data from the body of an Issue and provide it as output to other GitHub Action steps
 - [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
@@ -653,6 +659,7 @@
 
 ## PHP 
 
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [stefanzweifel/laravel-sends](https://github.com/stefanzweifel/laravel-sends) - A package to keep track of outgoing emails in your Laravel application.
 - [stefanzweifel/diary-app](https://github.com/stefanzweifel/diary-app) - 🔐An End-To-End Encrypted Diary Web App
 - [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) - A Sidecar function to run Browsershot on Lambda.
@@ -690,6 +697,8 @@
 
 ## Python 
 
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+- [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [drknzz/auto-lingo](https://github.com/drknzz/auto-lingo) - A Duolingo Bot for automatic XP earning
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -811,6 +820,8 @@
 
 ## Rust 
 
+- [ajeetdsouza/loxcraft](https://github.com/ajeetdsouza/loxcraft) - Language tooling for the Lox programming language
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Araxeus/ls-interactive](https://github.com/Araxeus/ls-interactive) - Interactive ls command
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [PiyushSuthar/clpy](https://github.com/PiyushSuthar/clpy) - Save image from your clipboard 📋 as an image file directly from your command line! 🔥
@@ -871,6 +882,8 @@
 
 ## TypeScript 
 
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
 - [sallar/stringz](https://github.com/sallar/stringz) - :100: Super fast unicode-aware string manipulation Javascript library
