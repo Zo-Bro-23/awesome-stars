@@ -320,6 +320,9 @@
 
 ## chrome-extension 
 
+- [Steven-Roberts/Crazy-Page](https://github.com/Steven-Roberts/Crazy-Page) - A silly Chrome Extension
+- [Steven-Roberts/chrome-manifest-iconify](https://github.com/Steven-Roberts/chrome-manifest-iconify) - Takes a master icon and automatically generates icon set for your Chrome extension by parsing the v2 manifest
+- [Steven-Roberts/Word-Counter-Plus](https://github.com/Steven-Roberts/Word-Counter-Plus) - Chrome Extension that lets you views stats on selected text
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
 - [femioladeji/movie-app](https://github.com/femioladeji/movie-app) - A chrome extension developed with angular2 that consumes omdb api to make movie search, scheduling and streaming a lot more fun
 - [femioladeji/screentime](https://github.com/femioladeji/screentime) - A chrome extension for keeping track and managing your time on social media platforms and websites
@@ -848,6 +851,9 @@
 
 ## javascript 
 
+- [Steven-Roberts/Crazy-Page](https://github.com/Steven-Roberts/Crazy-Page) - A silly Chrome Extension
+- [Steven-Roberts/chrome-manifest-iconify](https://github.com/Steven-Roberts/chrome-manifest-iconify) - Takes a master icon and automatically generates icon set for your Chrome extension by parsing the v2 manifest
+- [Steven-Roberts/Word-Counter-Plus](https://github.com/Steven-Roberts/Word-Counter-Plus) - Chrome Extension that lets you views stats on selected text
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [sallar/stringz](https://github.com/sallar/stringz) - :100: Super fast unicode-aware string manipulation Javascript library
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
@@ -1235,6 +1241,7 @@
 
 ## others 
 
+- [Steven-Roberts/Binary-Clock](https://github.com/Steven-Roberts/Binary-Clock) - A simple binary clock progressive web app
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
