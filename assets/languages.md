@@ -289,6 +289,10 @@
 
 ## JavaScript 
 
+- [Steven-Roberts/Crazy-Page](https://github.com/Steven-Roberts/Crazy-Page) - A silly Chrome Extension
+- [Steven-Roberts/Binary-Clock](https://github.com/Steven-Roberts/Binary-Clock) - A simple binary clock progressive web app
+- [Steven-Roberts/chrome-manifest-iconify](https://github.com/Steven-Roberts/chrome-manifest-iconify) - Takes a master icon and automatically generates icon set for your Chrome extension by parsing the v2 manifest
+- [Steven-Roberts/Word-Counter-Plus](https://github.com/Steven-Roberts/Word-Counter-Plus) - Chrome Extension that lets you views stats on selected text
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [peter-murray/issue-body-parser-action](https://github.com/peter-murray/issue-body-parser-action) - A GitHub Action that can parse data from the body of an Issue and provide it as output to other GitHub Action steps
