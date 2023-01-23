@@ -289,6 +289,7 @@
 
 ## JavaScript 
 
+- [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
 - [Steven-Roberts/Crazy-Page](https://github.com/Steven-Roberts/Crazy-Page) - A silly Chrome Extension
 - [Steven-Roberts/Binary-Clock](https://github.com/Steven-Roberts/Binary-Clock) - A simple binary clock progressive web app
 - [Steven-Roberts/chrome-manifest-iconify](https://github.com/Steven-Roberts/chrome-manifest-iconify) - Takes a master icon and automatically generates icon set for your Chrome extension by parsing the v2 manifest
