@@ -723,6 +723,7 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [wei/github-project-notifier](https://github.com/wei/github-project-notifier) - A Discord 🤖 that notifies on GitHub Project Card updates
 - [wei/git-sync](https://github.com/wei/git-sync) - 🔃 A GitHub Action for syncing between two independent repositories using force push
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
