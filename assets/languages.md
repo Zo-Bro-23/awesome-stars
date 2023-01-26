@@ -290,6 +290,8 @@
 
 ## JavaScript 
 
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
 - [Steven-Roberts/Crazy-Page](https://github.com/Steven-Roberts/Crazy-Page) - A silly Chrome Extension
 - [Steven-Roberts/Binary-Clock](https://github.com/Steven-Roberts/Binary-Clock) - A simple binary clock progressive web app
