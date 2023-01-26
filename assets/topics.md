@@ -608,6 +608,7 @@
 
 ## git 
 
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
@@ -1251,6 +1252,7 @@
 
 ## others 
 
+- [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
 - [Steven-Roberts/Binary-Clock](https://github.com/Steven-Roberts/Binary-Clock) - A simple binary clock progressive web app
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
