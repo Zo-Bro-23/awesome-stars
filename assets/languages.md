@@ -101,6 +101,7 @@
 
 ## C# # 
 
+- [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Tyrrrz/Gress](https://github.com/Tyrrrz/Gress) - Progress reporting toolbox
 - [Tyrrrz/Onova](https://github.com/Tyrrrz/Onova) - Unintrusive auto-update framework
@@ -171,6 +172,7 @@
 
 ## CoffeeScript 
 
+- [Lissy93/twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation) - 🌍 Sentiment analysis over real-time social media data, rendering live charts to visualise trends
 - [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 - [schulzch/edit-distance-js](https://github.com/schulzch/edit-distance-js) - JavaScript library to compute the edit distance for strings and trees.
 
@@ -200,6 +202,12 @@
 
 ## Go 
 
+- [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
+- [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
+- [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+- [changkun/occamy](https://github.com/changkun/occamy) - 🖥️ a modern remote desktop proxy written in Go
+- [changkun/rmtrash](https://github.com/changkun/rmtrash) - 🗑️ Move directory entries to Trash
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [deta/deta-cli](https://github.com/deta/deta-cli) - Command line interface for managing Deta micros and deployments
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -290,6 +298,9 @@
 
 ## JavaScript 
 
+- [Lissy93/happy-app](https://github.com/Lissy93/happy-app) - 😃 Frictionless and anonymouse feedback system for agile teams
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
 - [trekhleb/covid-19](https://github.com/trekhleb/covid-19) - 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country
 - [trekhleb/nano-neuron](https://github.com/trekhleb/nano-neuron) - 🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn"
@@ -588,6 +599,7 @@
 
 ## Kotlin 
 
+- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - :battery: Safely charge your phone in public places without the worry of it being stolen
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
@@ -614,6 +626,10 @@
 
 ## Others 
 
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [martinwoodward/smart-xmas](https://github.com/martinwoodward/smart-xmas) - Star this repo to add some sparkle to my tree
+- [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
@@ -716,6 +732,7 @@
 
 ## Python 
 
+- [martinwoodward/PumpkinPi](https://github.com/martinwoodward/PumpkinPi) - Spooky build status indicator
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
@@ -862,6 +879,7 @@
 
 ## Shell 
 
+- [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt) - 📟 A clean PS1 bash prompt, showing user, host, pathname and git status
 - [rickstaa/action-create-tag](https://github.com/rickstaa/action-create-tag) - Simple GitHub action that can be used to create a tag inside a GitHub action.
 - [wei/git-sync](https://github.com/wei/git-sync) - 🔃 A GitHub Action for syncing between two independent repositories using force push
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
@@ -902,6 +920,7 @@
 
 ## TypeScript 
 
+- [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
 - [trekhleb/vscode-search-tree](https://github.com/trekhleb/vscode-search-tree) - 🔎 (Draft!) VSCode extension to show the search results in a tree view
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
@@ -1027,6 +1046,8 @@
 
 ## Vue 
 
+- [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries) - 🌎 Just a quick app, for learning the countries, their capital cities, flags and other info
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
 - [femioladeji/screentime](https://github.com/femioladeji/screentime) - A chrome extension for keeping track and managing your time on social media platforms and websites
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
