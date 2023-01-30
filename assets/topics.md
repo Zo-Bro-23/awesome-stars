@@ -226,6 +226,7 @@
 
 ## automation 
 
+- [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [JacobLinCool/recaptcha-solver](https://github.com/JacobLinCool/recaptcha-solver) - Solve reCAPTCHA challenges by using offline speech recognition.
 - [wsmd/github-profile-status](https://github.com/wsmd/github-profile-status) - :octocat: Update the status of your GitHub profile programmatically
@@ -672,6 +673,7 @@
 
 ## git 
 
+- [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
@@ -797,6 +799,7 @@
 
 ## hacktoberfest 
 
+- [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -882,6 +885,7 @@
 
 ## html 
 
+- [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
@@ -1164,6 +1168,8 @@
 
 ## markdown 
 
+- [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
+- [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
 - [ozh/ascii-tables](https://github.com/ozh/ascii-tables) - ⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
@@ -2037,6 +2043,7 @@
 
 ## typescript 
 
+- [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [Lissy93/happy-app](https://github.com/Lissy93/happy-app) - 😃 Frictionless and anonymouse feedback system for agile teams
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
 - [trekhleb/links-detector](https://github.com/trekhleb/links-detector) - 📖 👆🏻 Links Detector makes printed links clickable via your smartphone camera. No need to type a link in, just scan and click on it.
@@ -2099,6 +2106,7 @@
 
 ## webpack 
 
+- [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
 
 ## website 
