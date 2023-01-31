@@ -155,6 +155,7 @@
 
 ## CSS 
 
+- [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
 - [femioladeji/slack-words](https://github.com/femioladeji/slack-words) - Do you want to test your word-formation skills? This is the game for you. Once you use the /wordsgame slash command, a game is started and players can respond in a thread with all the possible English
 - [tomondre/my-ip](https://github.com/tomondre/my-ip) - Simple backend + frontend app that allows client's to find information about their IP and their ISP
 - [nvsnkv/dns-override](https://github.com/nvsnkv/dns-override) - DNS Override is a simple chrome extension, which allows you to override domain names directly in the page
@@ -229,6 +230,7 @@
 
 ## HTML 
 
+- [timleland/WeatherCE](https://github.com/timleland/WeatherCE) - Weather Browser Extension
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [jlord/essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
@@ -300,6 +302,22 @@
 
 ## JavaScript 
 
+- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
+- [ris58h/youtube-tracks](https://github.com/ris58h/youtube-tracks) - YouTube tracklist navigation.
+- [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player
+- [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
+- [omnidevZero/YouTubeRedux](https://github.com/omnidevZero/YouTubeRedux) - Browser extension that focuses on restoring old YouTube layout within Polymer design (modern layout).
+- [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
+- [dlinbernard/screen-recorder](https://github.com/dlinbernard/screen-recorder) - Screen Recorder addon helps you record video from the computer's screen.
+- [jsargiot/restman](https://github.com/jsargiot/restman) - RESTMan is a browser extension to work on http requests.
+- [richgong/floppybox](https://github.com/richgong/floppybox) - FlappyBird-like game contained within a ReactJS component.
+- [richgong/history-by-date](https://github.com/richgong/history-by-date) - A Chrome extension that lets you browse your history by date, instead of infinite scroll.
+- [mrcoles/favicon-creator](https://github.com/mrcoles/favicon-creator) - Create favicons purely in Javascript
+- [mrcoles/javascript-piano](https://github.com/mrcoles/javascript-piano) - An HTML5 JavaScript synth piano that generates all of its sounds using data URIs.
+- [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
+- [rain-fighters/AudioPick](https://github.com/rain-fighters/AudioPick) - Chrome Extension to pick a default audio output device for HTML5 audio and video elements
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+- [timleland/Json-Viewer-Extension](https://github.com/timleland/Json-Viewer-Extension) - This extension makes JSON responses easy to read.
 - [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one
 - [Lissy93/happy-app](https://github.com/Lissy93/happy-app) - 😃 Frictionless and anonymouse feedback system for agile teams
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -541,7 +559,7 @@
 - [Zo-Bro-23/writing-stats](https://github.com/Zo-Bro-23/writing-stats) - This is a simple package to get stats (such as word count, paragraph density, etc) from a TXT file.
 - [Zo-Bro-23/meme-bot](https://github.com/Zo-Bro-23/meme-bot) - A meme bot for Discord... Go to https://discord.com/developers, create a bot, and copy the id. Clone the repo, and add a file called cred.json in this format: {bot: 'yourUniqueId'}. Run index.js with 
 - [Zo-Bro-23/c29](https://github.com/Zo-Bro-23/c29) - C29 - Configure your Logitech G29!
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [Araxeus/Youtube-Volume-Scroll](https://github.com/Araxeus/Youtube-Volume-Scroll) - Browser Extension that enable scrolling mousewheel to control volume on Youtube and Youtube Music
 - [qntm/t-a-i](https://github.com/qntm/t-a-i) - Converts Unix milliseconds to and from International Atomic Time (TAI) milliseconds
 - [prashantsengar/mTracker](https://github.com/prashantsengar/mTracker) - An email tracker built with Python and Flask
@@ -629,6 +647,8 @@
 
 ## Others 
 
+- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Android external keyboard layout customization without root.
+- [timleland/url-shorteners](https://github.com/timleland/url-shorteners) - List of URL Shorteners
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [martinwoodward/smart-xmas](https://github.com/martinwoodward/smart-xmas) - Star this repo to add some sparkle to my tree
@@ -735,6 +755,7 @@
 
 ## Python 
 
+- [mrcoles/readmd](https://github.com/mrcoles/readmd) - Pretty-print markdown
 - [martinwoodward/PumpkinPi](https://github.com/martinwoodward/PumpkinPi) - Spooky build status indicator
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -905,6 +926,7 @@
 
 ## Swift 
 
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on macOS.
 - [nzufelt/salutations_generator_assignment](https://github.com/nzufelt/salutations_generator_assignment) - A quiz or lab to challenge a student's ability to refactor for both efficacy and inclusivity.
 - [mxcl/Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
@@ -923,6 +945,14 @@
 
 ## TypeScript 
 
+- [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+- [avi12/youtube-subscriptions-sort](https://github.com/avi12/youtube-subscriptions-sort) - A browser extension for opening YouTube videos in ascending watch time order
+- [avi12/steam-id-finder](https://github.com/avi12/steam-id-finder) - A browser extension that calculates the IDs of given Steam users.
+- [avi12/youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Like videos with Shift+Plus, dislike with Shift+Minus.
+- [avi12/youtube-speed-control](https://github.com/avi12/youtube-speed-control) - A browser extension for changing the speed of videos on YouTube, as well as embedded YouTube videos.
+- [avi12/web-ext-deploy](https://github.com/avi12/web-ext-deploy) - A tool for deploying WebExtensions to multiple stores.
+- [avi12/youtube-downloader](https://github.com/avi12/youtube-downloader) - A browser extension for simplifying downloading YouTube videos.
+- [avi12/youtube-auto-hd](https://github.com/avi12/youtube-auto-hd) - A simple browser extension for changing YouTube videos' quality based on FPS.
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
@@ -972,7 +1002,7 @@
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [JeffreyCA/lastfm-recently-played-readme](https://github.com/JeffreyCA/lastfm-recently-played-readme) - Display your recent Last.fm scrobbles on your GitHub profile README.
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
-- [statsfm/web](https://github.com/statsfm/web) - [WIP] Stats.fm web repository
+- [statsfm/web](https://github.com/statsfm/web) - [WIP] stats.fm web repository
 - [JacobLinCool/node-cloudflared](https://github.com/JacobLinCool/node-cloudflared) - Cloudflared in Node. Create HTTPS tunnel in 10 seconds. Works on macOS, Linux, and Windows.
 - [JacobLinCool/recaptcha-solver](https://github.com/JacobLinCool/recaptcha-solver) - Solve reCAPTCHA challenges by using offline speech recognition.
 - [JacobLinCool/LeetCode-Query](https://github.com/JacobLinCool/LeetCode-Query) - A LeetCode Query API for TypeScript & JavaScript.
