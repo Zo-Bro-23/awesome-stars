@@ -28,6 +28,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -155,6 +156,8 @@
 
 ## CSS 
 
+- [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
+- [anufrievroman/whale](https://github.com/anufrievroman/whale) - Dark theme inspired by Ark and Nord
 - [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
 - [femioladeji/slack-words](https://github.com/femioladeji/slack-words) - Do you want to test your word-formation skills? This is the game for you. Once you use the /wordsgame slash command, a game is started and players can respond in a thread with all the possible English
 - [tomondre/my-ip](https://github.com/tomondre/my-ip) - Simple backend + frontend app that allows client's to find information about their IP and their ISP
@@ -270,6 +273,7 @@
 - [jsomers/hacker-classics](https://github.com/jsomers/hacker-classics) - Classic Hacker News stories
 - [Zo-Bro-23/3D-Printing](https://github.com/Zo-Bro-23/3D-Printing) - All my 3D Printing designs!
 - [Zo-Bro-23/zoauth-logo](https://github.com/Zo-Bro-23/zoauth-logo) - All the different logos... So many lol!!
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [prajwalsouza/Epidemic-Simulation](https://github.com/prajwalsouza/Epidemic-Simulation) - An interactive inspired by 3Blue1Brown's 'Simulating an Epidemic' video.
 - [RobinLinus/socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - A demo of cross-origin login detection for most major web platforms
@@ -282,6 +286,7 @@
 
 ## Java 
 
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages
 - [ishwi/Chuu](https://github.com/ishwi/Chuu) - Last.fm bot for discord
 - [patzly/buzz-android](https://github.com/patzly/buzz-android) - Unofficial Android game based on the official Spelling Bee by The New York Times
@@ -302,6 +307,11 @@
 
 ## JavaScript 
 
+- [kdzwinel/Proofreader](https://github.com/kdzwinel/Proofreader) - Simple text proofreader based on 'write-good' (hemingway-app-like suggestions) and 'nodehun' (spelling).
+- [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
+- [reZach/grammarify](https://github.com/reZach/grammarify) - Grammarify is a npm package that safely cleans up text that has mispellings, improper capitalization, lexical illusions, among other things.
+- [funbox/languagetool-node](https://github.com/funbox/languagetool-node) - CLI spell and grammar checker
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [ris58h/youtube-tracks](https://github.com/ris58h/youtube-tracks) - YouTube tracklist navigation.
 - [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player
@@ -320,7 +330,6 @@
 - [timleland/Json-Viewer-Extension](https://github.com/timleland/Json-Viewer-Extension) - This extension makes JSON responses easy to read.
 - [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one
 - [Lissy93/happy-app](https://github.com/Lissy93/happy-app) - 😃 Frictionless and anonymouse feedback system for agile teams
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
 - [trekhleb/covid-19](https://github.com/trekhleb/covid-19) - 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country
@@ -566,7 +575,6 @@
 - [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [aaronpk/live-chat-overlay](https://github.com/aaronpk/live-chat-overlay) - Restyle the YouTube "popout chat" window so you can key it over a video to show comments on a livestream
-- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams
 - [steveseguin/electroncapture](https://github.com/steveseguin/electroncapture) - Playback video in a frameless electron app for screen-sharing and window capture
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Access the YouTube Live chat and route it to your OBS or VMix Browser source.
@@ -634,6 +642,10 @@
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [exeldro/obs-lua](https://github.com/exeldro/obs-lua) - 
 
+## Makefile 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
 ## Markdown 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -647,6 +659,8 @@
 
 ## Others 
 
+- [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
+- [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Android external keyboard layout customization without root.
 - [timleland/url-shorteners](https://github.com/timleland/url-shorteners) - List of URL Shorteners
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -755,6 +769,7 @@
 
 ## Python 
 
+- [anufrievroman/angry-reviewer](https://github.com/anufrievroman/angry-reviewer) - Style corrector for academic writing and scientific papers at angryreviewer.com
 - [mrcoles/readmd](https://github.com/mrcoles/readmd) - Pretty-print markdown
 - [martinwoodward/PumpkinPi](https://github.com/martinwoodward/PumpkinPi) - Spooky build status indicator
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
@@ -945,6 +960,9 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [avi12/youtube-subscriptions-sort](https://github.com/avi12/youtube-subscriptions-sort) - A browser extension for opening YouTube videos in ascending watch time order
 - [avi12/steam-id-finder](https://github.com/avi12/steam-id-finder) - A browser extension that calculates the IDs of given Steam users.
