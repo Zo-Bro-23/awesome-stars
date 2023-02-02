@@ -106,10 +106,10 @@
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Tyrrrz/Gress](https://github.com/Tyrrrz/Gress) - Progress reporting toolbox
 - [Tyrrrz/Onova](https://github.com/Tyrrrz/Onova) - Unintrusive auto-update framework
-- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command line interfaces
+- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
-- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command line processes
+- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 - [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api) - Programming Quotes API for open source projects.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
@@ -793,7 +793,7 @@
 - [ZippyCodeYT/Zippy_Codes](https://github.com/ZippyCodeYT/Zippy_Codes) - Codes I used in my YouTube videos
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
-- [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/, though this may change soon! (see https://trac.sagemath.org/ticket/30363
+- [sagemath/sage-archive-2023-02-01](https://github.com/sagemath/sage-archive-2023-02-01) - This repository used to be the user-facing mirror of the Sage source tree. As Sage development migrated on 2023-02-01 from https://trac.sagemath.org/ to our new repository on GitHub, https://github.co
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
 - [Jxck-S/FAA-registry-checker](https://github.com/Jxck-S/FAA-registry-checker) - Checks FAA Registry daily for new aircraft registered by certain owners as configured.
 - [Jxck-S/spacex-droneship-bot](https://github.com/Jxck-S/spacex-droneship-bot) - Twitter bot for tracking SpaceX droneships
