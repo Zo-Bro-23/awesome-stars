@@ -409,8 +409,8 @@
 - [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [Araxeus/ls-interactive](https://github.com/Araxeus/ls-interactive) - Interactive ls command
-- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command line interfaces
-- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command line processes
+- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
+- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
 - [Platane/github-secret-dotenv](https://github.com/Platane/github-secret-dotenv) - 🗝 upload secrets to github from your .env file
 - [jamesgeorge007/ghstats-cli](https://github.com/jamesgeorge007/ghstats-cli) - Get to know about the GitHub activity of a user from the comfort of the Terminal
 - [jamesgeorge007/hackalist-cli](https://github.com/jamesgeorge007/hackalist-cli) - Get to know about the upcoming hackathons without leaving your terminal.
@@ -845,10 +845,10 @@
 - [shravan20/LearningResources](https://github.com/shravan20/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [Tyrrrz/Onova](https://github.com/Tyrrrz/Onova) - Unintrusive auto-update framework
-- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command line interfaces
+- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
-- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command line processes
+- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [mishmanners/mish-friendly-food](https://github.com/mishmanners/mish-friendly-food) - App for providing dietary requirements :pineapple: on cute cards in different languages
@@ -1889,7 +1889,7 @@
 - [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [femioladeji/License-Plate-Recognition-Nigerian-vehicles](https://github.com/femioladeji/License-Plate-Recognition-Nigerian-vehicles) - A python program that uses the concept of OCR using machine learning to identify the characters on a Nigerian license plate
-- [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/, though this may change soon! (see https://trac.sagemath.org/ticket/30363
+- [sagemath/sage-archive-2023-02-01](https://github.com/sagemath/sage-archive-2023-02-01) - This repository used to be the user-facing mirror of the Sage source tree. As Sage development migrated on 2023-02-01 from https://trac.sagemath.org/ to our new repository on GitHub, https://github.co
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
 - [ryo-ma/covid19-japan-web-api](https://github.com/ryo-ma/covid19-japan-web-api) - 🇯🇵 Web API to get 🦠COVID-19(coronavirus) information of each prefecture in Japan
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -2026,7 +2026,7 @@
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
-- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command line processes
+- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
 - [nathanielop/achievements](https://github.com/nathanielop/achievements) - A collection of shell scripts to achieve 100% of API-accessible Github achievements
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -2080,7 +2080,7 @@
 
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [Zo-Bro-23/terminal-portfolio](https://github.com/Zo-Bro-23/terminal-portfolio) - Fork of @aarush-narang/portfolio
-- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command line interfaces
+- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
