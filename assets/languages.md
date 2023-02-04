@@ -307,6 +307,7 @@
 
 ## JavaScript 
 
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [kdzwinel/Proofreader](https://github.com/kdzwinel/Proofreader) - Simple text proofreader based on 'write-good' (hemingway-app-like suggestions) and 'nodehun' (spelling).
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
@@ -921,7 +922,7 @@
 - [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt) - 📟 A clean PS1 bash prompt, showing user, host, pathname and git status
 - [rickstaa/action-create-tag](https://github.com/rickstaa/action-create-tag) - Simple GitHub action that can be used to create a tag inside a GitHub action.
 - [wei/git-sync](https://github.com/wei/git-sync) - 🔃 A GitHub Action for syncing between two independent repositories using force push
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
