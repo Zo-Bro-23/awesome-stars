@@ -233,6 +233,7 @@
 
 ## HTML 
 
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [timleland/WeatherCE](https://github.com/timleland/WeatherCE) - Weather Browser Extension
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [jlord/essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
@@ -770,6 +771,7 @@
 
 ## Python 
 
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [anufrievroman/angry-reviewer](https://github.com/anufrievroman/angry-reviewer) - Style corrector for academic writing and scientific papers at angryreviewer.com
 - [mrcoles/readmd](https://github.com/mrcoles/readmd) - Pretty-print markdown
 - [martinwoodward/PumpkinPi](https://github.com/martinwoodward/PumpkinPi) - Spooky build status indicator
@@ -961,6 +963,7 @@
 
 ## TypeScript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
