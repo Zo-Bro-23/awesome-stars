@@ -116,6 +116,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [opencv](#opencv)
@@ -583,6 +584,7 @@
 
 ## documentation 
 
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -718,6 +720,7 @@
 
 ## github 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
@@ -830,6 +833,7 @@
 
 ## hacktoberfest 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
@@ -975,6 +979,7 @@
 
 ## javascript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
@@ -1277,6 +1282,7 @@
 
 ## nextjs 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [statsfm/web](https://github.com/statsfm/web) - [WIP] stats.fm web repository
 - [KRTirtho/schoolacious](https://github.com/KRTirtho/schoolacious) - A destination where all the reading sound📔 of small learners🧒 & day to day learning👩‍🏫 takes place bringing up all the thing a student👩‍🎓 used to do before Quarantine & Pandemic🦠
@@ -1375,6 +1381,10 @@
 - [plibither8/github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - :octocat::bell: Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
+## numpy 
+
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+
 ## objective-c 
 
 - [sindresorhus/Blear](https://github.com/sindresorhus/Blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device
@@ -1383,6 +1393,7 @@
 
 ## open-source 
 
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [shravan20/LearningResources](https://github.com/shravan20/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
@@ -1892,6 +1903,7 @@
 
 ## python 
 
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
@@ -1938,6 +1950,7 @@
 
 ## react 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [richgong/history-by-date](https://github.com/richgong/history-by-date) - A Chrome extension that lets you browse your history by date, instead of infinite scroll.
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
@@ -1967,6 +1980,7 @@
 
 ## reactjs 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
