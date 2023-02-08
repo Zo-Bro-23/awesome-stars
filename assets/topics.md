@@ -148,6 +148,7 @@
 - [sketch](#sketch)
 - [software](#software)
 - [statistics](#statistics)
+- [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [telegram](#telegram)
@@ -1568,7 +1569,6 @@
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [vegeta897/make-your-mark](https://github.com/vegeta897/make-your-mark) - You guessed it, a multiplayer web game. This might be doomed but who cares anymore?
-- [vegeta897/wordle-peaks](https://github.com/vegeta897/wordle-peaks) - A Wordle spin-off
 - [Alan-Zhao-908/control-life-admin](https://github.com/Alan-Zhao-908/control-life-admin) - admin console for directors
 - [Alan-Zhao-908/Badmovies](https://github.com/Alan-Zhao-908/Badmovies) - Full stack catalogue web app of worst rated movies using The Movie Database (themoviedb.org) API
 - [Alan-Zhao-908/twitter-sentiment](https://github.com/Alan-Zhao-908/twitter-sentiment) - sentiment analysis for twitter
@@ -2070,6 +2070,12 @@
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+
+## svelte 
+
+- [vegeta897/wordle-peaks](https://github.com/vegeta897/wordle-peaks) - A Wordle spin-off
+- [vegeta897/snow-stamp](https://github.com/vegeta897/snow-stamp) - Get the timestamp from a Discord snowflake ❄
+- [MikhaD/wordle](https://github.com/MikhaD/wordle) - A recreation of the popular game Wordle with additional modes and features. Made with Svelte in Typescript.
 
 ## swift 
 
