@@ -1414,6 +1414,7 @@
 
 ## others 
 
+- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 - [kdzwinel/Proofreader](https://github.com/kdzwinel/Proofreader) - Simple text proofreader based on 'write-good' (hemingway-app-like suggestions) and 'nodehun' (spelling).
