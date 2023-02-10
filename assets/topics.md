@@ -145,7 +145,6 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
-- [sketch](#sketch)
 - [software](#software)
 - [statistics](#statistics)
 - [svelte](#svelte)
@@ -180,6 +179,7 @@
 
 ## analytics 
 
+- [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate insightful chat analysis reports in the browser
 
 ## android 
@@ -203,13 +203,13 @@
 
 ## angular 
 
+- [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [Lissy93/happy-app](https://github.com/Lissy93/happy-app) - 😃 Frictionless and anonymouse feedback system for agile teams
 - [iCrawl/not-a-spy-game](https://github.com/iCrawl/not-a-spy-game) - A game not about spies.
 
 ## api 
 
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 - [Zo-Bro-23/githubusercontent](https://github.com/Zo-Bro-23/githubusercontent) - My ISP blocked the raw.githubusercontent.com domain (😕), so I wrote code to bypass the restriction!
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api) - Programming Quotes API for open source projects.
@@ -245,6 +245,8 @@
 
 ## awesome 
 
+- [soroushchehresa/awesome-dynamic-readme](https://github.com/soroushchehresa/awesome-dynamic-readme) - A curated list of awesome GitHub dynamic READMEs
+- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -283,6 +285,8 @@
 
 ## awesome-list 
 
+- [soroushchehresa/awesome-dynamic-readme](https://github.com/soroushchehresa/awesome-dynamic-readme) - A curated list of awesome GitHub dynamic READMEs
+- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -378,6 +382,7 @@
 
 ## chrome-extension 
 
+- [soroushchehresa/radiojavan-downloader](https://github.com/soroushchehresa/radiojavan-downloader) - ⬇️ Simple Google Chrome extension for downloading tracks, videos and podcasts from RadioJavan
 - [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player
 - [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
 - [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
@@ -411,6 +416,7 @@
 
 ## cli 
 
+- [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
 - [trekhleb/nodejs-master-class](https://github.com/trekhleb/nodejs-master-class) - 🛠 This repository contains the homework assignment for Node.js Master Class that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS with no NPM or 3rd-party libraries
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -466,6 +472,8 @@
 
 ## covid-19 
 
+- [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
+- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [trekhleb/covid-19](https://github.com/trekhleb/covid-19) - 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country
 - [ryo-ma/covid19-japan-web-api](https://github.com/ryo-ma/covid19-japan-web-api) - 🇯🇵 Web API to get 🦠COVID-19(coronavirus) information of each prefecture in Japan
 - [joemccann/covidsentiment.com](https://github.com/joemccann/covidsentiment.com) - 🦠View the positive and negative sentiments of news headlines surrounding coronavirus. The site uses Microsoft Azure's Cognitive Services Text Analytics Machine Learning API to determine sentiment.
@@ -547,6 +555,7 @@
 
 ## discord 
 
+- [ItsRauf/slash](https://github.com/ItsRauf/slash) - slash command generator
 - [ishwi/Chuu](https://github.com/ishwi/Chuu) - Last.fm bot for discord
 - [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [edvardpotter/DiscordLastfmScrobbler](https://github.com/edvardpotter/DiscordLastfmScrobbler) - Allows you to display music from Last.FM to Discord
@@ -577,6 +586,7 @@
 
 ## docker 
 
+- [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [rickstaa/action-create-tag](https://github.com/rickstaa/action-create-tag) - Simple GitHub action that can be used to create a tag inside a GitHub action.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -598,6 +608,8 @@
 
 ## electron 
 
+- [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
+- [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [Araxeus/custom-electron-prompt](https://github.com/Araxeus/custom-electron-prompt) - Custom prompt for electron made easy with various templates
@@ -663,6 +675,7 @@
 
 ## flask 
 
+- [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [jamesgeorge007/GitHub-Mate](https://github.com/jamesgeorge007/GitHub-Mate) - This is the web implementation of github-mate Desktop app using the Flask web application framework with extended capabilities.
 - [prashantsengar/mTracker](https://github.com/prashantsengar/mTracker) - An email tracker built with Python and Flask
 
@@ -721,6 +734,7 @@
 
 ## github 
 
+- [soroushchehresa/awesome-dynamic-readme](https://github.com/soroushchehresa/awesome-dynamic-readme) - A curated list of awesome GitHub dynamic READMEs
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
@@ -834,6 +848,7 @@
 
 ## hacktoberfest 
 
+- [ItsRauf/datetimecord](https://github.com/ItsRauf/datetimecord) - 
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
@@ -940,6 +955,7 @@
 
 ## http 
 
+- [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -980,6 +996,11 @@
 
 ## javascript 
 
+- [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
+- [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
+- [soroushchehresa/radiojavan-downloader](https://github.com/soroushchehresa/radiojavan-downloader) - ⬇️ Simple Google Chrome extension for downloading tracks, videos and podcasts from RadioJavan
+- [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
@@ -1085,6 +1106,7 @@
 
 ## js 
 
+- [soroushchehresa/radiojavan-downloader](https://github.com/soroushchehresa/radiojavan-downloader) - ⬇️ Simple Google Chrome extension for downloading tracks, videos and podcasts from RadioJavan
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
@@ -1185,6 +1207,8 @@
 
 ## macos 
 
+- [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
+- [soroushchehresa/giant-sur](https://github.com/soroushchehresa/giant-sur) - 🍏 macOS Big Sur UI clone for the web built with React, Next.js, TypeScript, and Tailwind CSS
 - [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
 - [changkun/rmtrash](https://github.com/changkun/rmtrash) - 🗑️ Move directory entries to Trash
 - [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server) - Local RTMP Streaming Server
@@ -1253,12 +1277,15 @@
 
 ## mongodb 
 
+- [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
 - [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api) - Programming Quotes API for open source projects.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [theabhayprajapati/Open-Apple-Store](https://github.com/theabhayprajapati/Open-Apple-Store) - Open Source Apple Store, has made this with the help of Apple Store item, this project which provide an additional choice to developer to interact with API.
 
 ## music 
 
+- [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
+- [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [web-scrobbler/metadata-filter](https://github.com/web-scrobbler/metadata-filter) - A module for cleaning up artist, album, and song names
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [digitalheir/lastfm-to-librefm-exporter](https://github.com/digitalheir/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
@@ -1308,6 +1335,7 @@
 
 ## nodejs 
 
+- [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
 - [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
 - [avi12/web-ext-deploy](https://github.com/avi12/web-ext-deploy) - A tool for deploying WebExtensions to multiple stores.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -1414,6 +1442,12 @@
 
 ## others 
 
+- [maddhruv/github-readme-npm-downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show npm packages downloads :arrow_double_down: in GitHub README
+- [omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - 📊.  Dynamically generated your StackOverflow status on your GitHub READMEs!
+- [soroushchehresa/map-nearest-location](https://github.com/soroushchehresa/map-nearest-location) - 📍 Find the nearest location and get distance from locations list without network request
+- [soroushchehresa/450-free-courses](https://github.com/soroushchehresa/450-free-courses) - 📚 Here are 450 Ivy League courses you can take online right now for free
+- [coffee-cup/lastfm-top](https://github.com/coffee-cup/lastfm-top) - See your top albums on last.fm
+- [coffee-cup/lastfm-leaderboards](https://github.com/coffee-cup/lastfm-leaderboards) - Music leaderboards powered by last.fm
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
@@ -1904,6 +1938,7 @@
 
 ## python 
 
+- [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
@@ -1951,6 +1986,9 @@
 
 ## react 
 
+- [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
+- [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
+- [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [richgong/history-by-date](https://github.com/richgong/history-by-date) - A Chrome extension that lets you browse your history by date, instead of infinite scroll.
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
@@ -1981,6 +2019,7 @@
 
 ## reactjs 
 
+- [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
@@ -1994,6 +2033,7 @@
 
 ## redux 
 
+- [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
 - [anuraghazra/BugVilla](https://github.com/anuraghazra/BugVilla) - Track, Manage & Kill Bugs Effectively :knife: :beetle:
 
@@ -2037,6 +2077,7 @@
 
 ## serverless 
 
+- [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin) - 📋 A serverless application to get dynamically generated images from your LinkedIn profile on your GitHub READMEs
 - [rafaelwi/github-readme-lastfm-stats](https://github.com/rafaelwi/github-readme-lastfm-stats) - Dynamically generated Last.fm stats for your profile readme
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
@@ -2056,10 +2097,6 @@
 - [msaaddev/git-commands-workflows](https://github.com/msaaddev/git-commands-workflows) - 🚀 All the git commands and workflows you need to know
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 
-## sketch 
-
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
-
 ## software 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -2067,6 +2104,7 @@
 
 ## statistics 
 
+- [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
 - [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
@@ -2132,6 +2170,8 @@
 
 ## typescript 
 
+- [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
+- [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [Lissy93/happy-app](https://github.com/Lissy93/happy-app) - 😃 Frictionless and anonymouse feedback system for agile teams
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
@@ -2166,6 +2206,7 @@
 
 ## vue 
 
+- [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
 - [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries) - 🌎 Just a quick app, for learning the countries, their capital cities, flags and other info
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [femioladeji/screentime](https://github.com/femioladeji/screentime) - A chrome extension for keeping track and managing your time on social media platforms and websites
