@@ -633,6 +633,7 @@
 
 ## emoji 
 
+- [wojtekmaj/country-code-to-flag-emoji](https://github.com/wojtekmaj/country-code-to-flag-emoji) - A function that returns a flag emoji given IETF language tag.
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
@@ -1136,6 +1137,7 @@
 
 ## language 
 
+- [wojtekmaj/get-user-locale](https://github.com/wojtekmaj/get-user-locale) - A function that returns user's locale as an IETF language tag, based on all available sources.
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -1442,6 +1444,7 @@
 
 ## others 
 
+- [wojtekmaj/make-cancellable-promise](https://github.com/wojtekmaj/make-cancellable-promise) - Make any Promise cancellable.
 - [maddhruv/github-readme-npm-downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show npm packages downloads :arrow_double_down: in GitHub README
 - [omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - 📊.  Dynamically generated your StackOverflow status on your GitHub READMEs!
 - [soroushchehresa/map-nearest-location](https://github.com/soroushchehresa/map-nearest-location) - 📍 Find the nearest location and get distance from locations list without network request
@@ -1986,6 +1989,15 @@
 
 ## react 
 
+- [wojtekmaj/react-hooks](https://github.com/wojtekmaj/react-hooks) - A collection of React Hooks.
+- [wojtekmaj/react-timerange-picker](https://github.com/wojtekmaj/react-timerange-picker) - A time range picker for your React app.
+- [wojtekmaj/react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) - A datetime range picker for your React app.
+- [wojtekmaj/react-time-picker](https://github.com/wojtekmaj/react-time-picker) - A time picker for your React app.
+- [wojtekmaj/react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) - A date range picker for your React app.
+- [wojtekmaj/react-datetime-picker](https://github.com/wojtekmaj/react-datetime-picker) - A datetime picker for your React app.
+- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
+- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
+- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
 - [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
