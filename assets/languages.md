@@ -313,6 +313,7 @@
 
 ## JavaScript 
 
+- [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [wojtekmaj/react-timerange-picker](https://github.com/wojtekmaj/react-timerange-picker) - A time range picker for your React app.
 - [wojtekmaj/react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) - A datetime range picker for your React app.
 - [wojtekmaj/react-time-picker](https://github.com/wojtekmaj/react-time-picker) - A time picker for your React app.
@@ -967,7 +968,7 @@
 
 ## Swift 
 
-- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on macOS.
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on MacOS.
 - [nzufelt/salutations_generator_assignment](https://github.com/nzufelt/salutations_generator_assignment) - A quiz or lab to challenge a student's ability to refactor for both efficacy and inclusivity.
 - [mxcl/Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
