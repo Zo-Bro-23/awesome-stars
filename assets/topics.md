@@ -167,6 +167,7 @@
 
 ## ai 
 
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
@@ -382,6 +383,7 @@
 
 ## chrome-extension 
 
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [soroushchehresa/radiojavan-downloader](https://github.com/soroushchehresa/radiojavan-downloader) - ⬇️ Simple Google Chrome extension for downloading tracks, videos and podcasts from RadioJavan
 - [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player
 - [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
@@ -608,6 +610,7 @@
 
 ## electron 
 
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
 - [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -948,6 +951,7 @@
 
 ## html5 
 
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
 - [jamesgeorge007/lets-chat](https://github.com/jamesgeorge007/lets-chat) - A chat app built with socket.io real time engine.
 - [jamesgeorge007/Mini-Social-Media](https://github.com/jamesgeorge007/Mini-Social-Media) - Mini Social Media backed up by Laravel and MySQL.
@@ -1209,6 +1213,7 @@
 
 ## macos 
 
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
 - [soroushchehresa/giant-sur](https://github.com/soroushchehresa/giant-sur) - 🍏 macOS Big Sur UI clone for the web built with React, Next.js, TypeScript, and Tailwind CSS
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
@@ -1338,6 +1343,7 @@
 
 ## nodejs 
 
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
 - [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
 - [avi12/web-ext-deploy](https://github.com/avi12/web-ext-deploy) - A tool for deploying WebExtensions to multiple stores.
@@ -1445,6 +1451,8 @@
 
 ## others 
 
+- [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
+- [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 frontend using Upstash for message queue + Redis
 - [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [wojtekmaj/make-cancellable-promise](https://github.com/wojtekmaj/make-cancellable-promise) - Make any Promise cancellable.
 - [maddhruv/github-readme-npm-downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show npm packages downloads :arrow_double_down: in GitHub README
@@ -1500,7 +1508,7 @@
 - [peter-murray/issue-body-parser-action](https://github.com/peter-murray/issue-body-parser-action) - A GitHub Action that can parse data from the body of an Issue and provide it as output to other GitHub Action steps
 - [christine-hu/exeter-simulator](https://github.com/christine-hu/exeter-simulator) - An homage to the trials and tribulations of attending Phillips Exeter Academy. Created January 2018.
 - [deta/deta-cli](https://github.com/deta/deta-cli) - Command line interface for managing Deta micros and deployments
-- [deta/docs](https://github.com/deta/docs) - 
+- [deta/cloud-docs](https://github.com/deta/cloud-docs) - Legacy docs for Deta Cloud
 - [sallar/led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - :crystal_ball: A simple HTML5 LED Matrix Simulator for fun
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
 - [drknzz/drknzz](https://github.com/drknzz/drknzz) - 
