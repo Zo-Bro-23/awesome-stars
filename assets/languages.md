@@ -313,6 +313,7 @@
 
 ## JavaScript 
 
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [wojtekmaj/react-timerange-picker](https://github.com/wojtekmaj/react-timerange-picker) - A time range picker for your React app.
 - [wojtekmaj/react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) - A datetime range picker for your React app.
@@ -373,7 +374,7 @@
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [christine-hu/exeter-simulator](https://github.com/christine-hu/exeter-simulator) - An homage to the trials and tribulations of attending Phillips Exeter Academy. Created January 2018.
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
-- [deta/docs](https://github.com/deta/docs) - 
+- [deta/cloud-docs](https://github.com/deta/cloud-docs) - Legacy docs for Deta Cloud
 - [sallar/led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - :crystal_ball: A simple HTML5 LED Matrix Simulator for fun
 - [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server) - Local RTMP Streaming Server
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
@@ -793,6 +794,7 @@
 
 ## Python 
 
+- [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [anufrievroman/angry-reviewer](https://github.com/anufrievroman/angry-reviewer) - Style corrector for academic writing and scientific papers at angryreviewer.com
 - [mrcoles/readmd](https://github.com/mrcoles/readmd) - Pretty-print markdown
@@ -987,6 +989,8 @@
 
 ## TypeScript 
 
+- [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 frontend using Upstash for message queue + Redis
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [wojtekmaj/make-cancellable-promise](https://github.com/wojtekmaj/make-cancellable-promise) - Make any Promise cancellable.
 - [wojtekmaj/react-hooks](https://github.com/wojtekmaj/react-hooks) - A collection of React Hooks.
 - [wojtekmaj/get-user-locale](https://github.com/wojtekmaj/get-user-locale) - A function that returns user's locale as an IETF language tag, based on all available sources.
