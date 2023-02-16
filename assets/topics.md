@@ -383,6 +383,8 @@
 
 ## chrome-extension 
 
+- [omidnikrah/snapp-total-price-extension](https://github.com/omidnikrah/snapp-total-price-extension) - 🚗 Chrome extension to get the Snapp total price
+- [omidnikrah/anonymous-instagram-story-seen](https://github.com/omidnikrah/anonymous-instagram-story-seen) - Seen Instagram stories anonymously
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [soroushchehresa/radiojavan-downloader](https://github.com/soroushchehresa/radiojavan-downloader) - ⬇️ Simple Google Chrome extension for downloading tracks, videos and podcasts from RadioJavan
 - [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player
@@ -418,6 +420,7 @@
 
 ## cli 
 
+- [maddhruv/npmtotal](https://github.com/maddhruv/npmtotal) - Find you npm download statistics
 - [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
 - [trekhleb/nodejs-master-class](https://github.com/trekhleb/nodejs-master-class) - 🛠 This repository contains the homework assignment for Node.js Master Class that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS with no NPM or 3rd-party libraries
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
@@ -499,6 +502,7 @@
 
 ## css 
 
+- [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
@@ -610,6 +614,8 @@
 
 ## electron 
 
+- [omidnikrah/electron-github](https://github.com/omidnikrah/electron-github) - Desktop version of Github with Electron
+- [omidnikrah/WTC](https://github.com/omidnikrah/WTC) - ⏱💰Working Time Calculator app for remote workers.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
 - [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
@@ -738,6 +744,7 @@
 
 ## github 
 
+- [omidnikrah/react-github](https://github.com/omidnikrah/react-github) - 👥 A simple react version of Github
 - [soroushchehresa/awesome-dynamic-readme](https://github.com/soroushchehresa/awesome-dynamic-readme) - A curated list of awesome GitHub dynamic READMEs
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
@@ -1001,6 +1008,11 @@
 
 ## javascript 
 
+- [omidnikrah/electron-github](https://github.com/omidnikrah/electron-github) - Desktop version of Github with Electron
+- [omidnikrah/snapp-total-price-extension](https://github.com/omidnikrah/snapp-total-price-extension) - 🚗 Chrome extension to get the Snapp total price
+- [omidnikrah/football-live-score-extension](https://github.com/omidnikrah/football-live-score-extension) - ⚽️A Chrome extension to display football live score.
+- [omidnikrah/anonymous-instagram-story-seen](https://github.com/omidnikrah/anonymous-instagram-story-seen) - Seen Instagram stories anonymously
+- [omidnikrah/WTC](https://github.com/omidnikrah/WTC) - ⏱💰Working Time Calculator app for remote workers.
 - [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
 - [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [soroushchehresa/radiojavan-downloader](https://github.com/soroushchehresa/radiojavan-downloader) - ⬇️ Simple Google Chrome extension for downloading tracks, videos and podcasts from RadioJavan
@@ -1409,6 +1421,7 @@
 
 ## npm 
 
+- [maddhruv/npmtotal](https://github.com/maddhruv/npmtotal) - Find you npm download statistics
 - [Zo-Bro-23/population-simulation](https://github.com/Zo-Bro-23/population-simulation) - NPM package that runs population simulations based on Hardy-Weinberg principles
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
@@ -1451,6 +1464,13 @@
 
 ## others 
 
+- [googlesamples/assistant-sdk-nodejs](https://github.com/googlesamples/assistant-sdk-nodejs) - 
+- [maddhruv/loading-messages](https://github.com/maddhruv/loading-messages) - Get Random Funny Loading Messages/Texts for your app.
+- [maddhruv/imaginator](https://github.com/maddhruv/imaginator) - :circus_tent: Generates Random Quotes :speech_balloon: Images! https://maddhruv.github.io/imaginator
+- [omidnikrah/github-readme-medium](https://github.com/omidnikrah/github-readme-medium) - 📖    Dynamically generated your latest Medium article on your GitHub readmes!
+- [akshayravikumar/imagegen](https://github.com/akshayravikumar/imagegen) - random image generator
+- [akshayravikumar/crosswords](https://github.com/akshayravikumar/crosswords) - generates nyt crossword grids
+- [akshayravikumar/TeXnique](https://github.com/akshayravikumar/TeXnique) - A LaTeX Typesetting Game
 - [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 frontend using Upstash for message queue + Redis
 - [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
@@ -1998,6 +2018,9 @@
 
 ## react 
 
+- [omidnikrah/electron-github](https://github.com/omidnikrah/electron-github) - Desktop version of Github with Electron
+- [omidnikrah/football-live-score-extension](https://github.com/omidnikrah/football-live-score-extension) - ⚽️A Chrome extension to display football live score.
+- [omidnikrah/react-github](https://github.com/omidnikrah/react-github) - 👥 A simple react version of Github
 - [wojtekmaj/react-hooks](https://github.com/wojtekmaj/react-hooks) - A collection of React Hooks.
 - [wojtekmaj/react-timerange-picker](https://github.com/wojtekmaj/react-timerange-picker) - A time range picker for your React app.
 - [wojtekmaj/react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) - A datetime range picker for your React app.
@@ -2040,6 +2063,8 @@
 
 ## reactjs 
 
+- [omidnikrah/react-github](https://github.com/omidnikrah/react-github) - 👥 A simple react version of Github
+- [omidnikrah/WTC](https://github.com/omidnikrah/WTC) - ⏱💰Working Time Calculator app for remote workers.
 - [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
@@ -2166,6 +2191,7 @@
 
 ## terminal 
 
+- [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [Zo-Bro-23/terminal-portfolio](https://github.com/Zo-Bro-23/terminal-portfolio) - Fork of @aarush-narang/portfolio
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
