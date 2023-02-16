@@ -157,6 +157,8 @@
 
 ## CSS 
 
+- [maddhruv/imaginator](https://github.com/maddhruv/imaginator) - :circus_tent: Generates Random Quotes :speech_balloon: Images! https://maddhruv.github.io/imaginator
+- [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
 - [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
 - [anufrievroman/whale](https://github.com/anufrievroman/whale) - Dark theme inspired by Ark and Nord
 - [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
@@ -213,6 +215,7 @@
 
 ## Go 
 
+- [akshayravikumar/crosswords](https://github.com/akshayravikumar/crosswords) - generates nyt crossword grids
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
@@ -313,6 +316,17 @@
 
 ## JavaScript 
 
+- [googlesamples/assistant-sdk-nodejs](https://github.com/googlesamples/assistant-sdk-nodejs) - 
+- [maddhruv/loading-messages](https://github.com/maddhruv/loading-messages) - Get Random Funny Loading Messages/Texts for your app.
+- [maddhruv/npmtotal](https://github.com/maddhruv/npmtotal) - Find you npm download statistics
+- [omidnikrah/electron-github](https://github.com/omidnikrah/electron-github) - Desktop version of Github with Electron
+- [omidnikrah/snapp-total-price-extension](https://github.com/omidnikrah/snapp-total-price-extension) - 🚗 Chrome extension to get the Snapp total price
+- [omidnikrah/football-live-score-extension](https://github.com/omidnikrah/football-live-score-extension) - ⚽️A Chrome extension to display football live score.
+- [omidnikrah/anonymous-instagram-story-seen](https://github.com/omidnikrah/anonymous-instagram-story-seen) - Seen Instagram stories anonymously
+- [omidnikrah/react-github](https://github.com/omidnikrah/react-github) - 👥 A simple react version of Github
+- [omidnikrah/WTC](https://github.com/omidnikrah/WTC) - ⏱💰Working Time Calculator app for remote workers.
+- [omidnikrah/github-readme-medium](https://github.com/omidnikrah/github-readme-medium) - 📖    Dynamically generated your latest Medium article on your GitHub readmes!
+- [akshayravikumar/TeXnique](https://github.com/akshayravikumar/TeXnique) - A LaTeX Typesetting Game
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [wojtekmaj/react-timerange-picker](https://github.com/wojtekmaj/react-timerange-picker) - A time range picker for your React app.
@@ -794,6 +808,7 @@
 
 ## Python 
 
+- [akshayravikumar/imagegen](https://github.com/akshayravikumar/imagegen) - random image generator
 - [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [anufrievroman/angry-reviewer](https://github.com/anufrievroman/angry-reviewer) - Style corrector for academic writing and scientific papers at angryreviewer.com
