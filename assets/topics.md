@@ -1470,6 +1470,9 @@
 
 ## others 
 
+- [mwittrien/mwittrien.github.io](https://github.com/mwittrien/mwittrien.github.io) - 
+- [jammus/lastfm-node](https://github.com/jammus/lastfm-node) - Read and write to Last.fm with node.js
+- [keune/demastered](https://github.com/keune/demastered) - Clean up your recent scrobbles.
 - [AlexisJonsson/AlexisJonsson.github.io](https://github.com/AlexisJonsson/AlexisJonsson.github.io) - 
 - [googlesamples/assistant-sdk-nodejs](https://github.com/googlesamples/assistant-sdk-nodejs) - 
 - [maddhruv/loading-messages](https://github.com/maddhruv/loading-messages) - Get Random Funny Loading Messages/Texts for your app.
