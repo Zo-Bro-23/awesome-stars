@@ -103,6 +103,10 @@
 
 ## C# # 
 
+- [gpkgpk/HideVolumeOSD](https://github.com/gpkgpk/HideVolumeOSD) - Hide the Windows 10/11 volume bar
+- [UnlimitedStack/HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide the Windows 10 volume bar
+- [torchgm/ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - A simple app that lets you pin windows to your desktop and use fullscreen programs and videos as interactive wallpapers.
+- [torchgm/RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 - [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
@@ -125,6 +129,9 @@
 
 ## C++ 
 
+- [Wielding/MediaOsdToggle](https://github.com/Wielding/MediaOsdToggle) - Small Windows application to toggle the visibility of the Windows Media OSD
+- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+- [torchgm/NewModernWinver](https://github.com/torchgm/NewModernWinver) - A modern and functional replacement for the About Windows dialog
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [ajeetdsouza/pifs](https://github.com/ajeetdsouza/pifs) - The compile-time data-free filesystem
@@ -319,6 +326,8 @@
 
 ## JavaScript 
 
+- [peterhanania/Pogy](https://github.com/peterhanania/Pogy) - A fully customizable discord bot made with discord.js with over 183 commands, 12 categories, and a fully customizable dashboard. Watching over 350,000 users and 1k guilds. [deprecated]
+- [ShinyMustard22/eulersmethod](https://github.com/ShinyMustard22/eulersmethod) - 
 - [mwittrien/mwittrien.github.io](https://github.com/mwittrien/mwittrien.github.io) - 
 - [jammus/lastfm-node](https://github.com/jammus/lastfm-node) - Read and write to Last.fm with node.js
 - [keune/demastered](https://github.com/keune/demastered) - Clean up your recent scrobbles.
@@ -1014,6 +1023,7 @@
 
 ## TypeScript 
 
+- [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 frontend using Upstash for message queue + Redis
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [wojtekmaj/make-cancellable-promise](https://github.com/wojtekmaj/make-cancellable-promise) - Make any Promise cancellable.
@@ -1169,6 +1179,7 @@
 
 ## Vue 
 
+- [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding) - 🌀 Quickly preview and select the branding icon used by github action.
 - [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
 - [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries) - 🌎 Just a quick app, for learning the countries, their capital cities, flags and other info
