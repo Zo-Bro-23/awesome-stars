@@ -326,6 +326,11 @@
 
 ## JavaScript 
 
+- [jettracker-io/plane-identifiers](https://github.com/jettracker-io/plane-identifiers) - A tiny repository that includes a plane identifier database (i.e. planes.json) that can be used to link several private or corporate jets to people or companies.
+- [awreck/proofread-action](https://github.com/awreck/proofread-action) - 🧹 GitHub Action that automatically spots spelling and grammar mistakes in PRs
+- [Zo-Bro-23/grs-action](https://github.com/Zo-Bro-23/grs-action) - 🤖 GitHub Action for @anuraghazra/github-readme-stats
+- [Zo-Bro-23/github-readme-stats](https://github.com/Zo-Bro-23/github-readme-stats) - Fork of @anuraghazra/github-readme-stats
+- [Zo-Bro-23/euler-method](https://github.com/Zo-Bro-23/euler-method) - NPM package for approximating differential equations (using Euler's method)
 - [peterhanania/Pogy](https://github.com/peterhanania/Pogy) - A fully customizable discord bot made with discord.js with over 183 commands, 12 categories, and a fully customizable dashboard. Watching over 350,000 users and 1k guilds. [deprecated]
 - [ShinyMustard22/eulersmethod](https://github.com/ShinyMustard22/eulersmethod) - 
 - [mwittrien/mwittrien.github.io](https://github.com/mwittrien/mwittrien.github.io) - 
@@ -456,6 +461,7 @@
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Tominous/Set-Discord-Activity](https://github.com/Tominous/Set-Discord-Activity) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
@@ -684,7 +690,7 @@
 
 ## Kotlin 
 
-- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - :battery: Safely charge your phone in public places without the worry of it being stolen
+- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
@@ -715,6 +721,7 @@
 
 ## Others 
 
+- [awreck/template](https://github.com/awreck/template) - ⚡️ Template for quickly getting started on an AWoW project
 - [soroushchehresa/awesome-dynamic-readme](https://github.com/soroushchehresa/awesome-dynamic-readme) - A curated list of awesome GitHub dynamic READMEs
 - [soroushchehresa/450-free-courses](https://github.com/soroushchehresa/450-free-courses) - 📚 Here are 450 Ivy League courses you can take online right now for free
 - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
@@ -741,7 +748,6 @@
 - [miketheman/awesome-taglines](https://github.com/miketheman/awesome-taglines) - Awesome list of software taglines
 - [carykh/EvolutionSimulator2D](https://github.com/carykh/EvolutionSimulator2D) - This is my old evolution simulator from July 2016. I guess that's not THAT long ago...
 - [patzly/grocy-android-unlock](https://github.com/patzly/grocy-android-unlock) - Unlock AI-based barcode scanning in Grocy Android
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [OceanicSquirrel/themes-for-ytmdesktop-player](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player) - If you are using the https://github.com/ytmdesktop/ytmdesktop player, you can copy these CSS files to try different color themes. (This is not affiliated with YouTube or the ytmdesktop project)
@@ -1023,6 +1029,8 @@
 
 ## TypeScript 
 
+- [jettracker-io/jettracker](https://github.com/jettracker-io/jettracker) - Web interface  that can be used to track the jets of (wealthy) individuals and companies and hold them accountable for their flight CO2 emissions.
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 frontend using Upstash for message queue + Redis
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
