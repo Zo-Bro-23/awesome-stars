@@ -1023,6 +1023,7 @@
 
 ## javascript 
 
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [peterhanania/Pogy](https://github.com/peterhanania/Pogy) - A fully customizable discord bot made with discord.js with over 183 commands, 12 categories, and a fully customizable dashboard. Watching over 350,000 users and 1k guilds. [deprecated]
 - [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [omidnikrah/electron-github](https://github.com/omidnikrah/electron-github) - Desktop version of Github with Electron
@@ -1374,6 +1375,7 @@
 
 ## nodejs 
 
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [peterhanania/Pogy](https://github.com/peterhanania/Pogy) - A fully customizable discord bot made with discord.js with over 183 commands, 12 categories, and a fully customizable dashboard. Watching over 350,000 users and 1k guilds. [deprecated]
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
@@ -1484,6 +1486,13 @@
 
 ## others 
 
+- [jettracker-io/jettracker](https://github.com/jettracker-io/jettracker) - Web interface  that can be used to track the jets of (wealthy) individuals and companies and hold them accountable for their flight CO2 emissions.
+- [jettracker-io/plane-identifiers](https://github.com/jettracker-io/plane-identifiers) - A tiny repository that includes a plane identifier database (i.e. planes.json) that can be used to link several private or corporate jets to people or companies.
+- [awreck/template](https://github.com/awreck/template) - ⚡️ Template for quickly getting started on an AWoW project
+- [awreck/proofread-action](https://github.com/awreck/proofread-action) - 🧹 GitHub Action that automatically spots spelling and grammar mistakes in PRs
+- [Zo-Bro-23/grs-action](https://github.com/Zo-Bro-23/grs-action) - 🤖 GitHub Action for @anuraghazra/github-readme-stats
+- [Zo-Bro-23/github-readme-stats](https://github.com/Zo-Bro-23/github-readme-stats) - Fork of @anuraghazra/github-readme-stats
+- [Zo-Bro-23/euler-method](https://github.com/Zo-Bro-23/euler-method) - NPM package for approximating differential equations (using Euler's method)
 - [gpkgpk/HideVolumeOSD](https://github.com/gpkgpk/HideVolumeOSD) - Hide the Windows 10/11 volume bar
 - [Wielding/MediaOsdToggle](https://github.com/Wielding/MediaOsdToggle) - Small Windows application to toggle the visibility of the Windows Media OSD
 - [UnlimitedStack/HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide the Windows 10 volume bar
@@ -1539,7 +1548,7 @@
 - [avi12/youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Like videos with Shift+Plus, dislike with Shift+Minus.
 - [avi12/youtube-downloader](https://github.com/avi12/youtube-downloader) - A browser extension for simplifying downloading YouTube videos.
 - [avi12/youtube-auto-hd](https://github.com/avi12/youtube-auto-hd) - A simple browser extension for changing YouTube videos' quality based on FPS.
-- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - :battery: Safely charge your phone in public places without the worry of it being stolen
+- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen
 - [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
 - [martinwoodward/smart-xmas](https://github.com/martinwoodward/smart-xmas) - Star this repo to add some sparkle to my tree
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
@@ -2141,6 +2150,7 @@
 
 ## security 
 
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -2247,6 +2257,7 @@
 
 ## typescript 
 
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
 - [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
