@@ -103,6 +103,8 @@
 
 ## C# # 
 
+- [rocksdanister/lively-linux](https://github.com/rocksdanister/lively-linux) - Experimental linux version of Lively Wallpaper
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [gpkgpk/HideVolumeOSD](https://github.com/gpkgpk/HideVolumeOSD) - Hide the Windows 10/11 volume bar
 - [UnlimitedStack/HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide the Windows 10 volume bar
 - [torchgm/ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - A simple app that lets you pin windows to your desktop and use fullscreen programs and videos as interactive wallpapers.
@@ -129,6 +131,8 @@
 
 ## C++ 
 
+- [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
+- [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [Wielding/MediaOsdToggle](https://github.com/Wielding/MediaOsdToggle) - Small Windows application to toggle the visibility of the Windows Media OSD
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [torchgm/NewModernWinver](https://github.com/torchgm/NewModernWinver) - A modern and functional replacement for the About Windows dialog
@@ -326,7 +330,16 @@
 
 ## JavaScript 
 
-- [jettracker-io/plane-identifiers](https://github.com/jettracker-io/plane-identifiers) - A tiny repository that includes a plane identifier database (i.e. planes.json) that can be used to link several private or corporate jets to people or companies.
+- [mlomb/countapi-js](https://github.com/mlomb/countapi-js) - Wrapper for CountAPI using promises.
+- [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
+- [nroutasuo/lastfm-vis](https://github.com/nroutasuo/lastfm-vis) - Visualizations of Last.fm data
+- [musicorum-app/generator](https://github.com/musicorum-app/generator) - The image generator for musicorum app
+- [mold/explr](https://github.com/mold/explr) - Explr the world through music
+- [JasonPuglisi/descent](https://github.com/JasonPuglisi/descent) - Elegant now playing display for Last.fm showing song metadata and local weather.
+- [awhite/lastcollage-cli](https://github.com/awhite/lastcollage-cli) - Generate a collage of your most played Last.fm albums from the command line
+- [awhite/lastcollage](https://github.com/awhite/lastcollage) - Generates a collage of album artwork based on data from Last.fm
+- [awhite/lastfm-collage-generator](https://github.com/awhite/lastfm-collage-generator) - Top albums collage generator for Last.fm
+- [jettracker-org/plane-identifiers](https://github.com/jettracker-org/plane-identifiers) - A tiny repository that includes a plane identifier database (i.e. planes.json) that can be used to link several private or corporate jets to people or companies.
 - [awreck/proofread-action](https://github.com/awreck/proofread-action) - 🧹 GitHub Action that automatically spots spelling and grammar mistakes in PRs
 - [Zo-Bro-23/grs-action](https://github.com/Zo-Bro-23/grs-action) - 🤖 GitHub Action for @anuraghazra/github-readme-stats
 - [Zo-Bro-23/github-readme-stats](https://github.com/Zo-Bro-23/github-readme-stats) - Fork of @anuraghazra/github-readme-stats
@@ -795,6 +808,8 @@
 
 ## PHP 
 
+- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Testing some stuff
+- [Dinduks/Lastfm-Top-Albums](https://github.com/Dinduks/Lastfm-Top-Albums) - This script generates a banner with the covers of your top albums, based on your Last.fm statistics.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [stefanzweifel/laravel-sends](https://github.com/stefanzweifel/laravel-sends) - A package to keep track of outgoing emails in your Laravel application.
 - [stefanzweifel/diary-app](https://github.com/stefanzweifel/diary-app) - 🔐An End-To-End Encrypted Diary Web App
@@ -833,6 +848,7 @@
 
 ## Python 
 
+- [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [akshayravikumar/imagegen](https://github.com/akshayravikumar/imagegen) - random image generator
 - [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -1029,7 +1045,11 @@
 
 ## TypeScript 
 
-- [jettracker-io/jettracker](https://github.com/jettracker-io/jettracker) - Web interface  that can be used to track the jets of (wealthy) individuals and companies and hold them accountable for their flight CO2 emissions.
+- [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
+- [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
+- [felhag/spotify-stats-web](https://github.com/felhag/spotify-stats-web) - Mirror of lastfm-stats-web since gh-pages cant deploy branches sites yet.
+- [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
+- [jettracker-org/jettracker](https://github.com/jettracker-org/jettracker) - Web interface  that can be used to track the jets of (wealthy) individuals and companies and hold them accountable for their flight CO2 emissions.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 frontend using Upstash for message queue + Redis
