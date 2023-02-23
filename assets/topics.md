@@ -436,6 +436,7 @@
 - [Araxeus/ls-interactive](https://github.com/Araxeus/ls-interactive) - Interactive ls command
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate insightful chat analysis reports in the browser
 - [Platane/github-secret-dotenv](https://github.com/Platane/github-secret-dotenv) - 🗝 upload secrets to github from your .env file
 - [jamesgeorge007/ghstats-cli](https://github.com/jamesgeorge007/ghstats-cli) - Get to know about the GitHub activity of a user from the comfort of the Terminal
 - [jamesgeorge007/hackalist-cli](https://github.com/jamesgeorge007/hackalist-cli) - Get to know about the upcoming hackathons without leaving your terminal.
@@ -1513,7 +1514,6 @@
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
 - [awhite/lastcollage-cli](https://github.com/awhite/lastcollage-cli) - Generate a collage of your most played Last.fm albums from the command line
 - [awhite/lastcollage](https://github.com/awhite/lastcollage) - Generates a collage of album artwork based on data from Last.fm
-- [jettracker-org/jettracker](https://github.com/jettracker-org/jettracker) - Web interface  that can be used to track the jets of (wealthy) individuals and companies and hold them accountable for their flight CO2 emissions.
 - [jettracker-org/plane-identifiers](https://github.com/jettracker-org/plane-identifiers) - A tiny repository that includes a plane identifier database (i.e. planes.json) that can be used to link several private or corporate jets to people or companies.
 - [awreck/template](https://github.com/awreck/template) - ⚡️ Template for quickly getting started on an AWoW project
 - [awreck/proofread-action](https://github.com/awreck/proofread-action) - 🧹 GitHub Action that automatically spots spelling and grammar mistakes in PRs
