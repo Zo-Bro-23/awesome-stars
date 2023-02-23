@@ -1049,7 +1049,6 @@
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [felhag/spotify-stats-web](https://github.com/felhag/spotify-stats-web) - Mirror of lastfm-stats-web since gh-pages cant deploy branches sites yet.
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
-- [jettracker-org/jettracker](https://github.com/jettracker-org/jettracker) - Web interface  that can be used to track the jets of (wealthy) individuals and companies and hold them accountable for their flight CO2 emissions.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 frontend using Upstash for message queue + Redis
