@@ -77,6 +77,7 @@
 
 ## C 
 
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
@@ -330,6 +331,7 @@
 
 ## JavaScript 
 
+- [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [mlomb/countapi-js](https://github.com/mlomb/countapi-js) - Wrapper for CountAPI using promises.
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
 - [nroutasuo/lastfm-vis](https://github.com/nroutasuo/lastfm-vis) - Visualizations of Last.fm data
@@ -1045,6 +1047,7 @@
 
 ## TypeScript 
 
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [felhag/spotify-stats-web](https://github.com/felhag/spotify-stats-web) - Mirror of lastfm-stats-web since gh-pages cant deploy branches sites yet.
