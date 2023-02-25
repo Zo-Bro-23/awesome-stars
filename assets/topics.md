@@ -156,7 +156,6 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
-- [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
@@ -511,6 +510,7 @@
 
 ## css 
 
+- [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
@@ -767,6 +767,7 @@
 
 ## github 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding) - 🌀 Quickly preview and select the branding icon used by github action.
 - [omidnikrah/react-github](https://github.com/omidnikrah/react-github) - 👥 A simple react version of Github
 - [soroushchehresa/awesome-dynamic-readme](https://github.com/soroushchehresa/awesome-dynamic-readme) - A curated list of awesome GitHub dynamic READMEs
@@ -813,6 +814,7 @@
 
 ## github-api 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
@@ -824,6 +826,7 @@
 
 ## go 
 
+- [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
@@ -845,6 +848,7 @@
 
 ## golang 
 
+- [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
@@ -973,6 +977,7 @@
 
 ## html 
 
+- [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -993,6 +998,7 @@
 
 ## http 
 
+- [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
@@ -1034,6 +1040,8 @@
 
 ## javascript 
 
+- [jstrieb/link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser; create hidden bookmarks without a browser extension
+- [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [nroutasuo/lastfm-vis](https://github.com/nroutasuo/lastfm-vis) - Visualizations of Last.fm data
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
@@ -1200,6 +1208,7 @@
 
 ## latex 
 
+- [jstrieb/homework-template](https://github.com/jstrieb/homework-template) - Typeset assignments and problem sets using LaTeX; typographically optimized for online submission
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
 - [DXsmiley/LatexBot](https://github.com/DXsmiley/LatexBot) - Discord bot that renders LaTeX equations.
@@ -1510,6 +1519,8 @@
 
 ## others 
 
+- [jstrieb/procrastinate](https://github.com/jstrieb/procrastinate) - One button, infinite web comics. Never focus again.
+- [jstrieb/hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and WebAssembly
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [rocksdanister/lively-linux](https://github.com/rocksdanister/lively-linux) - Experimental linux version of Lively Wallpaper
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
@@ -1522,7 +1533,6 @@
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
 - [awhite/lastcollage-cli](https://github.com/awhite/lastcollage-cli) - Generate a collage of your most played Last.fm albums from the command line
 - [awhite/lastcollage](https://github.com/awhite/lastcollage) - Generates a collage of album artwork based on data from Last.fm
-- [jettracker-org/plane-identifiers](https://github.com/jettracker-org/plane-identifiers) - A tiny repository that includes a plane identifier database (i.e. planes.json) that can be used to link several private or corporate jets to people or companies.
 - [awreck/template](https://github.com/awreck/template) - ⚡️ Template for quickly getting started on an AWoW project
 - [awreck/proofread-action](https://github.com/awreck/proofread-action) - 🧹 GitHub Action that automatically spots spelling and grammar mistakes in PRs
 - [Zo-Bro-23/grs-action](https://github.com/Zo-Bro-23/grs-action) - 🤖 GitHub Action for @anuraghazra/github-readme-stats
@@ -2044,6 +2054,7 @@
 
 ## python 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -2075,6 +2086,7 @@
 
 ## python3 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [jamesgeorge007/GitHub-Mate](https://github.com/jamesgeorge007/GitHub-Mate) - This is the web implementation of github-mate Desktop app using the Flask web application framework with extended capabilities.
 - [jamesgeorge007/Catch-It](https://github.com/jamesgeorge007/Catch-It) - The traditional Egg Catching game clone with a much better user experience. :video_game:
@@ -2228,6 +2240,7 @@
 
 ## statistics 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
 - [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
@@ -2321,10 +2334,6 @@
 - [Savjee/google-sheets-wrapper](https://github.com/Savjee/google-sheets-wrapper) - Lightweight wrapper around the official Google Sheets API that makes it easy to read/write rows
 - [andycb/AdventurerClientJS](https://github.com/andycb/AdventurerClientJS) - An unofficial cross platform client for working with the Monoprice Voxel or Flashforge Adventurer 3
 
-## unity 
-
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-
 ## vim 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2353,6 +2362,7 @@
 
 ## web 
 
+- [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com) - The Annoying Site a.k.a. "The Power of the Web Platform"
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
