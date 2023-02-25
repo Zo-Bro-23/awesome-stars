@@ -77,6 +77,7 @@
 
 ## C 
 
+- [jstrieb/hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and WebAssembly
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
@@ -230,6 +231,7 @@
 
 ## Go 
 
+- [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [akshayravikumar/crosswords](https://github.com/akshayravikumar/crosswords) - generates nyt crossword grids
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
@@ -331,6 +333,9 @@
 
 ## JavaScript 
 
+- [jstrieb/procrastinate](https://github.com/jstrieb/procrastinate) - One button, infinite web comics. Never focus again.
+- [jstrieb/link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser; create hidden bookmarks without a browser extension
+- [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [mlomb/countapi-js](https://github.com/mlomb/countapi-js) - Wrapper for CountAPI using promises.
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
@@ -341,7 +346,6 @@
 - [awhite/lastcollage-cli](https://github.com/awhite/lastcollage-cli) - Generate a collage of your most played Last.fm albums from the command line
 - [awhite/lastcollage](https://github.com/awhite/lastcollage) - Generates a collage of album artwork based on data from Last.fm
 - [awhite/lastfm-collage-generator](https://github.com/awhite/lastfm-collage-generator) - Top albums collage generator for Last.fm
-- [jettracker-org/plane-identifiers](https://github.com/jettracker-org/plane-identifiers) - A tiny repository that includes a plane identifier database (i.e. planes.json) that can be used to link several private or corporate jets to people or companies.
 - [awreck/proofread-action](https://github.com/awreck/proofread-action) - 🧹 GitHub Action that automatically spots spelling and grammar mistakes in PRs
 - [Zo-Bro-23/grs-action](https://github.com/Zo-Bro-23/grs-action) - 🤖 GitHub Action for @anuraghazra/github-readme-stats
 - [Zo-Bro-23/github-readme-stats](https://github.com/Zo-Bro-23/github-readme-stats) - Fork of @anuraghazra/github-readme-stats
@@ -850,6 +854,7 @@
 
 ## Python 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [akshayravikumar/imagegen](https://github.com/akshayravikumar/imagegen) - random image generator
 - [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
@@ -1042,6 +1047,7 @@
 
 ## TeX 
 
+- [jstrieb/homework-template](https://github.com/jstrieb/homework-template) - Typeset assignments and problem sets using LaTeX; typographically optimized for online submission
 - [lambdasolver/LaTeX](https://github.com/lambdasolver/LaTeX) - All My LaTeX Works till Now are here all togather.
 - [latex3/latex3](https://github.com/latex3/latex3) - The expl3 (LaTeX3) Development Repository
 
