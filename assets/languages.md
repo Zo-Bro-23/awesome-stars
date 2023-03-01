@@ -202,6 +202,7 @@
 
 ## Dart 
 
+- [nrubin29/finale](https://github.com/nrubin29/finale) - A fully-featured Last.fm client and scrobbler with Shazam-like scrobbling, a collage generator, home screen widgets, and more!
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [KRTirtho/platform_ui](https://github.com/KRTirtho/platform_ui) - Flutter platform specific Widgets and abstractions
 - [KRTirtho/facebook_ui_clone](https://github.com/KRTirtho/facebook_ui_clone) - A minimal facebook ui clone written with Dart & designed with Flutter
