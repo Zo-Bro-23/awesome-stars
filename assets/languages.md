@@ -1216,6 +1216,7 @@
 
 ## Vue 
 
+- [TheTeaCat/lastfm-tag-cloud](https://github.com/TheTeaCat/lastfm-tag-cloud) - A last.fm tag cloud generator, built with Vue!
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding) - 🌀 Quickly preview and select the branding icon used by github action.
 - [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
