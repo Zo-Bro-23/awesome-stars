@@ -1042,6 +1042,7 @@
 
 ## javascript 
 
+- [TheTeaCat/lastfm-tag-cloud](https://github.com/TheTeaCat/lastfm-tag-cloud) - A last.fm tag cloud generator, built with Vue!
 - [jstrieb/link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser; create hidden bookmarks without a browser extension
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -2349,6 +2350,7 @@
 
 ## vue 
 
+- [TheTeaCat/lastfm-tag-cloud](https://github.com/TheTeaCat/lastfm-tag-cloud) - A last.fm tag cloud generator, built with Vue!
 - [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding) - 🌀 Quickly preview and select the branding icon used by github action.
 - [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
 - [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries) - 🌎 Just a quick app, for learning the countries, their capital cities, flags and other info
