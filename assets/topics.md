@@ -159,6 +159,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -169,7 +170,7 @@
 ## ai 
 
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
-- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 
@@ -183,7 +184,7 @@
 
 - [awhite/lastfm-collage-generator](https://github.com/awhite/lastfm-collage-generator) - Top albums collage generator for Last.fm
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate insightful chat analysis reports in the browser
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 
 ## android 
 
@@ -372,7 +373,7 @@
 ## chatgpt 
 
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
-- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
@@ -436,7 +437,7 @@
 - [Araxeus/ls-interactive](https://github.com/Araxeus/ls-interactive) - Interactive ls command
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate insightful chat analysis reports in the browser
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [Platane/github-secret-dotenv](https://github.com/Platane/github-secret-dotenv) - 🗝 upload secrets to github from your .env file
 - [jamesgeorge007/ghstats-cli](https://github.com/jamesgeorge007/ghstats-cli) - Get to know about the GitHub activity of a user from the comfort of the Terminal
 - [jamesgeorge007/hackalist-cli](https://github.com/jamesgeorge007/hackalist-cli) - Get to know about the upcoming hackathons without leaving your terminal.
@@ -547,7 +548,7 @@
 
 ## data-visualization 
 
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate insightful chat analysis reports in the browser
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 
 ## database 
 
@@ -590,7 +591,7 @@
 - [vegeta897/d-bot](https://github.com/vegeta897/d-bot) - A quirky Discord bot made for single, small, private servers
 - [vegeta897/snow-stamp](https://github.com/vegeta897/snow-stamp) - Get the timestamp from a Discord snowflake ❄
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate insightful chat analysis reports in the browser
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
@@ -2279,7 +2280,7 @@
 
 ## telegram 
 
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate insightful chat analysis reports in the browser
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in GoLang.
 - [plibither8/bookbroker](https://github.com/plibither8/bookbroker) - 🤖📚 Telegram bot to convert and email PDFs, EPUBs or MOBIs to your Kindle
 
@@ -2363,6 +2364,13 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
+
+## vuejs 
+
+- [TheTeaCat/lastfm-tag-cloud](https://github.com/TheTeaCat/lastfm-tag-cloud) - A last.fm tag cloud generator, built with Vue!
+- [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 
 ## web 
 
