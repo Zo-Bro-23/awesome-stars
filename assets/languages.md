@@ -1079,7 +1079,7 @@
 - [coffee-cup/lastfm-top](https://github.com/coffee-cup/lastfm-top) - See your top albums on last.fm
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
-- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [avi12/youtube-subscriptions-sort](https://github.com/avi12/youtube-subscriptions-sort) - A browser extension for opening YouTube videos in ascending watch time order
@@ -1126,7 +1126,7 @@
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype
 - [slatinsky/x86sim](https://github.com/slatinsky/x86sim) - Web based simulator of x86 Intel computer in a 16-bit real mode made for education purposes
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate insightful chat analysis reports in the browser
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
