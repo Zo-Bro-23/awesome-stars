@@ -1530,6 +1530,7 @@
 
 ## others 
 
+- [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
 - [jstrieb/procrastinate](https://github.com/jstrieb/procrastinate) - One button, infinite web comics. Never focus again.
 - [jstrieb/hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and WebAssembly
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
