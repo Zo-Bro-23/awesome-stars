@@ -741,6 +741,7 @@
 
 ## Others 
 
+- [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
 - [awreck/template](https://github.com/awreck/template) - ⚡️ Template for quickly getting started on an AWoW project
 - [soroushchehresa/awesome-dynamic-readme](https://github.com/soroushchehresa/awesome-dynamic-readme) - A curated list of awesome GitHub dynamic READMEs
 - [soroushchehresa/450-free-courses](https://github.com/soroushchehresa/450-free-courses) - 📚 Here are 450 Ivy League courses you can take online right now for free
