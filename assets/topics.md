@@ -470,7 +470,7 @@
 
 ## compiler 
 
-- [ajeetdsouza/loxcraft](https://github.com/ajeetdsouza/loxcraft) - Language tooling for the Lox programming language
+- [ajeetdsouza/loxcraft](https://github.com/ajeetdsouza/loxcraft) - Language tooling for the Lox programming language.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 
 ## computer-vision 
@@ -492,7 +492,7 @@
 
 ## cpp 
 
-- [ajeetdsouza/pifs](https://github.com/ajeetdsouza/pifs) - The compile-time data-free filesystem
+- [ajeetdsouza/pifs](https://github.com/ajeetdsouza/pifs) - The compile-time, data-free filesystem.
 - [MinhasKamal/TrojanCockroach](https://github.com/MinhasKamal/TrojanCockroach) - A Stealthy Trojan Spyware
 - [knightron0/helloworld](https://github.com/knightron0/helloworld) - Collection of "hello world" programs in different programming languages.
 
@@ -769,6 +769,7 @@
 
 ## github 
 
+- [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding) - 🌀 Quickly preview and select the branding icon used by github action.
 - [omidnikrah/react-github](https://github.com/omidnikrah/react-github) - 👥 A simple react version of Github
