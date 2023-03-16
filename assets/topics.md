@@ -231,7 +231,7 @@
 
 ## arduino 
 
-- [keotl/pedal-master](https://github.com/keotl/pedal-master) - A feet-operated micro-keyboard design 👞
+- [keotl/pedal-master](https://github.com/keotl/pedal-master) - A foot-operated micro-keyboard design 👞 (For coders with RSI)
 
 ## artificial-intelligence 
 
