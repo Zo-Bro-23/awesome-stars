@@ -154,7 +154,7 @@
 - [Zo-Bro-23/arduino](https://github.com/Zo-Bro-23/arduino) - All my arduino projects!
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-- [keotl/pedal-master](https://github.com/keotl/pedal-master) - A feet-operated micro-keyboard design 👞
+- [keotl/pedal-master](https://github.com/keotl/pedal-master) - A foot-operated micro-keyboard design 👞 (For coders with RSI)
 
 ## CMake 
 
