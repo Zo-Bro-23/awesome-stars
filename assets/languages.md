@@ -637,7 +637,7 @@
 - [Zo-Bro-23/newton-method-web](https://github.com/Zo-Bro-23/newton-method-web) - A website that uses Newton's Method to calculate the root of a function
 - [Zo-Bro-23/automatic-git-commits](https://github.com/Zo-Bro-23/automatic-git-commits) - NOTE: NOT COMPLETED! Will create a repo on GitHub, initiliaze one locally, stage and commit all changes continuously AND pull and push periodically!!
 - [Zo-Bro-23/adventurer-3-communication](https://github.com/Zo-Bro-23/adventurer-3-communication) - NOTE: NOT COMPLETED! Testing out a reverse-engineered API for the Adventurer 3! Also have plans to integrate with PushBullet to remotely access my printer.
-- [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js website.
+- [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [ManimCommunity/plugins-site](https://github.com/ManimCommunity/plugins-site) - Manim's plugins site
 - [ManimCommunity/manim-website](https://github.com/ManimCommunity/manim-website) - Manim landing page.
 - [jsomers/diffly](https://github.com/jsomers/diffly) - A diff-based copyediting tool
