@@ -214,6 +214,7 @@
 
 ## api 
 
+- [Zo-Bro-23/youtube-music-api](https://github.com/Zo-Bro-23/youtube-music-api) - 🖥️ API for @th-ch/youtube-music
 - [mlomb/countapi-js](https://github.com/mlomb/countapi-js) - Wrapper for CountAPI using promises.
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [Zo-Bro-23/githubusercontent](https://github.com/Zo-Bro-23/githubusercontent) - My ISP blocked the raw.githubusercontent.com domain (😕), so I wrote code to bypass the restriction!
@@ -1364,6 +1365,7 @@
 
 ## music 
 
+- [Zo-Bro-23/youtube-music-api](https://github.com/Zo-Bro-23/youtube-music-api) - 🖥️ API for @th-ch/youtube-music
 - [awhite/lastfm-collage-generator](https://github.com/awhite/lastfm-collage-generator) - Top albums collage generator for Last.fm
 - [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
