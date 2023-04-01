@@ -85,7 +85,6 @@
 - [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [exeldro/obs-time-shift](https://github.com/exeldro/obs-time-shift) - 
-- [exeldro/obs-dir-watch-media](https://github.com/exeldro/obs-dir-watch-media) - 
 - [exeldro/obs-source-switcher](https://github.com/exeldro/obs-source-switcher) - Plugin for OBS Studio to switch between a list of sources
 - [exeldro/obs-virtual-cam-filter](https://github.com/exeldro/obs-virtual-cam-filter) - 
 - [exeldro/obs-replay-source](https://github.com/exeldro/obs-replay-source) - Replay source for OBS studio
@@ -164,6 +163,7 @@
 - [exeldro/obs-time-warp-scan](https://github.com/exeldro/obs-time-warp-scan) - 
 - [exeldro/obs-scene-notes-dock](https://github.com/exeldro/obs-scene-notes-dock) - 
 - [exeldro/obs-gradient-source](https://github.com/exeldro/obs-gradient-source) - 
+- [exeldro/obs-dir-watch-media](https://github.com/exeldro/obs-dir-watch-media) - 
 - [exeldro/obs-recursion-effect](https://github.com/exeldro/obs-recursion-effect) - Plugin for OBS Studio to add recursion effect to a source using a filter
 - [exeldro/obs-dynamic-delay](https://github.com/exeldro/obs-dynamic-delay) - 
 - [exeldro/obs-source-copy](https://github.com/exeldro/obs-source-copy) - 
@@ -335,6 +335,7 @@
 
 ## JavaScript 
 
+- [Zo-Bro-23/youtube-music-api](https://github.com/Zo-Bro-23/youtube-music-api) - 🖥️ API for @th-ch/youtube-music
 - [Zo-Bro-23/discord-status-notification](https://github.com/Zo-Bro-23/discord-status-notification) - Get Discord notifications for when your friends are online!
 - [jstrieb/procrastinate](https://github.com/jstrieb/procrastinate) - One button, infinite web comics. Never focus again.
 - [jstrieb/link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser; create hidden bookmarks without a browser extension
