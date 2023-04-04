@@ -473,7 +473,6 @@
 - [Zo-Bro-23/population-simulation-web](https://github.com/Zo-Bro-23/population-simulation-web) - A website that runs population (genetics) simulations based on Hardy-Weinberg principles
 - [Zo-Bro-23/population-simulation](https://github.com/Zo-Bro-23/population-simulation) - NPM package that runs population simulations based on Hardy-Weinberg principles
 - [krateng/albula](https://github.com/krateng/albula) - Minimalist self-hosted music server
-- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [2016rshah/mergify](https://github.com/2016rshah/mergify) - :musical_note: Merge spotify playlists from anywhere.
 - [samholmes/node-open-graph](https://github.com/samholmes/node-open-graph) - An Open Graph implementation for Node.js.
@@ -1121,6 +1120,7 @@
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [staltz/matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz) - 
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
