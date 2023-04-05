@@ -376,12 +376,6 @@
 - [akshayravikumar/TeXnique](https://github.com/akshayravikumar/TeXnique) - A LaTeX Typesetting Game
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
-- [wojtekmaj/react-timerange-picker](https://github.com/wojtekmaj/react-timerange-picker) - A time range picker for your React app.
-- [wojtekmaj/react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) - A datetime range picker for your React app.
-- [wojtekmaj/react-time-picker](https://github.com/wojtekmaj/react-time-picker) - A time picker for your React app.
-- [wojtekmaj/react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) - A date range picker for your React app.
-- [wojtekmaj/react-datetime-picker](https://github.com/wojtekmaj/react-datetime-picker) - A datetime picker for your React app.
-- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [maddhruv/github-readme-npm-downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show npm packages downloads :arrow_double_down: in GitHub README
 - [omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - 📊.  Dynamically generated your StackOverflow status on your GitHub READMEs!
@@ -1069,6 +1063,12 @@
 - [wojtekmaj/react-hooks](https://github.com/wojtekmaj/react-hooks) - A collection of React Hooks.
 - [wojtekmaj/get-user-locale](https://github.com/wojtekmaj/get-user-locale) - A function that returns user's locale as an IETF language tag, based on all available sources.
 - [wojtekmaj/country-code-to-flag-emoji](https://github.com/wojtekmaj/country-code-to-flag-emoji) - A function that returns a flag emoji given IETF language tag.
+- [wojtekmaj/react-timerange-picker](https://github.com/wojtekmaj/react-timerange-picker) - A time range picker for your React app.
+- [wojtekmaj/react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) - A datetime range picker for your React app.
+- [wojtekmaj/react-time-picker](https://github.com/wojtekmaj/react-time-picker) - A time picker for your React app.
+- [wojtekmaj/react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) - A date range picker for your React app.
+- [wojtekmaj/react-datetime-picker](https://github.com/wojtekmaj/react-datetime-picker) - A datetime picker for your React app.
+- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
 - [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
