@@ -408,7 +408,7 @@
 - [timleland/Json-Viewer-Extension](https://github.com/timleland/Json-Viewer-Extension) - This extension makes JSON responses easy to read.
 - [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one
 - [Lissy93/happy-app](https://github.com/Lissy93/happy-app) - 😃 Frictionless and anonymouse feedback system for agile teams
-- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
+- [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - 
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
 - [trekhleb/covid-19](https://github.com/trekhleb/covid-19) - 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country
 - [trekhleb/nano-neuron](https://github.com/trekhleb/nano-neuron) - 🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn"
