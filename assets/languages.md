@@ -176,7 +176,6 @@
 - [AlexisJonsson/AlexisJonsson.github.io](https://github.com/AlexisJonsson/AlexisJonsson.github.io) - 
 - [maddhruv/imaginator](https://github.com/maddhruv/imaginator) - :circus_tent: Generates Random Quotes :speech_balloon: Images! https://maddhruv.github.io/imaginator
 - [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
-- [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
 - [anufrievroman/whale](https://github.com/anufrievroman/whale) - Dark theme inspired by Ark and Nord
 - [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
 - [femioladeji/slack-words](https://github.com/femioladeji/slack-words) - Do you want to test your word-formation skills? This is the game for you. Once you use the /wordsgame slash command, a game is started and players can respond in a thread with all the possible English
@@ -1084,6 +1083,7 @@
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
+- [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [avi12/youtube-subscriptions-sort](https://github.com/avi12/youtube-subscriptions-sort) - A browser extension for opening YouTube videos in ascending watch time order
 - [avi12/steam-id-finder](https://github.com/avi12/steam-id-finder) - A browser extension that calculates the IDs of given Steam users.
