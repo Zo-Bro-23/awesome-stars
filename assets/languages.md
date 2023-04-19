@@ -686,7 +686,6 @@
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
 - [sdras/js-explorer](https://github.com/sdras/js-explorer) - Find the method you need without digging through the docs, directly on the command line!
 - [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin) - A simple blockchain in Javascript. For educational purposes only.
-- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
 - [Zo-Bro-23/obs-voicemeeter-integration](https://github.com/Zo-Bro-23/obs-voicemeeter-integration) - A server to integrate OBS and Voicemeeter using your voice, keyboard shortcuts and more!
