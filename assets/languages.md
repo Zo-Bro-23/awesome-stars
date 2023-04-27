@@ -955,7 +955,7 @@
 
 ## Ruby 
 
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [Zo-Bro-23/moonwalk-template](https://github.com/Zo-Bro-23/moonwalk-template) - Template for generating a Jekyll website based on the Moonwalk (@abhinavs/moonwalk) theme
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [Zo-Bro-23/portfolio](https://github.com/Zo-Bro-23/portfolio) - My portfolio website
