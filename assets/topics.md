@@ -1600,7 +1600,7 @@
 - [soroushchehresa/map-nearest-location](https://github.com/soroushchehresa/map-nearest-location) - 📍 Find the nearest location and get distance from locations list without network request
 - [coffee-cup/lastfm-top](https://github.com/coffee-cup/lastfm-top) - See your top albums on last.fm
 - [coffee-cup/lastfm-leaderboards](https://github.com/coffee-cup/lastfm-leaderboards) - Music leaderboards powered by last.fm
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 - [kdzwinel/Proofreader](https://github.com/kdzwinel/Proofreader) - Simple text proofreader based on 'write-good' (hemingway-app-like suggestions) and 'nodehun' (spelling).
