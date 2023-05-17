@@ -900,12 +900,12 @@
 - [jamesgeorge007/Catch-It](https://github.com/jamesgeorge007/Catch-It) - The traditional Egg Catching game clone with a much better user experience. :video_game:
 - [jamesgeorge007/Maze-Runner](https://github.com/jamesgeorge007/Maze-Runner) - The Maze Runner game inspired by Chrome T-Rex. :video_game:
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [addyett/streamit](https://github.com/addyett/streamit) - 
-- [addyett/mel](https://github.com/addyett/mel) - a simple interactive command line tool written in python for playing music with sweet features
-- [addyett/mega-uploader](https://github.com/addyett/mega-uploader) - a command-line tool to upload local files and pastebin pastes to your mega account, without signing in anywhere
-- [addyett/pomodorow](https://github.com/addyett/pomodorow) - a timer and music script as a companion for your pomodorow sessions
-- [addyett/cvplayer](https://github.com/addyett/cvplayer) - simple platform independant video player written in python using ffpyplayer and OpenCV
-- [addyett/readme-now-playing](https://github.com/addyett/readme-now-playing) - good looking cards for your github readme showing your currently playing song on spotify
+- [totallynotadi/streamit](https://github.com/totallynotadi/streamit) - 
+- [totallynotadi/mel](https://github.com/totallynotadi/mel) - a simple interactive command line tool written in python for playing music with sweet features
+- [totallynotadi/mega-uploader](https://github.com/totallynotadi/mega-uploader) - a command-line tool to upload local files and pastebin pastes to your mega account, without signing in anywhere
+- [totallynotadi/pomodorow](https://github.com/totallynotadi/pomodorow) - a timer and music script as a companion for your pomodorow sessions
+- [totallynotadi/cvplayer](https://github.com/totallynotadi/cvplayer) - simple platform independant video player written in python using ffpyplayer and OpenCV
+- [totallynotadi/readme-now-playing](https://github.com/totallynotadi/readme-now-playing) - good looking cards for your github readme showing your currently playing song on spotify
 - [kittinan/trex-keras-cnn](https://github.com/kittinan/trex-keras-cnn) - Play T-Rex game with Keras using convolutional neural network
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [leonardssh/auto-discord-status](https://github.com/leonardssh/auto-discord-status) - ⛅ Automatized Discord Custom Status using openweathermap.org API
