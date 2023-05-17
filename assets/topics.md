@@ -1398,7 +1398,7 @@
 - [Zo-Bro-23/youtube-music](https://github.com/Zo-Bro-23/youtube-music) - Fork of @th-ch/youtube-music
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [wsmd/github-now-playing](https://github.com/wsmd/github-now-playing) - 🎵 Display what you're listening to right on your Github profile
-- [addyett/mel](https://github.com/addyett/mel) - a simple interactive command line tool written in python for playing music with sweet features
+- [totallynotadi/mel](https://github.com/totallynotadi/mel) - a simple interactive command line tool written in python for playing music with sweet features
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
@@ -1550,7 +1550,7 @@
 
 - [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
 - [MinhasKamal/GenderRecognizer](https://github.com/MinhasKamal/GenderRecognizer) - Plain Face Detector & Gender Recognizer
-- [addyett/cvplayer](https://github.com/addyett/cvplayer) - simple platform independant video player written in python using ffpyplayer and OpenCV
+- [totallynotadi/cvplayer](https://github.com/totallynotadi/cvplayer) - simple platform independant video player written in python using ffpyplayer and OpenCV
 
 ## others 
 
@@ -1875,10 +1875,10 @@
 - [ashmonty/website](https://github.com/ashmonty/website) - My website!
 - [ashmonty/microsoftgithub.com](https://github.com/ashmonty/microsoftgithub.com) - A website that lets you create legit-looking GitHub links that rickroll the visitor.
 - [dgibbs64/discord-banners](https://github.com/dgibbs64/discord-banners) - A reference for the Official Discord banners
-- [addyett/streamit](https://github.com/addyett/streamit) - 
-- [addyett/mega-uploader](https://github.com/addyett/mega-uploader) - a command-line tool to upload local files and pastebin pastes to your mega account, without signing in anywhere
-- [addyett/pomodorow](https://github.com/addyett/pomodorow) - a timer and music script as a companion for your pomodorow sessions
-- [addyett/readme-now-playing](https://github.com/addyett/readme-now-playing) - good looking cards for your github readme showing your currently playing song on spotify
+- [totallynotadi/streamit](https://github.com/totallynotadi/streamit) - 
+- [totallynotadi/mega-uploader](https://github.com/totallynotadi/mega-uploader) - a command-line tool to upload local files and pastebin pastes to your mega account, without signing in anywhere
+- [totallynotadi/pomodorow](https://github.com/totallynotadi/pomodorow) - a timer and music script as a companion for your pomodorow sessions
+- [totallynotadi/readme-now-playing](https://github.com/totallynotadi/readme-now-playing) - good looking cards for your github readme showing your currently playing song on spotify
 - [KRTirtho/facebook_ui_clone](https://github.com/KRTirtho/facebook_ui_clone) - A minimal facebook ui clone written with Dart & designed with Flutter
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
 - [KRTirtho/wallywiz](https://github.com/KRTirtho/wallywiz) - A Random Wallpaper shuffler application
