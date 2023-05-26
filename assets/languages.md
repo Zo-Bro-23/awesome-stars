@@ -499,7 +499,6 @@
 - [Korilakkuma/XSound.js](https://github.com/Korilakkuma/XSound.js) - HTML5 Web Audio API Library
 - [Zo-Bro-23/youtube-music](https://github.com/Zo-Bro-23/youtube-music) - Fork of @th-ch/youtube-music
 - [Zo-Bro-23/discord-readme-badge](https://github.com/Zo-Bro-23/discord-readme-badge) - Fork of @Zyplos/discord-readme-badge
-- [Zo-Bro-23/view-count-badge](https://github.com/Zo-Bro-23/view-count-badge) - Generates badges for showing view counts using Count API and Custom Icon Badges
 - [Zo-Bro-23/terminal-portfolio](https://github.com/Zo-Bro-23/terminal-portfolio) - Fork of @aarush-narang/portfolio
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [seancy/Google-Dictionary](https://github.com/seancy/Google-Dictionary) - Chrome Extension - Google Dictionary (By Google) - Reversed Engineered For Education Purposes
