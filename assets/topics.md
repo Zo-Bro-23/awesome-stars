@@ -1780,7 +1780,6 @@
 - [Korilakkuma/XSound.js](https://github.com/Korilakkuma/XSound.js) - HTML5 Web Audio API Library
 - [Zo-Bro-23/discord-readme-badge](https://github.com/Zo-Bro-23/discord-readme-badge) - Fork of @Zyplos/discord-readme-badge
 - [Zo-Bro-23/himandher](https://github.com/Zo-Bro-23/himandher) - Fork of @shenuja/himandher
-- [Zo-Bro-23/view-count-badge](https://github.com/Zo-Bro-23/view-count-badge) - Generates badges for showing view counts using Count API and Custom Icon Badges
 - [Zo-Bro-23/netra-website](https://github.com/Zo-Bro-23/netra-website) - A portfolio website I built for my cousin
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype
 - [shravan20/software-installation-guides](https://github.com/shravan20/software-installation-guides) - Installation Guide for various development software, tools and packages
