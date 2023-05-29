@@ -1150,7 +1150,7 @@
 - [JacobLinCool/LeetCode-Query](https://github.com/JacobLinCool/LeetCode-Query) - A LeetCode Query API for TypeScript & JavaScript.
 - [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 - [th-ch/yamux-js](https://github.com/th-ch/yamux-js) - Node.js (TypeScript/JavaScript) port of the multiplexing library for Golang made by HashiCorp: https://github.com/hashicorp/yamux
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data in one place
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - Centralize community, product, and customer data to understand who is engaging with your open source project.
 - [unickhow/knowme](https://github.com/unickhow/knowme) - simple UI for awesome github-readme-stats
 - [eggsy/discord-steam-verification](https://github.com/eggsy/discord-steam-verification) - 🧬 Check if a user owns the specific item(s) in their Steam library and give them roles! Discord bot and API.
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
