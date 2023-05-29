@@ -190,7 +190,7 @@
 - [awhite/lastfm-collage-generator](https://github.com/awhite/lastfm-collage-generator) - Top albums collage generator for Last.fm
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data in one place
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - Centralize community, product, and customer data to understand who is engaging with your open source project.
 
 ## android 
 
