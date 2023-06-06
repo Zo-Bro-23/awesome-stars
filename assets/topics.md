@@ -50,6 +50,7 @@
 - [deployment](#deployment)
 - [design](#design)
 - [discord](#discord)
+- [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
@@ -195,7 +196,7 @@
 ## android 
 
 - [kawaiiDango/pScrobbler](https://github.com/kawaiiDango/pScrobbler) - A last.fm, Listenbrainz, libre.fm and GNU FM client for Android
-- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Android external keyboard layout customization without root.
+- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts.
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [patzly/grocy-android-unlock](https://github.com/patzly/grocy-android-unlock) - Unlock AI-based barcode scanning in Grocy Android
 - [patzly/buzz-android](https://github.com/patzly/buzz-android) - Unofficial Android game based on the official Spelling Bee by The New York Times
@@ -530,6 +531,11 @@
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
+- [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
+- [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
+- [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
@@ -626,6 +632,13 @@
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [ManimCommunity/DiscordManimator](https://github.com/ManimCommunity/DiscordManimator) - A Manim Rendering Bot for Discord. Requires a Functioning Manim install.
 
+## django 
+
+- [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
+- [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
+
 ## docker 
 
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
@@ -709,6 +722,7 @@
 ## eslint 
 
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
+- [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 
 ## express 
 
@@ -737,6 +751,10 @@
 ## flask 
 
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
+- [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
+- [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [jamesgeorge007/GitHub-Mate](https://github.com/jamesgeorge007/GitHub-Mate) - This is the web implementation of github-mate Desktop app using the Flask web application framework with extended capabilities.
 - [prashantsengar/mTracker](https://github.com/prashantsengar/mTracker) - An email tracker built with Python and Flask
 
@@ -1011,6 +1029,10 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
+- [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
+- [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [prashantsengar/mTracker](https://github.com/prashantsengar/mTracker) - An email tracker built with Python and Flask
@@ -1112,6 +1134,12 @@
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
+- [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
+- [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
+- [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
+- [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [skolakoda/programming-quotes](https://github.com/skolakoda/programming-quotes) - Programming Quotes, an open source app and database.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
@@ -1380,6 +1408,8 @@
 ## mongodb 
 
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
+- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
+- [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api) - Programming Quotes API for open source projects.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -1418,6 +1448,8 @@
 ## nextjs 
 
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
+- [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [statsfm/web](https://github.com/statsfm/web) - [WIP] stats.fm web repository
 - [KRTirtho/schoolacious](https://github.com/KRTirtho/schoolacious) - A destination where all the reading sound📔 of small learners🧒 & day to day learning👩‍🏫 takes place bringing up all the thing a student👩‍🎓 used to do before Quarantine & Pandemic🦠
@@ -1789,15 +1821,6 @@
 - [slatinsky/slides-remote-control](https://github.com/slatinsky/slides-remote-control) - Allow other partner to press left / right arrow keys remotely. Useful for Powerpoint / Google Slides presentation
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 - [schulzch/edit-distance-js](https://github.com/schulzch/edit-distance-js) - JavaScript library to compute the edit distance for strings and trees.
-- [aarush-narang/password-breaker](https://github.com/aarush-narang/password-breaker) - 
-- [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
-- [aarush-narang/USACO](https://github.com/aarush-narang/USACO) - USACO training problems and competitive problems
-- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
-- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
-- [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
-- [aarush-narang/Best-Buy-Product-Automatic-Buyer](https://github.com/aarush-narang/Best-Buy-Product-Automatic-Buyer) - 
-- [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
-- [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [exeldro/obs-time-shift](https://github.com/exeldro/obs-time-shift) - 
 - [exeldro/obs-source-clone](https://github.com/exeldro/obs-source-clone) - 
 - [exeldro/obs-device-switcher](https://github.com/exeldro/obs-device-switcher) - 
@@ -2108,6 +2131,13 @@
 - [femioladeji/License-Plate-Recognition-Nigerian-vehicles](https://github.com/femioladeji/License-Plate-Recognition-Nigerian-vehicles) - A python program that uses the concept of OCR using machine learning to identify the characters on a Nigerian license plate
 - [sagemath/sage-archive-2023-02-01](https://github.com/sagemath/sage-archive-2023-02-01) - This repository used to be the user-facing mirror of the Sage source tree. As Sage development migrated on 2023-02-01 from https://trac.sagemath.org/ to our new repository on GitHub, https://github.co
 - [patzly/ain2-stochastik](https://github.com/patzly/ain2-stochastik) - German calculator for statistics and probability written in Python
+- [aarush-narang/password-breaker](https://github.com/aarush-narang/password-breaker) - 
+- [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
+- [aarush-narang/USACO](https://github.com/aarush-narang/USACO) - USACO training problems and competitive problems
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/Best-Buy-Product-Automatic-Buyer](https://github.com/aarush-narang/Best-Buy-Product-Automatic-Buyer) - 
+- [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
+- [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [ryo-ma/covid19-japan-web-api](https://github.com/ryo-ma/covid19-japan-web-api) - 🇯🇵 Web API to get 🦠COVID-19(coronavirus) information of each prefecture in Japan
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [jamesgeorge007/Maze-Runner](https://github.com/jamesgeorge007/Maze-Runner) - The Maze Runner game inspired by Chrome T-Rex. :video_game:
