@@ -740,7 +740,7 @@
 - [soroushchehresa/450-free-courses](https://github.com/soroushchehresa/450-free-courses) - 📚 Here are 450 Ivy League courses you can take online right now for free
 - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Android external keyboard layout customization without root.
+- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts.
 - [timleland/url-shorteners](https://github.com/timleland/url-shorteners) - List of URL Shorteners
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
