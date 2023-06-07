@@ -1687,7 +1687,7 @@
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [peter-murray/issue-body-parser-action](https://github.com/peter-murray/issue-body-parser-action) - A GitHub Action that can parse data from the body of an Issue and provide it as output to other GitHub Action steps
 - [christine-hu/exeter-simulator](https://github.com/christine-hu/exeter-simulator) - An homage to the trials and tribulations of attending Phillips Exeter Academy. Created January 2018.
-- [deta/deta-cli](https://github.com/deta/deta-cli) - Command line interface for managing Deta micros and deployments
+- [deta/deta-cli](https://github.com/deta/deta-cli) - Legacy Deta CLI. Repository is now archived.
 - [deta/cloud-docs](https://github.com/deta/cloud-docs) - Legacy docs for Deta Cloud
 - [sallar/led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - :crystal_ball: A simple HTML5 LED Matrix Simulator for fun
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
