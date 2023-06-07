@@ -242,7 +242,7 @@
 - [changkun/occamy](https://github.com/changkun/occamy) - 🖥️ a modern remote desktop proxy written in Go
 - [changkun/rmtrash](https://github.com/changkun/rmtrash) - 🗑️ Move directory entries to Trash
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
-- [deta/deta-cli](https://github.com/deta/deta-cli) - Command line interface for managing Deta micros and deployments
+- [deta/deta-cli](https://github.com/deta/deta-cli) - Legacy Deta CLI. Repository is now archived.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [rafaelwi/github-readme-lastfm-stats](https://github.com/rafaelwi/github-readme-lastfm-stats) - Dynamically generated Last.fm stats for your profile readme
