@@ -1394,6 +1394,7 @@
 - [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in GoLang.
 - [Tikolu/WorldExporter](https://github.com/Tikolu/WorldExporter) - Minecraft Pocket Edition World Exporter
 - [sawyerpollard/MineWeather](https://github.com/sawyerpollard/MineWeather) - Chrome Extension that displays a Minecraft scene on New Tabs depending on local weather conditions.
+- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption.
 
@@ -2456,6 +2457,7 @@
 - [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com) - The Annoying Site a.k.a. "The Power of the Web Platform"
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 
 ## webapp 
 
