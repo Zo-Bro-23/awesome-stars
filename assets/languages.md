@@ -744,7 +744,7 @@
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts.
 - [timleland/url-shorteners](https://github.com/timleland/url-shorteners) - List of URL Shorteners
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [martinwoodward/smart-xmas](https://github.com/martinwoodward/smart-xmas) - Star this repo to add some sparkle to my tree
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
