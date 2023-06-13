@@ -436,10 +436,6 @@
 - [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
 - [emerleite/node-stopwatch](https://github.com/emerleite/node-stopwatch) - A managed stopwatch for Node.JS
 - [emerleite/node-gravatar](https://github.com/emerleite/node-gravatar) - Node.JS library to generate gravatar URLs
-- [wei/github-project-notifier](https://github.com/wei/github-project-notifier) - A Discord 🤖 that notifies on GitHub Project Card updates
-- [wei/discord-actions-bot](https://github.com/wei/discord-actions-bot) - 🤖 A Discord Bot that helps with Action Items.
-- [wei/minifier](https://github.com/wei/minifier) - ⚡️ Offline-first web app for an HTML, JS, CSS minifier.
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [snapcrunch/electron-preferences](https://github.com/snapcrunch/electron-preferences) - A simple, consistent interface for managing user preferences within an Electron application.
 - [Chernavskikh/pixel-avatars](https://github.com/Chernavskikh/pixel-avatars) - React pixel avatars generator https://chernavskikh.github.io/pixel-avatars/
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
@@ -628,7 +624,6 @@
 - [Zo-Bro-23/newton-method-web](https://github.com/Zo-Bro-23/newton-method-web) - A website that uses Newton's Method to calculate the root of a function
 - [Zo-Bro-23/automatic-git-commits](https://github.com/Zo-Bro-23/automatic-git-commits) - NOTE: NOT COMPLETED! Will create a repo on GitHub, initiliaze one locally, stage and commit all changes continuously AND pull and push periodically!!
 - [Zo-Bro-23/adventurer-3-communication](https://github.com/Zo-Bro-23/adventurer-3-communication) - NOTE: NOT COMPLETED! Testing out a reverse-engineered API for the Adventurer 3! Also have plans to integrate with PushBullet to remotely access my printer.
-- [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [ManimCommunity/plugins-site](https://github.com/ManimCommunity/plugins-site) - Manim's plugins site
 - [ManimCommunity/manim-website](https://github.com/ManimCommunity/manim-website) - Manim landing page.
 - [jsomers/diffly](https://github.com/jsomers/diffly) - A diff-based copyediting tool
@@ -723,6 +718,7 @@
 
 ## Markdown 
 
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
@@ -753,7 +749,6 @@
 - [trekhleb/okso-app](https://github.com/trekhleb/okso-app) - ✍🏻 The drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 - [deta/deta](https://github.com/deta/deta) - the leading no-code platform (written in rust)
 - [drknzz/drknzz](https://github.com/drknzz/drknzz) - 
-- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [Zo-Bro-23/templates](https://github.com/Zo-Bro-23/templates) - All the GitHub template repos that I have created!
 - [drhus/awesome-identicons](https://github.com/drhus/awesome-identicons) - A curated list of "Visual Hashs" (Identicon, Avatar, Fractal, RandomArt and general Hash Visualization)
 - [probot/ideas](https://github.com/probot/ideas) - Share ideas for new GitHub Apps built with Probot
@@ -1008,7 +1003,6 @@
 
 - [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt) - 📟 A clean PS1 bash prompt, showing user, host, pathname and git status
 - [rickstaa/action-create-tag](https://github.com/rickstaa/action-create-tag) - Simple GitHub action that can be used to create a tag inside a GitHub action.
-- [wei/git-sync](https://github.com/wei/git-sync) - 🔃 A GitHub Action for syncing between two independent repositories using force push
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
@@ -1073,7 +1067,7 @@
 - [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
-- [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Full-stack URL Shortener application.
+- [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Minimal full-stack URL Shortener application.
 - [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
 - [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react) - 🌐 HTTP client component for React based on Axios
 - [soroushchehresa/giant-sur](https://github.com/soroushchehresa/giant-sur) - 🍏 macOS Big Sur UI clone for the web built with React, Next.js, TypeScript, and Tailwind CSS
@@ -1106,7 +1100,6 @@
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
 - [sallar/stringz](https://github.com/sallar/stringz) - :100: Super fast unicode-aware string manipulation Javascript library
-- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [web-scrobbler/metadata-filter](https://github.com/web-scrobbler/metadata-filter) - A module for cleaning up artist, album, and song names
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
@@ -1186,6 +1179,7 @@
 - [timovv/speed-interview-bot](https://github.com/timovv/speed-interview-bot) - 
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
+- [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [sawyerpollard/MineWeather](https://github.com/sawyerpollard/MineWeather) - Chrome Extension that displays a Minecraft scene on New Tabs depending on local weather conditions.
 - [keotl/watch-party](https://github.com/keotl/watch-party) - A synchronized video player using websockets written in Python
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
