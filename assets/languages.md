@@ -436,6 +436,10 @@
 - [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
 - [emerleite/node-stopwatch](https://github.com/emerleite/node-stopwatch) - A managed stopwatch for Node.JS
 - [emerleite/node-gravatar](https://github.com/emerleite/node-gravatar) - Node.JS library to generate gravatar URLs
+- [wei/github-project-notifier](https://github.com/wei/github-project-notifier) - A Discord 🤖 that notifies on GitHub Project Card updates
+- [wei/discord-actions-bot](https://github.com/wei/discord-actions-bot) - 🤖 A Discord Bot that helps with Action Items.
+- [wei/minifier](https://github.com/wei/minifier) - ⚡️ Offline-first web app for an HTML, JS, CSS minifier.
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [snapcrunch/electron-preferences](https://github.com/snapcrunch/electron-preferences) - A simple, consistent interface for managing user preferences within an Electron application.
 - [Chernavskikh/pixel-avatars](https://github.com/Chernavskikh/pixel-avatars) - React pixel avatars generator https://chernavskikh.github.io/pixel-avatars/
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
@@ -555,7 +559,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [gitlimes/website](https://github.com/gitlimes/website) - My website!
 - [gitlimes/microsoftgithub.com](https://github.com/gitlimes/microsoftgithub.com) - A website that lets you create legit-looking GitHub links that rickroll the visitor.
-- [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - Add to your GitHub readme a badge that shows your Discord username and presence, or a server invite!
+- [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable Discord badge that shows your Discord account, a server invite, or a bot account.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
 - [Zyplos/lounge-hub](https://github.com/Zyplos/lounge-hub) - the lounge community site
@@ -1003,6 +1007,7 @@
 
 - [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt) - 📟 A clean PS1 bash prompt, showing user, host, pathname and git status
 - [rickstaa/action-create-tag](https://github.com/rickstaa/action-create-tag) - Simple GitHub action that can be used to create a tag inside a GitHub action.
+- [wei/git-sync](https://github.com/wei/git-sync) - 🔃 A GitHub Action for syncing between two independent repositories using force push
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
@@ -1100,6 +1105,7 @@
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
 - [sallar/stringz](https://github.com/sallar/stringz) - :100: Super fast unicode-aware string manipulation Javascript library
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [web-scrobbler/metadata-filter](https://github.com/web-scrobbler/metadata-filter) - A module for cleaning up artist, album, and song names
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
