@@ -559,7 +559,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [gitlimes/website](https://github.com/gitlimes/website) - My website!
 - [gitlimes/microsoftgithub.com](https://github.com/gitlimes/microsoftgithub.com) - A website that lets you create legit-looking GitHub links that rickroll the visitor.
-- [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable Discord badge that shows your Discord account, a server invite, or a bot account.
+- [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge that shows your Discord account, a server invite, or a bot account.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
 - [Zyplos/lounge-hub](https://github.com/Zyplos/lounge-hub) - the lounge community site
@@ -664,7 +664,6 @@
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
-- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [xanderfrangos/crushee](https://github.com/xanderfrangos/crushee) - Desktop tool for batch image optimization and resizing. Available for Windows and Mac. Built with Electron and Node.js.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -1195,6 +1194,7 @@
 - [laurentlbm/google-photos-takeout-date-fixer](https://github.com/laurentlbm/google-photos-takeout-date-fixer) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
 - [theabhayprajapati/twitter-m-2](https://github.com/theabhayprajapati/twitter-m-2) - A simple twitter Clone build on next.js and tailwindcss
 - [theabhayprajapati/Open-Apple-Store](https://github.com/theabhayprajapati/Open-Apple-Store) - Open Source Apple Store, has made this with the help of Apple Store item, this project which provide an additional choice to developer to interact with API.
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [tecosaur/LaTeX-Utilities](https://github.com/tecosaur/LaTeX-Utilities) - An add-on to LaTeX Workshop that provides some features that go beyond the bare essentials
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
