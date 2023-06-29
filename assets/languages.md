@@ -112,7 +112,7 @@
 - [torchgm/ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - A simple app that lets you pin windows to your desktop and use fullscreen programs and videos as interactive wallpapers.
 - [Erisa/RoundedTB](https://github.com/Erisa/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
-- [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
+- [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV & Movie videos with ease
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [Tyrrrz/Gress](https://github.com/Tyrrrz/Gress) - Progress reporting toolbox
@@ -618,7 +618,7 @@
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [knightron0/tempus](https://github.com/knightron0/tempus) - A chrome extension that allows you to manage and view timestamped YouTube comments efficiently.
-- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML.
+- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [carykh/WordleEdit](https://github.com/carykh/WordleEdit) - Multiplayer game that plays a version of Wordle where players can edit their own words as they go. Runs as a Discord bot!
 - [Zo-Bro-23/writing-stats-web](https://github.com/Zo-Bro-23/writing-stats-web) - A website that shows you your various writing stats such as Word Count, Paragraph Density, etc
 - [Zo-Bro-23/youtube-live-chat-overlay](https://github.com/Zo-Bro-23/youtube-live-chat-overlay) - NOTE: NOT COMPLETED! Trying to build a website which helps you customize and add YouTube live chat to OBS and other streaming software! Also planning to add banner support for showing special comments
