@@ -1190,6 +1190,7 @@
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [sawyerpollard/MineWeather](https://github.com/sawyerpollard/MineWeather) - Chrome Extension that displays a Minecraft scene on New Tabs depending on local weather conditions.
 - [keotl/watch-party](https://github.com/keotl/watch-party) - A synchronized video player using websockets written in Python
+- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation - https://docs.hoppscotch.io
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece
@@ -1239,7 +1240,6 @@
 - [JacobLinCool/Clubhouse-Avatar-Pro](https://github.com/JacobLinCool/Clubhouse-Avatar-Pro) - A simple but powerful web app that helps you to create excellent Clubhouse avatars with beautiful borders. Free, secure, and highly customizable.
 - [eggsy/lanyard-web](https://github.com/eggsy/lanyard-web) - 🏷 Landing page and API documentation concept for Lanyard API.
 - [leonardssh/old.leonard.sh](https://github.com/leonardssh/old.leonard.sh) - 🌐 The source code for my personal website.
-- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation - https://docs.hoppscotch.io
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 
 ## XSLT 
