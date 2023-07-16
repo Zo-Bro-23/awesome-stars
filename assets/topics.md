@@ -2021,7 +2021,7 @@
 - [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams
 - [steveseguin/electroncapture](https://github.com/steveseguin/electroncapture) - Playback video in a frameless electron app for screen-sharing and window capture
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
-- [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Access the YouTube Live chat and route it to your OBS or VMix Browser source.
+- [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Chat.Overlay.Ninja -- send your live chat to OBS or VMix as featured chat
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [sharadcodes/jekyll-theme-retro-yellow](https://github.com/sharadcodes/jekyll-theme-retro-yellow) - A super simple and Light theme for Jekyll with minimal CSS by Sharad Raj Singh Maurya
