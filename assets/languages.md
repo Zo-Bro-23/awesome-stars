@@ -651,7 +651,7 @@
 - [aaronpk/live-chat-overlay](https://github.com/aaronpk/live-chat-overlay) - Restyle the YouTube "popout chat" window so you can key it over a video to show comments on a livestream
 - [steveseguin/electroncapture](https://github.com/steveseguin/electroncapture) - Playback video in a frameless electron app for screen-sharing and window capture
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
-- [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Access the YouTube Live chat and route it to your OBS or VMix Browser source.
+- [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Chat.Overlay.Ninja -- send your live chat to OBS or VMix as featured chat
 - [theabhayprajapati/timeis](https://github.com/theabhayprajapati/timeis) - Help's to see the UTC time right in your terminal, without any hassle
 - [typicode/stop-server](https://github.com/typicode/stop-server) - :iphone: Shut down your computer with your phone
 - [typicode/user-startup](https://github.com/typicode/user-startup) - Auto start commands when you log in (cross-platform)
