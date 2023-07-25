@@ -1045,7 +1045,7 @@
 ## TeX 
 
 - [jstrieb/homework-template](https://github.com/jstrieb/homework-template) - Typeset assignments and problem sets using LaTeX; typographically optimized for online submission
-- [lambdasolver/LaTeX](https://github.com/lambdasolver/LaTeX) - All My LaTeX Works till Now are here all togather.
+- [sohamch08/LaTeX](https://github.com/sohamch08/LaTeX) - All My LaTeX Works till Now are here all togather.
 - [latex3/latex3](https://github.com/latex3/latex3) - The expl3 (LaTeX3) Development Repository
 
 ## TypeScript 
