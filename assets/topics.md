@@ -1951,7 +1951,7 @@
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
 - [anuraghazra/CanvasFun](https://github.com/anuraghazra/CanvasFun) - :heart: Creative Coding Projects
 - [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
-- [lambdasolver/LaTeX](https://github.com/lambdasolver/LaTeX) - All My LaTeX Works till Now are here all togather.
+- [sohamch08/LaTeX](https://github.com/sohamch08/LaTeX) - All My LaTeX Works till Now are here all togather.
 - [yochrisbolton/terminal-adventure-framework](https://github.com/yochrisbolton/terminal-adventure-framework) - Choose-your-own-adventure terminal mini-framework
 - [yochrisbolton/chrisbolton.dev](https://github.com/yochrisbolton/chrisbolton.dev) - Personal landing page
 - [discord/discord-open-source](https://github.com/discord/discord-open-source) - List of open source communities living on Discord
