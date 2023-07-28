@@ -552,7 +552,6 @@
 - [jamesgeorge007/node-banner](https://github.com/jamesgeorge007/node-banner) - Easily integrate ASCII flavored banners to your CLI tool
 - [jamesgeorge007/Crypto-Compare](https://github.com/jamesgeorge007/Crypto-Compare) - Comparison chart between popular cryptocurrencies.
 - [jamesgeorge007/Crypto-App](https://github.com/jamesgeorge007/Crypto-App) - This is a Desktop application built in Electron JS which notifies the user whenever value of Bitcoin goes above a certain value specified by the user in USD. :dollar: :moneybag: :heavy_dollar_sign:
-- [ethangodt/Dishes-App](https://github.com/ethangodt/Dishes-App) - Dishes: A grocery shopping utility making shopping easier. [WIP]
 - [ethangodt/lit-pics](https://github.com/ethangodt/lit-pics) - 🐱 Simple SMS application to make sure my girlfriend and I are cleaning the damn litter box.
 - [ethangodt/portfolio](https://github.com/ethangodt/portfolio) - Engineering Portfolio
 - [ethangodt/songlink](https://github.com/ethangodt/songlink) - share music to anyone on any platform
