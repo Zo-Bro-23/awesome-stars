@@ -159,6 +159,7 @@
 - [swiftui](#swiftui)
 - [telegram](#telegram)
 - [terminal](#terminal)
+- [termux](#termux)
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -1896,7 +1897,6 @@
 - [Zyplos/proof-tool](https://github.com/Zyplos/proof-tool) - math! 💥 (URL available on campus or through the UIC VPN)
 - [abrasic/abratools](https://github.com/abrasic/abratools) - Free animation toolset for Blender 3.0
 - [abrasic/iridescent](https://github.com/abrasic/iridescent) - Dark and modern blender theme for 3.0
-- [ethangodt/Dishes-App](https://github.com/ethangodt/Dishes-App) - Dishes: A grocery shopping utility making shopping easier. [WIP]
 - [ethangodt/lit-pics](https://github.com/ethangodt/lit-pics) - 🐱 Simple SMS application to make sure my girlfriend and I are cleaning the damn litter box.
 - [ethangodt/portfolio](https://github.com/ethangodt/portfolio) - Engineering Portfolio
 - [ethangodt/songlink](https://github.com/ethangodt/songlink) - share music to anyone on any platform
@@ -2384,6 +2384,10 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [lennardv2/ehh](https://github.com/lennardv2/ehh) - Commandline tool for remembering linux/terminal commands
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+
+## termux 
+
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## testing 
 
