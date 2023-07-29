@@ -1621,7 +1621,7 @@
 - [Wielding/MediaOsdToggle](https://github.com/Wielding/MediaOsdToggle) - Small Windows application to toggle the visibility of the Windows Media OSD
 - [UnlimitedStack/HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide the Windows 10 volume bar
 - [torchgm/NewModernWinver](https://github.com/torchgm/NewModernWinver) - A modern and functional replacement for the About Windows dialog
-- [Erisa/RoundedTB](https://github.com/Erisa/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+- [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [ShinyMustard22/eulersmethod](https://github.com/ShinyMustard22/eulersmethod) - 
 - [mwittrien/mwittrien.github.io](https://github.com/mwittrien/mwittrien.github.io) - 
 - [jammus/lastfm-node](https://github.com/jammus/lastfm-node) - Read and write to Last.fm with node.js
