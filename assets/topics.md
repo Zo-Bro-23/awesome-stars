@@ -1412,7 +1412,6 @@
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Minimal full-stack URL Shortener application.
 - [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
-- [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api) - Programming Quotes API for open source projects.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [theabhayprajapati/Open-Apple-Store](https://github.com/theabhayprajapati/Open-Apple-Store) - Open Source Apple Store, has made this with the help of Apple Store item, this project which provide an additional choice to developer to interact with API.
