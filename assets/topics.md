@@ -411,7 +411,7 @@
 - [omidnikrah/anonymous-instagram-story-seen](https://github.com/omidnikrah/anonymous-instagram-story-seen) - Seen Instagram stories anonymously
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [soroushchehresa/radiojavan-downloader](https://github.com/soroushchehresa/radiojavan-downloader) - ⬇️ Simple Google Chrome extension for downloading tracks, videos and podcasts from RadioJavan
-- [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player
+- [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player.
 - [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
 - [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
 - [richgong/history-by-date](https://github.com/richgong/history-by-date) - A Chrome extension that lets you browse your history by date, instead of infinite scroll.
@@ -1283,7 +1283,7 @@
 ## learning 
 
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
-- [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
+- [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [shravan20/LearningResources](https://github.com/shravan20/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
 - [sdras/js-explorer](https://github.com/sdras/js-explorer) - Find the method you need without digging through the docs, directly on the command line!
