@@ -267,7 +267,7 @@
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [jlord/essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
+- [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [femioladeji/celebrity-game](https://github.com/femioladeji/celebrity-game) - A simple game that tests how much you recognize your favourite celebrities
 - [pcottle/FriendMapper](https://github.com/pcottle/FriendMapper) - Map your friends geographically
@@ -390,7 +390,7 @@
 - [funbox/languagetool-node](https://github.com/funbox/languagetool-node) - CLI spell and grammar checker
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [ris58h/youtube-tracks](https://github.com/ris58h/youtube-tracks) - YouTube tracklist navigation.
-- [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player
+- [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player.
 - [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
 - [omnidevZero/YouTubeRedux](https://github.com/omnidevZero/YouTubeRedux) - Browser extension that focuses on restoring old YouTube layout within Polymer design (modern layout).
 - [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
