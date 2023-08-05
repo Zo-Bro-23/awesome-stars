@@ -1342,7 +1342,7 @@
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
 - [soroushchehresa/giant-sur](https://github.com/soroushchehresa/giant-sur) - 🍏 macOS Big Sur UI clone for the web built with React, Next.js, TypeScript, and Tailwind CSS
-- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
 - [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
 - [changkun/rmtrash](https://github.com/changkun/rmtrash) - 🗑️ Move directory entries to Trash
 - [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server) - Local RTMP Streaming Server
