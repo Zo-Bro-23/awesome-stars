@@ -1030,7 +1030,7 @@
 
 ## Swift 
 
-- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
 - [nzufelt/salutations_generator_assignment](https://github.com/nzufelt/salutations_generator_assignment) - A quiz or lab to challenge a student's ability to refactor for both efficacy and inclusivity.
 - [mxcl/Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
