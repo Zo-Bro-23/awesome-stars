@@ -426,7 +426,7 @@
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [christine-hu/exeter-simulator](https://github.com/christine-hu/exeter-simulator) - An homage to the trials and tribulations of attending Phillips Exeter Academy. Created January 2018.
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
-- [deta/cloud-docs](https://github.com/deta/cloud-docs) - Legacy docs for Deta Cloud
+- [deta/cloud-docs](https://github.com/deta/cloud-docs) - old docs. visit space docs instead:
 - [sallar/led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - :crystal_ball: A simple HTML5 LED Matrix Simulator for fun
 - [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server) - Local RTMP Streaming Server
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
