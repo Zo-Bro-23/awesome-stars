@@ -179,6 +179,7 @@
 - [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
 - [anufrievroman/whale](https://github.com/anufrievroman/whale) - Dark theme inspired by Ark and Nord
 - [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [femioladeji/slack-words](https://github.com/femioladeji/slack-words) - Do you want to test your word-formation skills? This is the game for you. Once you use the /wordsgame slash command, a game is started and players can respond in a thread with all the possible English
 - [tomondre/my-ip](https://github.com/tomondre/my-ip) - Simple backend + frontend app that allows client's to find information about their IP and their ISP
 - [nvsnkv/dns-override](https://github.com/nvsnkv/dns-override) - DNS Override is a simple chrome extension, which allows you to override domain names directly in the page
@@ -856,7 +857,6 @@
 - [mrcoles/readmd](https://github.com/mrcoles/readmd) - Pretty-print markdown
 - [martinwoodward/PumpkinPi](https://github.com/martinwoodward/PumpkinPi) - Spooky build status indicator
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
-- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [drknzz/auto-lingo](https://github.com/drknzz/auto-lingo) - A Duolingo Bot for automatic XP earning
