@@ -1113,7 +1113,7 @@
 - [jitterbit/get-changed-files](https://github.com/jitterbit/get-changed-files) - Get all of the files changed/modified in a pull request or push's commits.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [femioladeji/movie-app](https://github.com/femioladeji/movie-app) - A chrome extension developed with angular2 that consumes omdb api to make movie search, scheduling and streaming a lot more fun
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [tomondre/api](https://github.com/tomondre/api) - Rest API that allows caller to get json data about myself - projects, work history, education, certifications and deployments. This API is used in portfolio website, as well as in the deployments page
 - [tomondre/portfolio-angular](https://github.com/tomondre/portfolio-angular) - Portfolio webpage converted from static HTML to Angular for easier webpage development and management.
 - [digitalheir/lastfm-to-librefm-exporter](https://github.com/digitalheir/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
