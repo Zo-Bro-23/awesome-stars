@@ -592,7 +592,7 @@
 ## deployment 
 
 - [avi12/web-ext-deploy](https://github.com/avi12/web-ext-deploy) - A tool for deploying WebExtensions to multiple stores.
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 
 ## design 
