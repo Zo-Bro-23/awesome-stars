@@ -721,7 +721,6 @@
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 
 ## Objective-C 
 
@@ -1180,6 +1179,7 @@
 - [anuraghazra/vscode-strip-ts-copy](https://github.com/anuraghazra/vscode-strip-ts-copy) - Strip types from TypeScript code while copying it.
 - [anuraghazra/convoychat](https://github.com/anuraghazra/convoychat) - Help us take over the world! React + TS + GraphQL Chat App
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [timovv/speed-interview-bot](https://github.com/timovv/speed-interview-bot) - 
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
