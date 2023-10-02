@@ -195,7 +195,7 @@
 - [awhite/lastfm-collage-generator](https://github.com/awhite/lastfm-collage-generator) - Top albums collage generator for Last.fm
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - Effortlessly centralize community, product, and customer data in one database
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open source CDP to centralize community, product, and customer data
 
 ## android 
 
@@ -987,7 +987,7 @@
 - [jamesgeorge007/jamesgeorge-cli](https://github.com/jamesgeorge007/jamesgeorge-cli) - The James George CLI
 - [jamesgeorge007/node-banner](https://github.com/jamesgeorge007/node-banner) - Easily integrate ASCII flavored banners to your CLI tool
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - Effortlessly centralize community, product, and customer data in one database
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open source CDP to centralize community, product, and customer data
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
@@ -1584,7 +1584,7 @@
 - [shravan20/LearningResources](https://github.com/shravan20/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [JacobLinCool/Clubhouse-Avatar-Pro](https://github.com/JacobLinCool/Clubhouse-Avatar-Pro) - A simple but powerful web app that helps you to create excellent Clubhouse avatars with beautiful borders. Free, secure, and highly customizable.
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - Effortlessly centralize community, product, and customer data in one database
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open source CDP to centralize community, product, and customer data
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
