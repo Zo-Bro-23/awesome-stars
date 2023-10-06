@@ -1124,7 +1124,7 @@
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
-- [Korilakkuma/XSound.app](https://github.com/Korilakkuma/XSound.app) - Web Music Application by XSound
+- [Korilakkuma/XSound-v1.app](https://github.com/Korilakkuma/XSound-v1.app) - Web Music Application by XSound
 - [Korilakkuma/XSound](https://github.com/Korilakkuma/XSound) - XSound gives Web Developers Powerful Audio Features Easily !
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype
 - [slatinsky/x86sim](https://github.com/slatinsky/x86sim) - Web based simulator of x86 Intel computer in a 16-bit real mode made for education purposes
