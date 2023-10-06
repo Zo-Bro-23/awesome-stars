@@ -923,6 +923,7 @@
 
 ## good-first-issue 
 
+- [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [triplea-game/triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 
@@ -1004,6 +1005,7 @@
 - [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [zhixiangteoh/zhixiangteoh.github.io](https://github.com/zhixiangteoh/zhixiangteoh.github.io) - My personal website.
 - [ManimCommunity/DiscordManimator](https://github.com/ManimCommunity/DiscordManimator) - A Manim Rendering Bot for Discord. Requires a Functioning Manim install.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1814,7 +1816,7 @@
 - [Korilakkuma/CanvasView](https://github.com/Korilakkuma/CanvasView) - Android Application Library
 - [Korilakkuma/ArtCanvas](https://github.com/Korilakkuma/ArtCanvas) - HTML5 Canvas Library
 - [Korilakkuma/ActionAudioAPI](https://github.com/Korilakkuma/ActionAudioAPI) - ActionScript 3.0 Library like Web Audio API
-- [Korilakkuma/XSound.app](https://github.com/Korilakkuma/XSound.app) - Web Music Application by XSound
+- [Korilakkuma/XSound-v1.app](https://github.com/Korilakkuma/XSound-v1.app) - Web Music Application by XSound
 - [Korilakkuma/XSound.js](https://github.com/Korilakkuma/XSound.js) - HTML5 Web Audio API Library
 - [Zo-Bro-23/discord-readme-badge](https://github.com/Zo-Bro-23/discord-readme-badge) - Fork of @Zyplos/discord-readme-badge
 - [Zo-Bro-23/himandher](https://github.com/Zo-Bro-23/himandher) - Fork of @shenuja/himandher
