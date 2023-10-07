@@ -971,6 +971,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [shravan20/LearningResources](https://github.com/shravan20/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [mishmanners/mish-friendly-food](https://github.com/mishmanners/mish-friendly-food) - App for providing dietary requirements :pineapple: on cute cards in different languages
