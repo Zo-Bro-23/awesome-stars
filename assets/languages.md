@@ -799,6 +799,7 @@
 - [somq/consolas-ligaturized](https://github.com/somq/consolas-ligaturized) - 🖊️ Standard Consolas font with FiraCode ligatures
 - [pygaurav/vasuki-dark-vscode-theme](https://github.com/pygaurav/vasuki-dark-vscode-theme) - Vasuki Dark Theme - A dark theme for VS Code which add amazing experience and feel into your coding.
 - [shenuja/himandher](https://github.com/shenuja/himandher) - Personal blog
+- [thesilican/duotrigordle](https://github.com/thesilican/duotrigordle) - Play 32 wordles simultaneously
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
 - [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
 
@@ -1201,7 +1202,6 @@
 - [LaunchMenu/LaunchMenu](https://github.com/LaunchMenu/LaunchMenu) - Do it. Do it now.
 - [MikhaD/wordle](https://github.com/MikhaD/wordle) - A recreation of the popular game Wordle with additional modes and features. Made with Svelte in Typescript.
 - [octokatherine/word-master](https://github.com/octokatherine/word-master) - A Mastermind-like word guessing game
-- [thesilican/duotrigordle](https://github.com/thesilican/duotrigordle) - Play 32 wordles simultaneously
 - [Khan/perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's exercise question editor and renderer.
 - [acarabott/tabToWindow](https://github.com/acarabott/tabToWindow) - Chrome extension to move the current tab to a new window using the command API
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
