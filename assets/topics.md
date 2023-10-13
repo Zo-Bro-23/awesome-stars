@@ -997,6 +997,7 @@
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
