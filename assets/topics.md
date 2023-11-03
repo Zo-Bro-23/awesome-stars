@@ -1022,7 +1022,6 @@
 - [knightron0/tempus](https://github.com/knightron0/tempus) - A chrome extension that allows you to manage and view timestamped YouTube comments efficiently.
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [ManimCommunity/manim-website](https://github.com/ManimCommunity/manim-website) - Manim landing page.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
