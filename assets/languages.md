@@ -677,7 +677,7 @@
 - [kylepaulsen/SuperBookmarkDesktop](https://github.com/kylepaulsen/SuperBookmarkDesktop) - Super Bookmark Desktop - the new tab page + bookmark manager that acts like your computer desktop!
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [Frosthaven/voicemeeter-windows-volume](https://github.com/Frosthaven/voicemeeter-windows-volume) - Tray app that allows you to sync windows volume and mute state to Voicemeeter volume controls
-- [Miodec/fingermap](https://github.com/Miodec/fingermap) - Fingermap editor. Show other people how you type by highlighting the keyboard with different colors.
+- [monkeytypegame/monkeytype-fingermap](https://github.com/monkeytypegame/monkeytype-fingermap) - Fingermap editor. Show other people how you type by highlighting the keyboard with different colors.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
