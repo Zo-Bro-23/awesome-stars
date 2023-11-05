@@ -2078,7 +2078,7 @@
 - [RobinLinus/socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - A demo of cross-origin login detection for most major web platforms
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
 - [Frosthaven/voicemeeter-windows-volume](https://github.com/Frosthaven/voicemeeter-windows-volume) - Tray app that allows you to sync windows volume and mute state to Voicemeeter volume controls
-- [Miodec/fingermap](https://github.com/Miodec/fingermap) - Fingermap editor. Show other people how you type by highlighting the keyboard with different colors.
+- [monkeytypegame/monkeytype-fingermap](https://github.com/monkeytypegame/monkeytype-fingermap) - Fingermap editor. Show other people how you type by highlighting the keyboard with different colors.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [BarRaider/streamdeck-voicemeeter](https://github.com/BarRaider/streamdeck-voicemeeter) - VoiceMeeter integration for Stream Deck
