@@ -903,7 +903,7 @@
 - [totallynotadi/mega-uploader](https://github.com/totallynotadi/mega-uploader) - a command-line tool to upload local files and pastebin pastes to your mega account, without signing in anywhere
 - [totallynotadi/pomodorow](https://github.com/totallynotadi/pomodorow) - a timer and music script as a companion for your pomodorow sessions
 - [totallynotadi/cvplayer](https://github.com/totallynotadi/cvplayer) - simple platform independant video player written in python using ffpyplayer and OpenCV
-- [totallynotadi/readme-now-playing](https://github.com/totallynotadi/readme-now-playing) - good looking cards for your github readme showing your currently playing song on spotify
+- [totallynotadi/now-playing-cards](https://github.com/totallynotadi/now-playing-cards) - good looking cards for your github readme showing your currently playing song on spotify
 - [kittinan/trex-keras-cnn](https://github.com/kittinan/trex-keras-cnn) - Play T-Rex game with Keras using convolutional neural network
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [leonardssh/auto-discord-status](https://github.com/leonardssh/auto-discord-status) - ⛅ Automatized Discord Custom Status using openweathermap.org API
