@@ -1923,7 +1923,7 @@
 - [totallynotadi/streamit](https://github.com/totallynotadi/streamit) - 
 - [totallynotadi/mega-uploader](https://github.com/totallynotadi/mega-uploader) - a command-line tool to upload local files and pastebin pastes to your mega account, without signing in anywhere
 - [totallynotadi/pomodorow](https://github.com/totallynotadi/pomodorow) - a timer and music script as a companion for your pomodorow sessions
-- [totallynotadi/readme-now-playing](https://github.com/totallynotadi/readme-now-playing) - good looking cards for your github readme showing your currently playing song on spotify
+- [totallynotadi/now-playing-cards](https://github.com/totallynotadi/now-playing-cards) - good looking cards for your github readme showing your currently playing song on spotify
 - [KRTirtho/facebook_ui_clone](https://github.com/KRTirtho/facebook_ui_clone) - A minimal facebook ui clone written with Dart & designed with Flutter
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
 - [KRTirtho/wallywiz](https://github.com/KRTirtho/wallywiz) - A Random Wallpaper shuffler application
