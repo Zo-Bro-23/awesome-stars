@@ -1972,7 +1972,6 @@
 - [behackl/manim-content](https://github.com/behackl/manim-content) - Sources for my content produced with Manim
 - [behackl/manim-with-ease](https://github.com/behackl/manim-with-ease) - Tutorial series for the community maintained version of Manim, https://www.manim.community
 - [Tikolu/fractal.py](https://github.com/Tikolu/fractal.py) - A simple Mandelbrot fractal generator made in python
-- [Tikolu/emojimix](https://github.com/Tikolu/emojimix) - 
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 - [timovv/speed-interview-bot](https://github.com/timovv/speed-interview-bot) - 
 - [timovv/notion-website-template](https://github.com/timovv/notion-website-template) - Make a personal website using Notion and GitHub Pages
