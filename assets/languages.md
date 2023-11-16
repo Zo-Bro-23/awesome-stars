@@ -19,6 +19,7 @@
 - [Dart](#dart)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Fluent](#fluent)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -224,6 +225,10 @@
 ## Elm 
 
 - [coffee-cup/lastfm-leaderboards](https://github.com/coffee-cup/lastfm-leaderboards) - Music leaderboards powered by last.fm
+
+## Fluent 
+
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
 ## GDScript 
 
@@ -1190,7 +1195,6 @@
 - [laurentlbm/google-photos-takeout-date-fixer](https://github.com/laurentlbm/google-photos-takeout-date-fixer) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
 - [theabhayprajapati/twitter-m-2](https://github.com/theabhayprajapati/twitter-m-2) - A simple twitter Clone build on next.js and tailwindcss
 - [theabhayprajapati/Open-Apple-Store](https://github.com/theabhayprajapati/Open-Apple-Store) - Open Source Apple Store, has made this with the help of Apple Store item, this project which provide an additional choice to developer to interact with API.
-- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [tecosaur/LaTeX-Utilities](https://github.com/tecosaur/LaTeX-Utilities) - An add-on to LaTeX Workshop that provides some features that go beyond the bare essentials
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
