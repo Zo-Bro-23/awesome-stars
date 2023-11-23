@@ -1143,7 +1143,7 @@
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [JeffreyCA/lastfm-recently-played-readme](https://github.com/JeffreyCA/lastfm-recently-played-readme) - Display your recent Last.fm scrobbles on your GitHub profile README.
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
-- [statsfm/web](https://github.com/statsfm/web) - [WIP] stats.fm web repository
+- [statsfm/web](https://github.com/statsfm/web) - stats.fm web repository
 - [JacobLinCool/node-cloudflared](https://github.com/JacobLinCool/node-cloudflared) - Cloudflared in Node. Create HTTPS tunnel in 10 seconds. Works on macOS, Linux, and Windows.
 - [JacobLinCool/recaptcha-solver](https://github.com/JacobLinCool/recaptcha-solver) - Solve reCAPTCHA challenges by using offline speech recognition.
 - [JacobLinCool/LeetCode-Query](https://github.com/JacobLinCool/LeetCode-Query) - A LeetCode Query API for TypeScript & JavaScript.
