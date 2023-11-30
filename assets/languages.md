@@ -277,6 +277,7 @@
 - [califyn/andover-housing](https://github.com/califyn/andover-housing) - A report on housing at Phillips Academy. || Made by the Bias Group @ The Workshop 2022
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
+- [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
 - [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
 - [techx/hackmit-code](https://github.com/techx/hackmit-code) - :recycle: HackMIT's open source projects
@@ -470,7 +471,6 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
 - [coreybutler/node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).
-- [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Tominous/Set-Discord-Activity](https://github.com/Tominous/Set-Discord-Activity) - Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
@@ -687,7 +687,7 @@
 - [Zo-Bro-23/obs-voicemeeter-integration](https://github.com/Zo-Bro-23/obs-voicemeeter-integration) - A server to integrate OBS and Voicemeeter using your voice, keyboard shortcuts and more!
 - [Zo-Bro-23/zoauth](https://github.com/Zo-Bro-23/zoauth) - Zero effort OAuth - ZoAuth!
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [subhash/cookie-monster](https://github.com/subhash/cookie-monster) - 
 
 ## Jinja 
