@@ -896,7 +896,7 @@
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [Technetium1/VSCodeExtensionInstaller](https://github.com/Technetium1/VSCodeExtensionInstaller) - Batch install Visual Studio Code extensions
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-- [abrasic/abratools](https://github.com/abrasic/abratools) - Free animation toolset for Blender 3.0
+- [abrasic/abratools](https://github.com/abrasic/abratools) - Free animation toolset for Blender 4.
 - [abrasic/blendpresence](https://github.com/abrasic/blendpresence) - Discord RPC support for Blender 3.0
 - [jamesgeorge007/GitHub-Mate](https://github.com/jamesgeorge007/GitHub-Mate) - This is the web implementation of github-mate Desktop app using the Flask web application framework with extended capabilities.
 - [jamesgeorge007/Catch-It](https://github.com/jamesgeorge007/Catch-It) - The traditional Egg Catching game clone with a much better user experience. :video_game:
