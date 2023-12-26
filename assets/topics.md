@@ -584,7 +584,7 @@
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [deta/deta](https://github.com/deta/deta) - the leading no-code platform (written in rust)
 - [MinhasKamal/AlphabetRecognizer](https://github.com/MinhasKamal/AlphabetRecognizer) - Simple Optical Character Recognizer (english-ocr-image-to-text-recognition-sample-trainig-alphabet-photo-data-database-dataset)
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
 
 ## deep-learning 
 
@@ -703,7 +703,7 @@
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [xanderfrangos/crushee](https://github.com/xanderfrangos/crushee) - Desktop tool for batch image optimization and resizing. Available for Windows and Mac. Built with Electron and Node.js.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1205,7 +1205,7 @@
 - [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [xanderfrangos/crushee](https://github.com/xanderfrangos/crushee) - Desktop tool for batch image optimization and resizing. Available for Windows and Mac. Built with Electron and Node.js.
 - [bachmitre/tabmanager](https://github.com/bachmitre/tabmanager) - Organize open tabs like applications on a desktop
@@ -1257,7 +1257,7 @@
 - [iCrawl/kaori](https://github.com/iCrawl/kaori) - 🎻 Your friendly neighbourhood violinist bringing you the best booru images
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
 
 ## jupyter-notebook 
 
@@ -1552,7 +1552,7 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen) - 📔 API documentation generator CLI for https://hoppscotch.io
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [xanderfrangos/crushee](https://github.com/xanderfrangos/crushee) - Desktop tool for batch image optimization and resizing. Available for Windows and Mac. Built with Electron and Node.js.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -1793,7 +1793,7 @@
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [Jxck-S/FAA-registry-checker](https://github.com/Jxck-S/FAA-registry-checker) - Checks FAA Registry daily for new aircraft registered by certain owners as configured.
 - [Jxck-S/spacex-droneship-bot](https://github.com/Jxck-S/spacex-droneship-bot) - Twitter bot for tracking SpaceX droneships
-- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using ADS-B data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and res
 - [georgebrock/spotify-scrobbler](https://github.com/georgebrock/spotify-scrobbler) - A SIMBL plugin for the Spotify client to scrobble tracks to last.fm
 - [georgebrock/git-browse](https://github.com/georgebrock/git-browse) - Like git blame, but interactive.
 - [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
