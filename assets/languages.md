@@ -659,8 +659,8 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [typicode/katon](https://github.com/typicode/katon) - (use hotel instead)
-- [typicode/steno](https://github.com/typicode/steno) - Specialized fast async file writer
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
+- [typicode/steno](https://github.com/typicode/steno) - Super fast async file writer with atomic write ⚡
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
