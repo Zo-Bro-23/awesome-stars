@@ -401,7 +401,7 @@
 - [mrcoles/favicon-creator](https://github.com/mrcoles/favicon-creator) - Create favicons purely in Javascript
 - [mrcoles/javascript-piano](https://github.com/mrcoles/javascript-piano) - An HTML5 JavaScript synth piano that generates all of its sounds using data URIs.
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
-- [rain-fighters/AudioPick](https://github.com/rain-fighters/AudioPick) - Chrome Extension to pick a default audio output device for HTML5 audio and video elements
+- [rain-fighters/AudioPick](https://github.com/rain-fighters/AudioPick) - A Chrome Extension to pick a preferred  audio output device for HTML5 audio and video elements
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [timleland/Json-Viewer-Extension](https://github.com/timleland/Json-Viewer-Extension) - This extension makes JSON responses easy to read.
 - [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one
