@@ -418,7 +418,7 @@
 - [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
 - [richgong/history-by-date](https://github.com/richgong/history-by-date) - A Chrome extension that lets you browse your history by date, instead of infinite scroll.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
-- [rain-fighters/AudioPick](https://github.com/rain-fighters/AudioPick) - Chrome Extension to pick a default audio output device for HTML5 audio and video elements
+- [rain-fighters/AudioPick](https://github.com/rain-fighters/AudioPick) - A Chrome Extension to pick a preferred  audio output device for HTML5 audio and video elements
 - [timleland/WeatherCE](https://github.com/timleland/WeatherCE) - Weather Browser Extension
 - [avi12/youtube-speed-control](https://github.com/avi12/youtube-speed-control) - A browser extension for changing the speed of videos on YouTube, as well as embedded YouTube videos.
 - [avi12/web-ext-deploy](https://github.com/avi12/web-ext-deploy) - A tool for deploying WebExtensions to multiple stores.
