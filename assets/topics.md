@@ -1612,6 +1612,7 @@
 
 ## others 
 
+- [DaltonLens/daltonlens.org](https://github.com/DaltonLens/daltonlens.org) - DaltonLens public website
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [jamie-mh/AuthenticatorProIcons](https://github.com/jamie-mh/AuthenticatorProIcons) - 🖼️ Icon packs for Authenticator Pro
 - [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel) - WIP: Keep an eye on ▲ Vercel deployments without ever leaving Visual Studio Code.
@@ -2144,6 +2145,7 @@
 
 ## python 
 
+- [joergdietrich/daltonize](https://github.com/joergdietrich/daltonize) - Simulate and correct images for dichromatic color blindness
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
