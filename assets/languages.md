@@ -1239,7 +1239,6 @@
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [JacobLinCool/Clubhouse-Avatar-Pro](https://github.com/JacobLinCool/Clubhouse-Avatar-Pro) - A simple but powerful web app that helps you to create excellent Clubhouse avatars with beautiful borders. Free, secure, and highly customizable.
 - [eggsy/lanyard-web](https://github.com/eggsy/lanyard-web) - 🏷 Landing page and API documentation concept for Lanyard API.
-- [leonardssh/old.leonard.sh](https://github.com/leonardssh/old.leonard.sh) - 🌐 The source code for my personal website.
 - [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation - https://docs.hoppscotch.io
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 
