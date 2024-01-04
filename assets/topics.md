@@ -2445,7 +2445,6 @@
 - [th-ch/yamux-js](https://github.com/th-ch/yamux-js) - Node.js (TypeScript/JavaScript) port of the multiplexing library for Golang made by HashiCorp: https://github.com/hashicorp/yamux
 - [eggsy/discord-steam-verification](https://github.com/eggsy/discord-steam-verification) - 🧬 Check if a user owns the specific item(s) in their Steam library and give them roles! Discord bot and API.
 - [uditkarode/wikari](https://github.com/uditkarode/wikari) - 💡 A NodeJS TS library to control Philips WiZ bulbs.
-- [leonardssh/old.leonard.sh](https://github.com/leonardssh/old.leonard.sh) - 🌐 The source code for my personal website.
 - [iCrawl/not-a-spy-game](https://github.com/iCrawl/not-a-spy-game) - A game not about spies.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
