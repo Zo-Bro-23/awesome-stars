@@ -30,6 +30,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -718,6 +719,10 @@
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [exeldro/obs-lua](https://github.com/exeldro/obs-lua) - 
 
+## MDX 
+
+- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation - https://docs.hoppscotch.io
+
 ## Markdown 
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
@@ -1239,7 +1244,6 @@
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [JacobLinCool/Clubhouse-Avatar-Pro](https://github.com/JacobLinCool/Clubhouse-Avatar-Pro) - A simple but powerful web app that helps you to create excellent Clubhouse avatars with beautiful borders. Free, secure, and highly customizable.
 - [eggsy/lanyard-web](https://github.com/eggsy/lanyard-web) - 🏷 Landing page and API documentation concept for Lanyard API.
-- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation - https://docs.hoppscotch.io
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 
 ## XSLT 
