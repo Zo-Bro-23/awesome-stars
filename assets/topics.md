@@ -1019,7 +1019,6 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [zhixiangteoh/zhixiangteoh.github.io](https://github.com/zhixiangteoh/zhixiangteoh.github.io) - My personal website.
 - [ManimCommunity/DiscordManimator](https://github.com/ManimCommunity/DiscordManimator) - A Manim Rendering Bot for Discord. Requires a Functioning Manim install.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [knightron0/tempus](https://github.com/knightron0/tempus) - A chrome extension that allows you to manage and view timestamped YouTube comments efficiently.
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
