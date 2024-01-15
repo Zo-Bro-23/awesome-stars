@@ -112,6 +112,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [monero](#monero)
 - [mongodb](#mongodb)
@@ -1407,6 +1408,10 @@
 
 - [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [fennifith/Metronome-Android](https://github.com/fennifith/Metronome-Android) - A lightweight, well designed metronome app for Android.
+
+## microsoft 
+
+- [joemccann/covidsentiment.com](https://github.com/joemccann/covidsentiment.com) - 🦠View the positive and negative sentiments of news headlines surrounding coronavirus. The site uses Microsoft Azure's Cognitive Services Text Analytics Machine Learning API to determine sentiment.
 
 ## minecraft 
 
