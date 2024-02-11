@@ -749,7 +749,6 @@
 - [timleland/url-shorteners](https://github.com/timleland/url-shorteners) - List of URL Shorteners
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [martinwoodward/smart-xmas](https://github.com/martinwoodward/smart-xmas) - Star this repo to add some sparkle to my tree
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -1103,6 +1102,7 @@
 - [avi12/youtube-auto-hd](https://github.com/avi12/youtube-auto-hd) - A simple browser extension for changing YouTube videos' quality based on FPS.
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
 - [trekhleb/vscode-search-tree](https://github.com/trekhleb/vscode-search-tree) - 🔎 (Draft!) VSCode extension to show the search results in a tree view
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
