@@ -842,7 +842,7 @@
 
 - [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy) - Easy script for running youtube-dl with basic options
 - [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
-- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 
 ## Processing 
 
