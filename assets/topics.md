@@ -682,7 +682,7 @@
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
-- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 
 ## education 
 
