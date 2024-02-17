@@ -296,7 +296,6 @@
 - [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 - [plibither8/made-with-love-in](https://github.com/plibither8/made-with-love-in) - 🛠️ ❤️ 🗺️ 🛡️ — Mircoservice for serving and listing "Made with love in &lt;country-name&gt;" badges
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
-- [zhixiangteoh/zhixiangteoh.github.io](https://github.com/zhixiangteoh/zhixiangteoh.github.io) - My personal website.
 - [Zo-Bro-23/zoauth-encryptions](https://github.com/Zo-Bro-23/zoauth-encryptions) - NOTE: CLIENT-SIDE APPLICATION NOT COMPLETED (DEMO APP)! Trying to build an app which encrypts using your location... Only the encryption and decryption API is complete. Location thing doesn't work...
 - [Zo-Bro-23/html-demo](https://github.com/Zo-Bro-23/html-demo) - A site to show people the potential of HTML... I'm currently following this website: https://www.w3schools.com/html/, and I am trying to include everything they talk about there.
 - [Zo-Bro-23/zoauth-demoApp](https://github.com/Zo-Bro-23/zoauth-demoApp) - Demo app for the ZoAuth npm package...
