@@ -70,6 +70,7 @@
 
 ## Astro 
 
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [mishmanners/mish-friendly-food](https://github.com/mishmanners/mish-friendly-food) - App for providing dietary requirements :pineapple: on cute cards in different languages
 
 ## Batchfile 
@@ -678,7 +679,6 @@
 - [Frosthaven/voicemeeter-windows-volume](https://github.com/Frosthaven/voicemeeter-windows-volume) - Tray app that allows you to sync windows volume and mute state to Voicemeeter volume controls
 - [monkeytypegame/monkeytype-fingermap](https://github.com/monkeytypegame/monkeytype-fingermap) - Fingermap editor. Show other people how you type by highlighting the keyboard with different colors.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
 - [sdras/js-explorer](https://github.com/sdras/js-explorer) - Find the method you need without digging through the docs, directly on the command line!
 - [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin) - A simple blockchain in Javascript. For educational purposes only.
@@ -747,7 +747,6 @@
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts.
 - [timleland/url-shorteners](https://github.com/timleland/url-shorteners) - List of URL Shorteners
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [martinwoodward/smart-xmas](https://github.com/martinwoodward/smart-xmas) - Star this repo to add some sparkle to my tree
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -1216,6 +1215,7 @@
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Savjee/google-sheets-wrapper](https://github.com/Savjee/google-sheets-wrapper) - Lightweight wrapper around the official Google Sheets API that makes it easy to read/write rows
 - [andycb/AdventurerClientJS](https://github.com/andycb/AdventurerClientJS) - An unofficial cross platform client for working with the Monoprice Voxel or Flashforge Adventurer 3
