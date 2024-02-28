@@ -177,7 +177,7 @@
 
 ## CSS 
 
-- [AlexisJonsson/AlexisJonsson.github.io](https://github.com/AlexisJonsson/AlexisJonsson.github.io) - 
+- [AlexisJonsson/ModernDiscordTheme.github.io](https://github.com/AlexisJonsson/ModernDiscordTheme.github.io) - 
 - [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [maddhruv/imaginator](https://github.com/maddhruv/imaginator) - :circus_tent: Generates Random Quotes :speech_balloon: Images! https://maddhruv.github.io/imaginator
 - [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
