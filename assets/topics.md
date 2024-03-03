@@ -118,6 +118,7 @@
 - [monero](#monero)
 - [mongodb](#mongodb)
 - [music](#music)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [node](#node)
@@ -1465,6 +1466,11 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
+## natural-language-processing 
+
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+- [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
+
 ## neovim 
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
@@ -1679,7 +1685,6 @@
 - [anufrievroman/angry-reviewer](https://github.com/anufrievroman/angry-reviewer) - Style corrector for academic writing and scientific papers at angryreviewer.com
 - [reZach/grammarify](https://github.com/reZach/grammarify) - Grammarify is a npm package that safely cleans up text that has mispellings, improper capitalization, lexical illusions, among other things.
 - [funbox/languagetool-node](https://github.com/funbox/languagetool-node) - CLI spell and grammar checker
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [ris58h/youtube-tracks](https://github.com/ris58h/youtube-tracks) - YouTube tracklist navigation.
 - [omnidevZero/YouTubeRedux](https://github.com/omnidevZero/YouTubeRedux) - Browser extension that focuses on restoring old YouTube layout within Polymer design (modern layout).
@@ -1986,7 +1991,6 @@
 - [timovv/notion-website-template](https://github.com/timovv/notion-website-template) - Make a personal website using Notion and GitHub Pages
 - [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion) - 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
 - [developerish/tab-count](https://github.com/developerish/tab-count) - Source for the TabCount Chrome extension.
-- [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
 - [sonigy/W10Driver](https://github.com/sonigy/W10Driver) - The application Win10Driver, installs and saves drivers and also safely removes old versions of drivers.
