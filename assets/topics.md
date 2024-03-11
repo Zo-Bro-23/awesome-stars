@@ -450,6 +450,7 @@
 
 ## cli 
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [maddhruv/npmtotal](https://github.com/maddhruv/npmtotal) - Find you npm download statistics
 - [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
 - [trekhleb/nodejs-master-class](https://github.com/trekhleb/nodejs-master-class) - 🛠 This repository contains the homework assignment for Node.js Master Class that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS with no NPM or 3rd-party libraries
@@ -915,6 +916,7 @@
 
 ## golang 
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
@@ -1627,6 +1629,7 @@
 
 ## others 
 
+- [siddharthroy12/TouchTyper](https://github.com/siddharthroy12/TouchTyper) - A minimalistic typing test software inspired by monkeytype built using C++ for both desktop and browser.
 - [DaltonLens/daltonlens.org](https://github.com/DaltonLens/daltonlens.org) - DaltonLens public website
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [jamie-mh/AuthenticatorProIcons](https://github.com/jamie-mh/AuthenticatorProIcons) - 🖼️ Icon packs for Authenticator Pro
@@ -2410,6 +2413,7 @@
 
 ## terminal 
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
