@@ -137,6 +137,7 @@
 
 ## C++ 
 
+- [siddharthroy12/TouchTyper](https://github.com/siddharthroy12/TouchTyper) - A minimalistic typing test software inspired by monkeytype built using C++ for both desktop and browser.
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [Wielding/MediaOsdToggle](https://github.com/Wielding/MediaOsdToggle) - Small Windows application to toggle the visibility of the Windows Media OSD
@@ -238,6 +239,7 @@
 
 ## Go 
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [akshayravikumar/crosswords](https://github.com/akshayravikumar/crosswords) - generates nyt crossword grids
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
