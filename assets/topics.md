@@ -206,7 +206,7 @@
 ## android 
 
 - [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - A last.fm, ListenBrainz, libre.fm and GNU FM client for Android
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Scrobbles to last.fm, ListenBrainz, libre.fm, GNU FM, Maloja, Pleroma or to a file, on Android
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts.
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [patzly/grocy-android-unlock](https://github.com/patzly/grocy-android-unlock) - Unlock AI-based barcode scanning in Grocy Android
@@ -1446,7 +1446,7 @@
 
 ## music 
 
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - A last.fm, ListenBrainz, libre.fm and GNU FM client for Android
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Scrobbles to last.fm, ListenBrainz, libre.fm, GNU FM, Maloja, Pleroma or to a file, on Android
 - [Zo-Bro-23/youtube-music-api](https://github.com/Zo-Bro-23/youtube-music-api) - 🖥️ API for @th-ch/youtube-music
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [awhite/lastfm-collage-generator](https://github.com/awhite/lastfm-collage-generator) - Top albums collage generator for Last.fm
