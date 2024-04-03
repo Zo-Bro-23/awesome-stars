@@ -854,6 +854,7 @@
 
 ## Python 
 
+- [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - YouTube Music to Spotify Playlist Converter
 - [joergdietrich/daltonize](https://github.com/joergdietrich/daltonize) - Simulate and correct images for dichromatic color blindness
 - [jamie-mh/AuthenticatorProIcons](https://github.com/jamie-mh/AuthenticatorProIcons) - 🖼️ Icon packs for Authenticator Pro
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
