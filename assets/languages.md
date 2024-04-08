@@ -85,6 +85,7 @@
 - [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
+- [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [exeldro/obs-time-shift](https://github.com/exeldro/obs-time-shift) - 
 - [exeldro/obs-source-switcher](https://github.com/exeldro/obs-source-switcher) - Plugin for OBS Studio to switch between a list of sources
@@ -283,7 +284,6 @@
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
 - [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
-- [MinhasKamal/CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection) - A Collection of Cute But Deadly Viruses
 - [techx/hackmit-code](https://github.com/techx/hackmit-code) - :recycle: HackMIT's open source projects
 - [Zo-Bro-23/himandher](https://github.com/Zo-Bro-23/himandher) - Fork of @shenuja/himandher
 - [slatinsky/slides-remote-control](https://github.com/slatinsky/slides-remote-control) - Allow other partner to press left / right arrow keys remotely. Useful for Powerpoint / Google Slides presentation
