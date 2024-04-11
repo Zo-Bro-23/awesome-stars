@@ -1056,6 +1056,7 @@
 
 ## TypeScript 
 
+- [kevinthegreat1/gotcha](https://github.com/kevinthegreat1/gotcha) - Gotcha web app
 - [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel) - WIP: Keep an eye on ▲ Vercel deployments without ever leaving Visual Studio Code.
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
