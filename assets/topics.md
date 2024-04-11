@@ -1031,7 +1031,6 @@
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -1629,6 +1628,7 @@
 
 ## others 
 
+- [kevinthegreat1/gotcha](https://github.com/kevinthegreat1/gotcha) - Gotcha web app
 - [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - YouTube Music to Spotify Playlist Converter
 - [siddharthroy12/TouchTyper](https://github.com/siddharthroy12/TouchTyper) - A minimalistic typing test software inspired by monkeytype built using C++ for both desktop and browser.
 - [DaltonLens/daltonlens.org](https://github.com/DaltonLens/daltonlens.org) - DaltonLens public website
@@ -2039,6 +2039,7 @@
 - [Zo-Bro-23/web-captioner-obs-integration](https://github.com/Zo-Bro-23/web-captioner-obs-integration) - An application to show live captions in OBS with custom CSS using the browser source!
 - [Zo-Bro-23/writing-stats](https://github.com/Zo-Bro-23/writing-stats) - This is a simple package to get stats (such as word count, paragraph density, etc) from a TXT file.
 - [Zo-Bro-23/meme-bot](https://github.com/Zo-Bro-23/meme-bot) - A meme bot for Discord... Go to https://discord.com/developers, create a bot, and copy the id. Clone the repo, and add a file called cred.json in this format: {bot: 'yourUniqueId'}. Run index.js with 
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [qntm/t-a-i](https://github.com/qntm/t-a-i) - Converts Unix milliseconds to and from International Atomic Time (TAI) milliseconds
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece
