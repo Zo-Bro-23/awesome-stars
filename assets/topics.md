@@ -158,6 +158,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -2370,6 +2371,10 @@
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [Araxeus/ScreenshotZ](https://github.com/Araxeus/ScreenshotZ) - Simple Screenshot Tool with quick crop and custom keybinds
+
+## stable-diffusion 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## statistics 
 
