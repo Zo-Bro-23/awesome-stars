@@ -2085,7 +2085,6 @@
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
 - [prajwalsouza/Maze-Solver](https://github.com/prajwalsouza/Maze-Solver) - Solves Mazes taking an image input, along with the starting and ending points. There are two Algorithms here which solve mazes. One of them is a Shortest Path Algorithm, the other, Minimal Tree Agorit
 - [prajwalsouza/Epidemic-Simulation](https://github.com/prajwalsouza/Epidemic-Simulation) - An interactive inspired by 3Blue1Brown's 'Simulating an Epidemic' video.
-- [tallesl/qckwinsvc](https://github.com/tallesl/qckwinsvc) - Unmainted :(
 - [nightmode/logitech-g29](https://github.com/nightmode/logitech-g29) - Logitech G29 Racing Wheel for Node
 - [x360ce/x360ce](https://github.com/x360ce/x360ce) - Primary repository for the x360ce library, front-end and tools.
 - [gtanner/qrcode-terminal](https://github.com/gtanner/qrcode-terminal) - QRCodes in your terminal, cause thats hot.
