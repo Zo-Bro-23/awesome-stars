@@ -556,7 +556,7 @@
 - [seia-soto/chrome-discord-presence](https://github.com/seia-soto/chrome-discord-presence) - The Discord Rich-Presence(activity) support for Google Chrome(Web Browser), only using Extension.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [gitlimes/website](https://github.com/gitlimes/website) - My website!
-- [gitlimes/microsoftgithub.com](https://github.com/gitlimes/microsoftgithub.com) - A website that lets you create legit-looking GitHub links that rickroll the visitor.
+- [gitlimes/microsoftgithub.com](https://github.com/gitlimes/microsoftgithub.com) - A website that lets you create official-looking GitHub links that rickroll the visitor.
 - [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
