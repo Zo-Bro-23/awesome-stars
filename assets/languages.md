@@ -832,6 +832,7 @@
 
 ## Perl 
 
+- [kisonecat/CatNip](https://github.com/kisonecat/CatNip) - Mac OS X application to detect and block cat-like typing
 - [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
 
 ## PowerShell 
