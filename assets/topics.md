@@ -1633,6 +1633,7 @@
 
 ## others 
 
+- [kisonecat/CatNip](https://github.com/kisonecat/CatNip) - Mac OS X application to detect and block cat-like typing
 - [kevinthegreat1/gotcha](https://github.com/kevinthegreat1/gotcha) - Gotcha web app
 - [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - Transfer Playlists from YouTube Music to Spotify
 - [siddharthroy12/TouchTyper](https://github.com/siddharthroy12/TouchTyper) - A minimalistic typing test software inspired by monkeytype built using C++ for both desktop and browser.
