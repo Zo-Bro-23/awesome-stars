@@ -38,6 +38,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -531,6 +532,14 @@
 - [jamesgeorge007/Crypto-Compare](https://github.com/jamesgeorge007/Crypto-Compare) - Comparison chart between popular cryptocurrencies.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
+
+## cryptography 
+
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+- [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+- [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin) - A simple blockchain in Javascript. For educational purposes only.
 
 ## csharp 
 
@@ -2019,7 +2028,6 @@
 - [Zo-Bro-23/automatic-git-commits](https://github.com/Zo-Bro-23/automatic-git-commits) - NOTE: NOT COMPLETED! Will create a repo on GitHub, initiliaze one locally, stage and commit all changes continuously AND pull and push periodically!!
 - [Zo-Bro-23/adventurer-3-communication](https://github.com/Zo-Bro-23/adventurer-3-communication) - NOTE: NOT COMPLETED! Testing out a reverse-engineered API for the Adventurer 3! Also have plans to integrate with PushBullet to remotely access my printer.
 - [Zo-Bro-23/arduino](https://github.com/Zo-Bro-23/arduino) - All my arduino projects!
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [git/git-reference](https://github.com/git/git-reference) - Online Git Reference at http://git.github.io/git-reference/
