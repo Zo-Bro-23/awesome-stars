@@ -1789,7 +1789,6 @@
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [stefanzweifel/laravel-sends](https://github.com/stefanzweifel/laravel-sends) - A package to keep track of outgoing emails in your Laravel application.
 - [suisei-cn/actions-download-file](https://github.com/suisei-cn/actions-download-file) - An action used to filter out a URL and download files for further works.
-- [GNOME/gedit](https://github.com/GNOME/gedit) - Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [GNOME/gnome-sudoku](https://github.com/GNOME/gnome-sudoku) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-sudoku
 - [GNOME/gnome-mines](https://github.com/GNOME/gnome-mines) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-mines
