@@ -948,6 +948,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [prajwalsouza/Maze-Solver](https://github.com/prajwalsouza/Maze-Solver) - Solves Mazes taking an image input, along with the starting and ending points. There are two Algorithms here which solve mazes. One of them is a Shortest Path Algorithm, the other, Minimal Tree Agorit
 - [cpitclaudel/monospacifier](https://github.com/cpitclaudel/monospacifier) - Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming)
+- [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 
 ## ReScript 
 
@@ -982,7 +983,6 @@
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [jsomers/git-game](https://github.com/jsomers/git-game) - The git committer guessing game!
 - [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
-- [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 
 ## Rust 
 
