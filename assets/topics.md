@@ -1161,7 +1161,7 @@
 - [Steven-Roberts/Word-Counter-Plus](https://github.com/Steven-Roberts/Word-Counter-Plus) - Chrome Extension that lets you views stats on selected text
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [sallar/stringz](https://github.com/sallar/stringz) - :100: Super fast unicode-aware string manipulation Javascript library
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -1622,6 +1622,7 @@
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [shravan20/LearningResources](https://github.com/shravan20/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
@@ -1632,6 +1633,7 @@
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [msaaddev/open-source](https://github.com/msaaddev/open-source) - ⚡️ A comprehensive list of all the open-source work I have done over the years. Authored 20+ open-source software that includes automation tools, node packages, web applications, etc.
+- [ManimCommunity/awesome-manim](https://github.com/ManimCommunity/awesome-manim) - A database with many Manim users and content creators
 - [theabhayprajapati/Open-Apple-Store](https://github.com/theabhayprajapati/Open-Apple-Store) - Open Source Apple Store, has made this with the help of Apple Store item, this project which provide an additional choice to developer to interact with API.
 
 ## opencv 
@@ -2258,7 +2260,7 @@
 - [trekhleb/giphygram](https://github.com/trekhleb/giphygram) - 🔎 Experimental React application for searching GIF images on GIPHY
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [femioladeji/react-slideshow](https://github.com/femioladeji/react-slideshow) - A react component for slideshow supporting slide, fade and zoom
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
