@@ -443,7 +443,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [snapcrunch/electron-preferences](https://github.com/snapcrunch/electron-preferences) - A simple, consistent interface for managing user preferences within an Electron application.
 - [Chernavskikh/pixel-avatars](https://github.com/Chernavskikh/pixel-avatars) - React pixel avatars generator https://chernavskikh.github.io/pixel-avatars/
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
 - [probot/unfurl](https://github.com/probot/unfurl) - a GitHub App built with Probot that unfurls links on Issues and Pull Request discussions
 - [probot/stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
