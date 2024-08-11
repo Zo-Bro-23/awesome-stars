@@ -613,7 +613,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [knightron0/tempus](https://github.com/knightron0/tempus) - A chrome extension that allows you to manage and view timestamped YouTube comments efficiently.
+- [knightron0/tempus](https://github.com/knightron0/tempus) - chrome extension to 10x your youtube experience
 - [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [carykh/WordleEdit](https://github.com/carykh/WordleEdit) - Multiplayer game that plays a version of Wordle where players can edit their own words as they go. Runs as a Discord bot!
 - [Zo-Bro-23/writing-stats-web](https://github.com/Zo-Bro-23/writing-stats-web) - A website that shows you your various writing stats such as Word Count, Paragraph Density, etc
