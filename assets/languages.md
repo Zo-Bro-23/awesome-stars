@@ -1028,7 +1028,6 @@
 
 - [avi12/youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Like videos with Shift+Plus, dislike with Shift+Minus.
 - [vegeta897/word-peaks](https://github.com/vegeta897/word-peaks) - A word guessing game of highs and lows
-- [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
 
 ## Swift 
 
@@ -1138,6 +1137,7 @@
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype
 - [slatinsky/x86sim](https://github.com/slatinsky/x86sim) - Web based simulator of x86 Intel computer in a 16-bit real mode made for education purposes
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
+- [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
