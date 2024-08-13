@@ -671,7 +671,7 @@
 - [kylepaulsen/kbm-robot](https://github.com/kylepaulsen/kbm-robot) - A module to help you emulate system wide keyboard and mouse actions.
 - [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 - [kylepaulsen/SuperBookmarkDesktop](https://github.com/kylepaulsen/SuperBookmarkDesktop) - Super Bookmark Desktop - the new tab page + bookmark manager that acts like your computer desktop!
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [Frosthaven/voicemeeter-windows-volume](https://github.com/Frosthaven/voicemeeter-windows-volume) - Tray app that allows you to sync windows volume and mute state to Voicemeeter volume controls
 - [monkeytypegame/monkeytype-fingermap](https://github.com/monkeytypegame/monkeytype-fingermap) - Fingermap editor. Show other people how you type by highlighting the keyboard with different colors.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
