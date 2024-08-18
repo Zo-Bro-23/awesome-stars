@@ -90,6 +90,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -1092,6 +1093,11 @@
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
+## https 
+
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
+
 ## image-processing 
 
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
@@ -2072,7 +2078,6 @@
 - [sharadcodes/jekyll-theme-retro-yellow](https://github.com/sharadcodes/jekyll-theme-retro-yellow) - A super simple and Light theme for Jekyll with minimal CSS by Sharad Raj Singh Maurya
 - [typicode/stop-server](https://github.com/typicode/stop-server) - :iphone: Shut down your computer with your phone
 - [typicode/user-startup](https://github.com/typicode/user-startup) - Auto start commands when you log in (cross-platform)
-- [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [typicode/logan](https://github.com/typicode/logan) - Mini template system for the console and colors
 - [typicode/shoutjs](https://github.com/typicode/shoutjs) - Make your ShellJS commands explicit and get a beautiful output
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
