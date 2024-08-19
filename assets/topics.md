@@ -166,6 +166,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -2428,6 +2429,13 @@
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
+
+## tailwindcss 
+
+- [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
+- [statsfm/web](https://github.com/statsfm/web) - stats.fm web repository
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [theabhayprajapati/twitter-m-2](https://github.com/theabhayprajapati/twitter-m-2) - A simple twitter Clone build on next.js and tailwindcss
 
 ## telegram 
 
