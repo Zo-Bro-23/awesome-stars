@@ -1658,7 +1658,7 @@
 - [DaltonLens/daltonlens.org](https://github.com/DaltonLens/daltonlens.org) - DaltonLens public website
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [jamie-mh/AuthenticatorProIcons](https://github.com/jamie-mh/AuthenticatorProIcons) - 🖼️ Icon packs for Authenticator Pro
-- [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel) - WIP: Keep an eye on ▲ Vercel deployments without ever leaving Visual Studio Code.
+- [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel) - Keep an eye on ▲ Vercel deployments without ever leaving Visual Studio Code.
 - [Zo-Bro-23/discord-status-notification](https://github.com/Zo-Bro-23/discord-status-notification) - Get Discord notifications for when your friends are online!
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
 - [jstrieb/procrastinate](https://github.com/jstrieb/procrastinate) - One button, infinite web comics. Never focus again.
