@@ -850,6 +850,7 @@
 
 ## Python 
 
+- [luisignaciocc/youtube-music-scrobbler](https://github.com/luisignaciocc/youtube-music-scrobbler) - a python script to scrobble your YouTube Music history to Last.fm
 - [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - Transfer Playlists from YouTube Music to Spotify
 - [joergdietrich/daltonize](https://github.com/joergdietrich/daltonize) - Simulate and correct images for dichromatic color blindness
 - [jamie-mh/AuthenticatorProIcons](https://github.com/jamie-mh/AuthenticatorProIcons) - 🖼️ Icon packs for Authenticator Pro
@@ -1051,6 +1052,7 @@
 
 ## TypeScript 
 
+- [luisignaciocc/ytmusic-scrobbler-web](https://github.com/luisignaciocc/ytmusic-scrobbler-web) - a Last.fm scrobbler from your YouTube Music history. a monorepo with a web app and background workers
 - [kevinthegreat1/gotcha](https://github.com/kevinthegreat1/gotcha) - Gotcha web app
 - [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel) - Keep an eye on ▲ Vercel deployments without ever leaving Visual Studio Code.
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
