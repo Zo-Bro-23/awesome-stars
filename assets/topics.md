@@ -1660,6 +1660,8 @@
 
 ## others 
 
+- [luisignaciocc/youtube-music-scrobbler](https://github.com/luisignaciocc/youtube-music-scrobbler) - a python script to scrobble your YouTube Music history to Last.fm
+- [luisignaciocc/ytmusic-scrobbler-web](https://github.com/luisignaciocc/ytmusic-scrobbler-web) - a Last.fm scrobbler from your YouTube Music history. a monorepo with a web app and background workers
 - [kisonecat/CatNip](https://github.com/kisonecat/CatNip) - Mac OS X application to detect and block cat-like typing
 - [kevinthegreat1/gotcha](https://github.com/kevinthegreat1/gotcha) - Gotcha web app
 - [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - Transfer Playlists from YouTube Music to Spotify
