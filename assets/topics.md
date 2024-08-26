@@ -563,7 +563,7 @@
 
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
+- [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -639,7 +639,7 @@
 - [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
-- [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
+- [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [Farcrada/DiscordPlugins](https://github.com/Farcrada/DiscordPlugins) - This repo holds all the plugins I made for Discord.
 - [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [ItsRauf/slash](https://github.com/ItsRauf/slash) - slash command generator
@@ -1151,7 +1151,7 @@
 - [nroutasuo/lastfm-vis](https://github.com/nroutasuo/lastfm-vis) - Visualizations of Last.fm data
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [peterhanania/Pogy](https://github.com/peterhanania/Pogy) - A fully customizable discord bot made with discord.js with over 183 commands, 12 categories, and a fully customizable dashboard. Watching over 350,000 users and 1k guilds. [deprecated]
-- [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
+- [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [omidnikrah/electron-github](https://github.com/omidnikrah/electron-github) - Desktop version of Github with Electron
 - [omidnikrah/snapp-total-price-extension](https://github.com/omidnikrah/snapp-total-price-extension) - 🚗 Chrome extension to get the Snapp total price
 - [omidnikrah/football-live-score-extension](https://github.com/omidnikrah/football-live-score-extension) - ⚽️A Chrome extension to display football live score.
