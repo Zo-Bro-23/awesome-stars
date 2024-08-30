@@ -1894,7 +1894,7 @@
 - [meetDeveloper/JavaScript-Switcher](https://github.com/meetDeveloper/JavaScript-Switcher) - A Mozilla Firefox extension to toggle JavaScript on Individual Domain.
 - [slatinsky/x86sim](https://github.com/slatinsky/x86sim) - Web based simulator of x86 Intel computer in a 16-bit real mode made for education purposes
 - [slatinsky/slides-remote-control](https://github.com/slatinsky/slides-remote-control) - Allow other partner to press left / right arrow keys remotely. Useful for Powerpoint / Google Slides presentation
-- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
+- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 - [schulzch/edit-distance-js](https://github.com/schulzch/edit-distance-js) - JavaScript library to compute the edit distance for strings and trees.
 - [exeldro/obs-time-shift](https://github.com/exeldro/obs-time-shift) - 
 - [exeldro/obs-source-clone](https://github.com/exeldro/obs-source-clone) - 
