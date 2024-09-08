@@ -94,6 +94,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -1120,6 +1121,12 @@
 - [MinhasKamal/AlphabetRecognizer](https://github.com/MinhasKamal/AlphabetRecognizer) - Simple Optical Character Recognizer (english-ocr-image-to-text-recognition-sample-trainig-alphabet-photo-data-database-dataset)
 - [MinhasKamal/SkinDetector](https://github.com/MinhasKamal/SkinDetector) - Detects Human Skin From Image (color-region-segmentation-photo-detection-extraction-detect)
 
+## instagram 
+
+- [omidnikrah/anonymous-instagram-story-seen](https://github.com/omidnikrah/anonymous-instagram-story-seen) - Seen Instagram stories anonymously
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
+- [PiyushSuthar/insta-feed.js](https://github.com/PiyushSuthar/insta-feed.js) - Show your Instagram profile on your website. 🌈
+
 ## ios 
 
 - [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
@@ -1935,7 +1942,6 @@
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [ChristopherChudzicki/math3d-react](https://github.com/ChristopherChudzicki/math3d-react) - A user-friendly 3d graphing calculator for the web. Create, share, and animate 3d mathematical scenes.
 - [PiyushSuthar/clpy](https://github.com/PiyushSuthar/clpy) - Save image from your clipboard 📋 as an image file directly from your command line! 🔥
-- [PiyushSuthar/insta-feed.js](https://github.com/PiyushSuthar/insta-feed.js) - Show your Instagram profile on your website. 🌈
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [Brenden2008/git.taxi](https://github.com/Brenden2008/git.taxi) - The git.taxi service is a link shortener like git.io powered by deta.sh.
