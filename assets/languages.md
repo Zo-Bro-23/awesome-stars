@@ -358,7 +358,6 @@
 - [Zo-Bro-23/github-readme-stats](https://github.com/Zo-Bro-23/github-readme-stats) - Fork of @anuraghazra/github-readme-stats
 - [Zo-Bro-23/euler-method](https://github.com/Zo-Bro-23/euler-method) - NPM package for approximating differential equations (using Euler's method)
 - [peterhanania/Pogy](https://github.com/peterhanania/Pogy) - A fully customizable discord bot made with discord.js with over 183 commands, 12 categories, and a fully customizable dashboard. Watching over 350,000 users and 1k guilds. [deprecated]
-- [ShinyMustard22/eulersmethod](https://github.com/ShinyMustard22/eulersmethod) - 
 - [mwittrien/mwittrien.github.io](https://github.com/mwittrien/mwittrien.github.io) - 
 - [jammus/lastfm-node](https://github.com/jammus/lastfm-node) - Read and write to Last.fm with node.js
 - [keune/demastered](https://github.com/keune/demastered) - Clean up your recent scrobbles.
