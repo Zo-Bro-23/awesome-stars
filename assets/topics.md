@@ -1681,6 +1681,7 @@
 
 ## others 
 
+- [6004x/jade](https://github.com/6004x/jade) - JAvascript Design Environment
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [luisignaciocc/youtube-music-scrobbler](https://github.com/luisignaciocc/youtube-music-scrobbler) - a python script to scrobble your YouTube Music history to Last.fm
 - [luisignaciocc/ytmusic-scrobbler-web](https://github.com/luisignaciocc/ytmusic-scrobbler-web) - a Last.fm scrobbler from your YouTube Music history. a monorepo with a web app and background workers
