@@ -611,7 +611,6 @@
 - [developerish/tab-count](https://github.com/developerish/tab-count) - Source for the TabCount Chrome extension.
 - [DaAwesomeP/tab-counter](https://github.com/DaAwesomeP/tab-counter) - A button badge that shows the number of tabs open in a window
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [knightron0/tempus](https://github.com/knightron0/tempus) - chrome extension to 10x your youtube experience
@@ -1195,6 +1194,7 @@
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [timovv/speed-interview-bot](https://github.com/timovv/speed-interview-bot) - 
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [sawyerpollard/MineWeather](https://github.com/sawyerpollard/MineWeather) - Chrome Extension that displays a Minecraft scene on New Tabs depending on local weather conditions.
