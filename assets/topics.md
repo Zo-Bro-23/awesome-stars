@@ -991,6 +991,7 @@
 
 ## hacktoberfest 
 
+- [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - Transfer Playlists from YouTube Music to Spotify
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.
 - [ItsRauf/datetimecord](https://github.com/ItsRauf/datetimecord) - 
@@ -1686,7 +1687,6 @@
 - [luisignaciocc/ytmusic-scrobbler-web](https://github.com/luisignaciocc/ytmusic-scrobbler-web) - a Last.fm scrobbler from your YouTube Music history. a monorepo with a web app and background workers
 - [kisonecat/CatNip](https://github.com/kisonecat/CatNip) - Mac OS X application to detect and block cat-like typing
 - [kevinthegreat1/gotcha](https://github.com/kevinthegreat1/gotcha) - Gotcha web app
-- [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - Transfer Playlists from YouTube Music to Spotify
 - [siddharthroy12/TouchTyper](https://github.com/siddharthroy12/TouchTyper) - A minimalistic typing test software inspired by monkeytype built using C++ for both desktop and browser.
 - [DaltonLens/daltonlens.org](https://github.com/DaltonLens/daltonlens.org) - DaltonLens public website
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
@@ -1897,7 +1897,6 @@
 - [Korilakkuma/CanvasView](https://github.com/Korilakkuma/CanvasView) - Android Application Library
 - [Korilakkuma/ArtCanvas](https://github.com/Korilakkuma/ArtCanvas) - HTML5 Canvas Library
 - [Korilakkuma/ActionAudioAPI](https://github.com/Korilakkuma/ActionAudioAPI) - ActionScript 3.0 Library like Web Audio API
-- [Korilakkuma/XSound-v1.app](https://github.com/Korilakkuma/XSound-v1.app) - Web Music Application by XSound
 - [Korilakkuma/XSound.js](https://github.com/Korilakkuma/XSound.js) - HTML5 Web Audio API Library
 - [Zo-Bro-23/discord-readme-badge](https://github.com/Zo-Bro-23/discord-readme-badge) - Fork of @Zyplos/discord-readme-badge
 - [Zo-Bro-23/himandher](https://github.com/Zo-Bro-23/himandher) - Fork of @shenuja/himandher
