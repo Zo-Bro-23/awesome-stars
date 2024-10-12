@@ -440,7 +440,7 @@
 - [soroushchehresa/radiojavan-downloader](https://github.com/soroushchehresa/radiojavan-downloader) - ⬇️ Simple Google Chrome extension for downloading tracks, videos and podcasts from RadioJavan
 - [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player.
 - [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
-- [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
+- [drodil/video_auto_pause](https://github.com/drodil/video_auto_pause) - Chrome extension to automatically pause/continue video on tab focus changes
 - [richgong/history-by-date](https://github.com/richgong/history-by-date) - A Chrome extension that lets you browse your history by date, instead of infinite scroll.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [rain-fighters/AudioPick](https://github.com/rain-fighters/AudioPick) - A Chrome Extension to pick a preferred  audio output device for HTML5 audio and video elements
@@ -997,7 +997,7 @@
 - [ItsRauf/datetimecord](https://github.com/ItsRauf/datetimecord) - 
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
+- [drodil/video_auto_pause](https://github.com/drodil/video_auto_pause) - Chrome extension to automatically pause/continue video on tab focus changes
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -1878,9 +1878,7 @@
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
-- [kerichdev/spoticode-generator](https://github.com/kerichdev/spoticode-generator) - A simple python script to generate Spotify Codes (cool waveforms). Not scannable.
 - [MinhasKamal/ProgrammerTransformation](https://github.com/MinhasKamal/ProgrammerTransformation) - The Insipid Journey of Homo Programmer (naive-novice-beginner-super-god-transformation-evolution-improvement-programmer-coder-software-engineer)
-- [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player) - Youtube Music CSS themes to apply with any injector.
 - [OceanicSquirrel/themes-for-ytmdesktop-player](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player) - If you are using the https://github.com/ytmdesktop/ytmdesktop player, you can copy these CSS files to try different color themes. (This is not affiliated with YouTube or the ytmdesktop project)
 - [techx/hackmit-code](https://github.com/techx/hackmit-code) - :recycle: HackMIT's open source projects
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
