@@ -187,7 +187,6 @@
 - [femioladeji/slack-words](https://github.com/femioladeji/slack-words) - Do you want to test your word-formation skills? This is the game for you. Once you use the /wordsgame slash command, a game is started and players can respond in a thread with all the possible English
 - [tomondre/my-ip](https://github.com/tomondre/my-ip) - Simple backend + frontend app that allows client's to find information about their IP and their ISP
 - [nvsnkv/dns-override](https://github.com/nvsnkv/dns-override) - DNS Override is a simple chrome extension, which allows you to override domain names directly in the page
-- [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player) - Youtube Music CSS themes to apply with any injector.
 - [Alan-Zhao-908/control-life-admin](https://github.com/Alan-Zhao-908/control-life-admin) - admin console for directors
 - [Alan-Zhao-908/mjolnir](https://github.com/Alan-Zhao-908/mjolnir) - 
 - [DiscordStyles/DarkMatter](https://github.com/DiscordStyles/DarkMatter) - A cold, dark & frosty theme.
@@ -395,7 +394,7 @@
 - [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player.
 - [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
 - [omnidevZero/YouTubeRedux](https://github.com/omnidevZero/YouTubeRedux) - Browser extension that focuses on restoring old YouTube layout within Polymer design (modern layout).
-- [drodil/youtube_auto_pause](https://github.com/drodil/youtube_auto_pause) - Chrome extension to automatically pause/continue Youtube video on tab focus changes
+- [drodil/video_auto_pause](https://github.com/drodil/video_auto_pause) - Chrome extension to automatically pause/continue video on tab focus changes
 - [dlinbernard/screen-recorder](https://github.com/dlinbernard/screen-recorder) - Screen Recorder addon helps you record video from the computer's screen.
 - [jsargiot/restman](https://github.com/jsargiot/restman) - RESTMan is a browser extension to work on http requests.
 - [richgong/floppybox](https://github.com/richgong/floppybox) - FlappyBird-like game contained within a ReactJS component.
@@ -891,7 +890,6 @@
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using ADS-B data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and res
 - [georgebrock/git-browse](https://github.com/georgebrock/git-browse) - Like git blame, but interactive.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [kerichdev/spoticode-generator](https://github.com/kerichdev/spoticode-generator) - A simple python script to generate Spotify Codes (cool waveforms). Not scannable.
 - [aarush-narang/password-breaker](https://github.com/aarush-narang/password-breaker) - 
 - [aarush-narang/USACO](https://github.com/aarush-narang/USACO) - USACO training problems and competitive problems
 - [aarush-narang/Best-Buy-Product-Automatic-Buyer](https://github.com/aarush-narang/Best-Buy-Product-Automatic-Buyer) - 
