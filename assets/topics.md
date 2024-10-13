@@ -214,7 +214,7 @@
 
 ## android 
 
-- [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+- [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Scrobbles to last.fm, ListenBrainz, libre.fm, GNU FM, Maloja, Pleroma or to a file, on Android
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts.
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
@@ -1457,7 +1457,7 @@
 
 ## material-design 
 
-- [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+- [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [fennifith/Metronome-Android](https://github.com/fennifith/Metronome-Android) - A lightweight, well designed metronome app for Android.
 
 ## microsoft 
@@ -1690,7 +1690,7 @@
 - [siddharthroy12/TouchTyper](https://github.com/siddharthroy12/TouchTyper) - A minimalistic typing test software inspired by monkeytype built using C++ for both desktop and browser.
 - [DaltonLens/daltonlens.org](https://github.com/DaltonLens/daltonlens.org) - DaltonLens public website
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
-- [jamie-mh/AuthenticatorProIcons](https://github.com/jamie-mh/AuthenticatorProIcons) - 🖼️ Icon packs for Authenticator Pro
+- [stratumauth/icons](https://github.com/stratumauth/icons) - 🖼️ Icon packs for Stratum
 - [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel) - Keep an eye on ▲ Vercel deployments without ever leaving Visual Studio Code.
 - [Zo-Bro-23/discord-status-notification](https://github.com/Zo-Bro-23/discord-status-notification) - Get Discord notifications for when your friends are online!
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
@@ -2634,7 +2634,7 @@
 
 ## xamarin 
 
-- [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+- [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 
 ## xml 
 
