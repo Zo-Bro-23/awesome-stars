@@ -144,7 +144,7 @@
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [torchgm/NewModernWinver](https://github.com/torchgm/NewModernWinver) - A modern and functional replacement for the About Windows dialog
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
+- [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [ajeetdsouza/pifs](https://github.com/ajeetdsouza/pifs) - The compile-time, data-free filesystem.
 - [MinhasKamal/ProgrammerTransformation](https://github.com/MinhasKamal/ProgrammerTransformation) - The Insipid Journey of Homo Programmer (naive-novice-beginner-super-god-transformation-evolution-improvement-programmer-coder-software-engineer)
 - [MinhasKamal/StupidKeylogger](https://github.com/MinhasKamal/StupidKeylogger) - A Terrific Keystroke Recorder
