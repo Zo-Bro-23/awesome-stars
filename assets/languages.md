@@ -292,7 +292,7 @@
 - [Platane/performance-clock](https://github.com/Platane/performance-clock) - 🕕 Detect performance lag in your app
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
-- [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription tool for OBS that generates text overlays using real-time ML.
+- [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription/translation tool that generates text overlays using real-time ML.
 - [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 - [plibither8/made-with-love-in](https://github.com/plibither8/made-with-love-in) - 🛠️ ❤️ 🗺️ 🛡️ — Mircoservice for serving and listing "Made with love in &lt;country-name&gt;" badges
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
