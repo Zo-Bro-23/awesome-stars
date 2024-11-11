@@ -1999,7 +1999,7 @@
 - [kittinan/thai-name-gender-classifier](https://github.com/kittinan/thai-name-gender-classifier) - Thai name gender classifier with Deep learning
 - [kittinan/trex-keras-cnn](https://github.com/kittinan/trex-keras-cnn) - Play T-Rex game with Keras using convolutional neural network
 - [Zyplos/lounge-hub](https://github.com/Zyplos/lounge-hub) - the lounge community site
-- [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription tool for OBS that generates text overlays using real-time ML.
+- [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription/translation tool that generates text overlays using real-time ML.
 - [daily-co/daily-js](https://github.com/daily-co/daily-js) - 
 - [DXsmiley/boomo](https://github.com/DXsmiley/boomo) - An implementation of the card game Boomo
 - [DXsmiley/aioc420](https://github.com/DXsmiley/aioc420) - Might be a game of 500. IDK.
