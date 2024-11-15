@@ -935,7 +935,7 @@
 - [ManimCommunity/manim_editor](https://github.com/ManimCommunity/manim_editor) - Web Presenter for Mathematical Animations using Manim.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-- [keotl/invert-pdf](https://github.com/keotl/invert-pdf) - A free online PDF colour inverter. (Perfect for printing dark PDFs.)
+- [keotl/invert-pdf](https://github.com/keotl/invert-pdf) - A free online PDF colour inverter. (for printing dark PDFs.)
 - [prashantsengar/RedPy](https://github.com/prashantsengar/RedPy) - A Python wrapper to download images from Reddit
 - [prashantsengar/TimeTracker](https://github.com/prashantsengar/TimeTracker) - Basic Time tracker built with Python. Track what applications you spend your most time on.
 - [prashantsengar/ArrangePy](https://github.com/prashantsengar/ArrangePy) - Organizes files in folders and helps you to clean your PC
