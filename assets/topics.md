@@ -2079,7 +2079,7 @@
 - [sawyerpollard/Hyperpuzzle](https://github.com/sawyerpollard/Hyperpuzzle) - A collection of three logic puzzles and solvers implemented in Java's Swing GUI framework.
 - [Zo-Bro-23/3D-Printing](https://github.com/Zo-Bro-23/3D-Printing) - All my 3D Printing designs!
 - [keotl/watch-party](https://github.com/keotl/watch-party) - A synchronized video player using websockets written in Python
-- [keotl/invert-pdf](https://github.com/keotl/invert-pdf) - A free online PDF colour inverter. (Perfect for printing dark PDFs.)
+- [keotl/invert-pdf](https://github.com/keotl/invert-pdf) - A free online PDF colour inverter. (for printing dark PDFs.)
 - [josdejong/ducktype](https://github.com/josdejong/ducktype) - Flexible data validation using a ducktype interface. For JavaScript and Node.js.
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
