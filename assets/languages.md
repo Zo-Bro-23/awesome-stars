@@ -440,7 +440,6 @@
 - [wei/github-project-notifier](https://github.com/wei/github-project-notifier) - A Discord 🤖 that notifies on GitHub Project Card updates
 - [wei/discord-actions-bot](https://github.com/wei/discord-actions-bot) - 🤖 A Discord Bot that helps with Action Items.
 - [wei/minifier](https://github.com/wei/minifier) - ⚡️ Offline-first web app for an HTML, JS, CSS minifier.
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [snapcrunch/electron-preferences](https://github.com/snapcrunch/electron-preferences) - A simple, consistent interface for managing user preferences within an Electron application.
 - [Chernavskikh/pixel-avatars](https://github.com/Chernavskikh/pixel-avatars) - React pixel avatars generator https://chernavskikh.github.io/pixel-avatars/
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
@@ -1110,6 +1109,7 @@
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
 - [sallar/stringz](https://github.com/sallar/stringz) - :100: Super fast unicode-aware string manipulation Javascript library
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [web-scrobbler/metadata-filter](https://github.com/web-scrobbler/metadata-filter) - A module for cleaning up artist, album, and song names
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
