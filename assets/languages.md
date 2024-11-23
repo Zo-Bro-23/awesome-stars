@@ -125,7 +125,6 @@
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
-- [mudroljub/programming-quotes-api](https://github.com/mudroljub/programming-quotes-api) - Programming Quotes API for open source projects.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [martinchrzan/FileExplorerGallery](https://github.com/martinchrzan/FileExplorerGallery) - Windows File Explorer Gallery
 - [martinchrzan/ColorPicker](https://github.com/martinchrzan/ColorPicker) - Windows system-wide color picker
@@ -510,6 +509,7 @@
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [skolakoda/programming-quotes](https://github.com/skolakoda/programming-quotes) - Programming Quotes, an open source app and database.
+- [mudroljub/programming-quotes-api](https://github.com/mudroljub/programming-quotes-api) - Programming Quotes API for open source projects.
 - [jakesgordon/javascript-gauntlet](https://github.com/jakesgordon/javascript-gauntlet) - An HTML5 Gauntlet-style game
 - [jakesgordon/javascript-tiny-platformer](https://github.com/jakesgordon/javascript-tiny-platformer) - A very minimal javascript platform game
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
