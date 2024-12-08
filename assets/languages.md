@@ -447,7 +447,7 @@
 - [probot/reminders](https://github.com/probot/reminders) - set reminders on Issues and Pull Requests
 - [femioladeji/slack-words](https://github.com/femioladeji/slack-words) - Do you want to test your word-formation skills? This is the game for you. Once you use the /wordsgame slash command, a game is started and players can respond in a thread with all the possible English
 - [femioladeji/react-slideshow](https://github.com/femioladeji/react-slideshow) - A react component for slideshow supporting slide, fade and zoom
-- [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
+- [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [pvorb/node-comments](https://github.com/pvorb/node-comments) - providing commenting functionality with the help of mongodb and node.js
 - [pvorb/node-git-wrapper](https://github.com/pvorb/node-git-wrapper) - node.js git wrapper
