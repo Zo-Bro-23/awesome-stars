@@ -360,7 +360,6 @@
 - [jammus/lastfm-node](https://github.com/jammus/lastfm-node) - Read and write to Last.fm with node.js
 - [keune/demastered](https://github.com/keune/demastered) - Clean up your recent scrobbles.
 - [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
-- [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [Farcrada/DiscordPlugins](https://github.com/Farcrada/DiscordPlugins) - This repo holds all the plugins I made for Discord.
 - [googlesamples/assistant-sdk-nodejs](https://github.com/googlesamples/assistant-sdk-nodejs) - 
 - [maddhruv/loading-messages](https://github.com/maddhruv/loading-messages) - Get Random Funny Loading Messages/Texts for your app.
@@ -1059,6 +1058,7 @@
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.
+- [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 image generator
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [wojtekmaj/make-cancellable-promise](https://github.com/wojtekmaj/make-cancellable-promise) - Make any Promise cancellable.
