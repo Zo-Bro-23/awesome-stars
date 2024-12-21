@@ -745,7 +745,7 @@
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [trekhleb/okso-app](https://github.com/trekhleb/okso-app) - ✍🏻 The drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
-- [deta/deta](https://github.com/deta/deta) - the leading no-code platform (written in rust)
+- [deta/deta](https://github.com/deta/deta) - For doers & dreamers
 - [drknzz/drknzz](https://github.com/drknzz/drknzz) - 
 - [Zo-Bro-23/templates](https://github.com/Zo-Bro-23/templates) - All the GitHub template repos that I have created!
 - [drhus/awesome-identicons](https://github.com/drhus/awesome-identicons) - A curated list of "Visual Hashs" (Identicon, Avatar, Fractal, RandomArt and general Hash Visualization)
