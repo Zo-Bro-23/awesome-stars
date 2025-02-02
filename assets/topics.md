@@ -67,6 +67,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
+- [facebook](#facebook)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -782,6 +783,10 @@
 - [anuraghazra/QuickerPoll](https://github.com/anuraghazra/QuickerPoll) - QuickerPoll is a crowd-sourced real-time polling app created with React and Nodejs.
 - [xanderfrangos/crushee](https://github.com/xanderfrangos/crushee) - Desktop tool for batch image optimization and resizing. Available for Windows and Mac. Built with Electron and Node.js.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+
+## facebook 
+
+- [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 
 ## firebase 
 
