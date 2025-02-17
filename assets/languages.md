@@ -553,7 +553,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [gitlimes/website](https://github.com/gitlimes/website) - My website!
 - [gitlimes/microsoftgithub.com](https://github.com/gitlimes/microsoftgithub.com) - A website that lets you create official-looking GitHub links that rickroll the visitor.
-- [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
+- [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
 - [Zyplos/lounge-hub](https://github.com/Zyplos/lounge-hub) - the lounge community site
@@ -926,7 +926,7 @@
 - [Tikolu/fractal.py](https://github.com/Tikolu/fractal.py) - A simple Mandelbrot fractal generator made in python
 - [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion) - 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
 - [CCExtractor/cimico](https://github.com/CCExtractor/cimico) - A python debugger video creator (knightron0's original implementation)
-- [lowerquality/gentle](https://github.com/lowerquality/gentle) - gentle forced aligner
+- [strob/gentle](https://github.com/strob/gentle) - gentle forced aligner
 - [carykh/jumpcutter](https://github.com/carykh/jumpcutter) - Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [ManimCommunity/manim_editor](https://github.com/ManimCommunity/manim_editor) - Web Presenter for Mathematical Animations using Manim.
