@@ -1138,7 +1138,7 @@
 - [KRTirtho/platform_ui](https://github.com/KRTirtho/platform_ui) - Flutter platform specific Widgets and abstractions
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [dkhamsing/fastmdb](https://github.com/dkhamsing/fastmdb) - :mag: Fast iOS app to browse and search movies, tv, actors, credits
-- [dkhamsing/news](https://github.com/dkhamsing/news) - 📰 iOS news app in the style of Apple News, CNN, BBC, Facebook, NYT, Twitter, Reddit & more
+- [dkhamsing/news](https://github.com/dkhamsing/news) - 📰 iOS news app in the style of Apple News, CNN, BBC, Facebook, NYT, Reddit, X (Twitter) & more
 - [sindresorhus/Blear](https://github.com/sindresorhus/Blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -2445,7 +2445,7 @@
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [dkhamsing/fastmdb](https://github.com/dkhamsing/fastmdb) - :mag: Fast iOS app to browse and search movies, tv, actors, credits
-- [dkhamsing/news](https://github.com/dkhamsing/news) - 📰 iOS news app in the style of Apple News, CNN, BBC, Facebook, NYT, Twitter, Reddit & more
+- [dkhamsing/news](https://github.com/dkhamsing/news) - 📰 iOS news app in the style of Apple News, CNN, BBC, Facebook, NYT, Reddit, X (Twitter) & more
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
