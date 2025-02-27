@@ -71,7 +71,6 @@
 ## Astro 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [mishmanners/mish-friendly-food](https://github.com/mishmanners/mish-friendly-food) - App for providing dietary requirements :pineapple: on cute cards in different languages
 
 ## Batchfile 
 
@@ -500,8 +499,7 @@
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [Araxeus/custom-electron-prompt](https://github.com/Araxeus/custom-electron-prompt) - Custom prompt for electron made easy with various templates
 - [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
-- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
-- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - 
 - [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
@@ -511,6 +509,7 @@
 - [jakesgordon/javascript-tiny-platformer](https://github.com/jakesgordon/javascript-tiny-platformer) - A very minimal javascript platform game
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 - [jakesgordon/javascript-pong](https://github.com/jakesgordon/javascript-pong) - A javascript version of the classic 1972 arcade game Pong!
+- [mishmanners/mish-friendly-food](https://github.com/mishmanners/mish-friendly-food) - App for providing dietary requirements :pineapple: on cute cards in different languages
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [AnsonH/youtube-playlist-export](https://github.com/AnsonH/youtube-playlist-export) - Node.js command line app for exporting video data from a YouTube playlist to a JSON/CSV file.
