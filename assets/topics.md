@@ -577,8 +577,7 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
 - [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
-- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
-- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - 
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -680,7 +679,7 @@
 ## django 
 
 - [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
-- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - 
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 
@@ -806,7 +805,7 @@
 
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
-- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - 
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [jamesgeorge007/GitHub-Mate](https://github.com/jamesgeorge007/GitHub-Mate) - This is the web implementation of github-mate Desktop app using the Flask web application framework with extended capabilities.
@@ -1091,7 +1090,7 @@
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
-- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - 
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -1206,8 +1205,7 @@
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
-- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
-- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - 
 - [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
@@ -1482,7 +1480,6 @@
 ## mongodb 
 
 - [soroushchehresa/url-shortener](https://github.com/soroushchehresa/url-shortener) - Minimal full-stack URL Shortener application.
-- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -1525,7 +1522,6 @@
 ## nextjs 
 
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [aarush-narang/messages-app](https://github.com/aarush-narang/messages-app) - 
 - [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [statsfm/web](https://github.com/statsfm/web) - stats.fm web repository
@@ -2224,7 +2220,7 @@
 - [aarush-narang/password-breaker](https://github.com/aarush-narang/password-breaker) - 
 - [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
 - [aarush-narang/USACO](https://github.com/aarush-narang/USACO) - USACO training problems and competitive problems
-- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - wordle with multiple languages (en, es, and more coming soon)
+- [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - 
 - [aarush-narang/Best-Buy-Product-Automatic-Buyer](https://github.com/aarush-narang/Best-Buy-Product-Automatic-Buyer) - 
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
