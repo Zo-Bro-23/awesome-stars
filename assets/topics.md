@@ -177,6 +177,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
+- [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
@@ -1968,7 +1969,6 @@
 - [joemccann/freebeernearme](https://github.com/joemccann/freebeernearme) - Free Bear Near Me is an application for finding free beer near your current location.  This is a demo for a presentation at SXSWi 2011.
 - [joemccann/juke](https://github.com/joemccann/juke) - Flossy way to build a user registration app/component with Express, Redis and Stylus.  It's also a decent starting point for any Express app.
 - [joemccann/the-cvd-bot](https://github.com/joemccann/the-cvd-bot) - 🦠 A free, open source Telegram Bot for keeping up to date on the Coronavirus with the latest news and statistics.
-- [joemccann/robintrack-api-utilities](https://github.com/joemccann/robintrack-api-utilities) - 🧰 A collection of utilities for building datasets and interacting with the Robintrack API.
 - [joemccann/robintrack-api](https://github.com/joemccann/robintrack-api) - Unofficial node client for accessing the APIs called on Robintrack.net.
 - [joemccann/robinhood-api](https://github.com/joemccann/robinhood-api) - 📈 Unofficial node.js client for accessing the APIs called on Robinhood.com.
 - [skyhong2002/bird-sound-classification](https://github.com/skyhong2002/bird-sound-classification) - Bird sound classification using machine learning (SA19-226)
@@ -2494,6 +2494,10 @@
 - [vegeta897/discord-syntax-test](https://github.com/vegeta897/discord-syntax-test) - Automated testing of all syntax highlighting languages for code blocks
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## trading 
+
+- [joemccann/robintrack-api-utilities](https://github.com/joemccann/robintrack-api-utilities) - 🧰 A collection of utilities for building datasets and interacting with the Robintrack API.
 
 ## twitter 
 
