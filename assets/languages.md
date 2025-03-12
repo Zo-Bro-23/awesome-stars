@@ -549,7 +549,6 @@
 - [ethangodt/songlink](https://github.com/ethangodt/songlink) - share music to anyone on any platform
 - [seia-soto/chrome-discord-presence](https://github.com/seia-soto/chrome-discord-presence) - The Discord Rich-Presence(activity) support for Google Chrome(Web Browser), only using Extension.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [gitlimes/website](https://github.com/gitlimes/website) - My website!
 - [gitlimes/microsoftgithub.com](https://github.com/gitlimes/microsoftgithub.com) - A website that lets you create official-looking GitHub links that rickroll the visitor.
 - [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
@@ -635,7 +634,7 @@
 - [Zo-Bro-23/c29](https://github.com/Zo-Bro-23/c29) - C29 - Configure your Logitech G29!
 - [Araxeus/Youtube-Volume-Scroll](https://github.com/Araxeus/Youtube-Volume-Scroll) - Browser Extension that enable scrolling mousewheel to control volume on Youtube and Youtube Music
 - [qntm/t-a-i](https://github.com/qntm/t-a-i) - Converts Unix milliseconds to and from International Atomic Time (TAI) milliseconds
-- [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+- [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [aaronpk/live-chat-overlay](https://github.com/aaronpk/live-chat-overlay) - Restyle the YouTube "popout chat" window so you can key it over a video to show comments on a livestream
 - [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
@@ -1023,6 +1022,7 @@
 
 - [avi12/youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Like videos with Shift+Plus, dislike with Shift+Minus.
 - [vegeta897/word-peaks](https://github.com/vegeta897/word-peaks) - A word guessing game of highs and lows
+- [gitlimes/website](https://github.com/gitlimes/website) - My website!
 
 ## Swift 
 
