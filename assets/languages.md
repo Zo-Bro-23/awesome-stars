@@ -600,6 +600,7 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [yochrisbolton/terminal-adventure-framework](https://github.com/yochrisbolton/terminal-adventure-framework) - Choose-your-own-adventure terminal mini-framework
 - [yochrisbolton/chrisbolton.dev](https://github.com/yochrisbolton/chrisbolton.dev) - Personal landing page
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [discord/discord-open-source](https://github.com/discord/discord-open-source) - List of open source communities living on Discord
 - [behackl/manim-with-ease](https://github.com/behackl/manim-with-ease) - Tutorial series for the community maintained version of Manim, https://www.manim.community
 - [leoncvlt/imml](https://github.com/leoncvlt/imml) - ⚡ Create minimalist, blazing fast no-javascript websites from a single, portable plain text file
@@ -609,7 +610,7 @@
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [knightron0/tempus](https://github.com/knightron0/tempus) - chrome extension to 10x your youtube experience
-- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
+- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on (available in the Google Workspace Marketplace as Docs to Markdown) converts a Google Doc to simple Markdown and/or HTML.
 - [carykh/WordleEdit](https://github.com/carykh/WordleEdit) - Multiplayer game that plays a version of Wordle where players can edit their own words as they go. Runs as a Discord bot!
 - [Zo-Bro-23/writing-stats-web](https://github.com/Zo-Bro-23/writing-stats-web) - A website that shows you your various writing stats such as Word Count, Paragraph Density, etc
 - [Zo-Bro-23/youtube-live-chat-overlay](https://github.com/Zo-Bro-23/youtube-live-chat-overlay) - NOTE: NOT COMPLETED! Trying to build a website which helps you customize and add YouTube live chat to OBS and other streaming software! Also planning to add banner support for showing special comments
@@ -1186,7 +1187,6 @@
 - [anuraghazra/vscode-strip-ts-copy](https://github.com/anuraghazra/vscode-strip-ts-copy) - Strip types from TypeScript code while copying it.
 - [anuraghazra/convoychat](https://github.com/anuraghazra/convoychat) - Help us take over the world! React + TS + GraphQL Chat App
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [timovv/speed-interview-bot](https://github.com/timovv/speed-interview-bot) - 
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
