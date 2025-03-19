@@ -1095,7 +1095,7 @@
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
-- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
+- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on (available in the Google Workspace Marketplace as Docs to Markdown) converts a Google Doc to simple Markdown and/or HTML.
 - [prashantsengar/mTracker](https://github.com/prashantsengar/mTracker) - An email tracker built with Python and Flask
 
 ## html5 
@@ -1447,7 +1447,7 @@
 - [leoncvlt/imml](https://github.com/leoncvlt/imml) - ⚡ Create minimalist, blazing fast no-javascript websites from a single, portable plain text file
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
+- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on (available in the Google Workspace Marketplace as Docs to Markdown) converts a Google Doc to simple Markdown and/or HTML.
 - [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen) - 📔 API documentation generator CLI for https://hoppscotch.io
 - [tylerbwong/stack](https://github.com/tylerbwong/stack) - An Android app for browsing Stack Overflow and other Stack Exchange sites.
 
