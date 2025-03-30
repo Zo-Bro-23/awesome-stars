@@ -131,7 +131,6 @@
 - [x360ce/x360ce](https://github.com/x360ce/x360ce) - Primary repository for the x360ce library, front-end and tools.
 - [mjvh80/SymWin](https://github.com/mjvh80/SymWin) - Allows one to type special characters such as å or λ on Windows without the alt-key bullshit
 - [A-tG/VoicemeeterFancyOSD](https://github.com/A-tG/VoicemeeterFancyOSD) - On-screen display for Voicemeeter that works with fullscreen apps.
-- [BarRaider/streamdeck-voicemeeter](https://github.com/BarRaider/streamdeck-voicemeeter) - VoiceMeeter integration for Stream Deck
 
 ## C++ 
 
