@@ -143,7 +143,7 @@
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [ajeetdsouza/pifs](https://github.com/ajeetdsouza/pifs) - The compile-time, data-free filesystem.
-- [MinhasKamal/ProgrammerTransformation](https://github.com/MinhasKamal/ProgrammerTransformation) - The Insipid Journey of Homo Programmer (naive-novice-beginner-super-god-transformation-evolution-improvement-programmer-coder-software-engineer)
+- [MinhasKamal/ProgrammerTransformation](https://github.com/MinhasKamal/ProgrammerTransformation) - The Insipid Journey of Homo Programmer
 - [MinhasKamal/StupidKeylogger](https://github.com/MinhasKamal/StupidKeylogger) - A Terrific Keystroke Recorder
 - [MinhasKamal/TrojanCockroach](https://github.com/MinhasKamal/TrojanCockroach) - A Stealthy Trojan Spyware
 - [exeldro/obs-device-switcher](https://github.com/exeldro/obs-device-switcher) - 
