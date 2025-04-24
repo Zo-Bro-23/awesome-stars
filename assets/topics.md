@@ -175,6 +175,7 @@
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
@@ -2471,6 +2472,10 @@
 
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in GoLang.
+- [plibither8/bookbroker](https://github.com/plibither8/bookbroker) - 🤖📚 Telegram bot to convert and email PDFs, EPUBs or MOBIs to your Kindle
+
+## telegram-bot 
+
 - [plibither8/bookbroker](https://github.com/plibither8/bookbroker) - 🤖📚 Telegram bot to convert and email PDFs, EPUBs or MOBIs to your Kindle
 
 ## terminal 
