@@ -674,7 +674,7 @@
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 - [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
-- [Zyplos/discord-readme-badge](https://github.com/Zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
+- [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
 - [leonardssh/auto-discord-status](https://github.com/leonardssh/auto-discord-status) - ⛅ Automatized Discord Custom Status using openweathermap.org API
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [Naval-Base/yuudachi](https://github.com/Naval-Base/yuudachi) - Discord moderation bot
@@ -1979,7 +1979,7 @@
 - [joemccann/robintrack-api](https://github.com/joemccann/robintrack-api) - Unofficial node client for accessing the APIs called on Robintrack.net.
 - [joemccann/robinhood-api](https://github.com/joemccann/robinhood-api) - 📈 Unofficial node.js client for accessing the APIs called on Robinhood.com.
 - [skyhong2002/bird-sound-classification](https://github.com/skyhong2002/bird-sound-classification) - Bird sound classification using machine learning (SA19-226)
-- [Zyplos/proof-tool](https://github.com/Zyplos/proof-tool) - math! 💥 (URL available on campus or through the UIC VPN)
+- [zyplos/proof-tool](https://github.com/zyplos/proof-tool) - math! 💥 (URL available on campus or through the UIC VPN)
 - [abrasic/abratools](https://github.com/abrasic/abratools) - Free animation toolset for Blender 4.
 - [abrasic/iridescent](https://github.com/abrasic/iridescent) - Dark and modern blender theme for 3.0
 - [ethangodt/lit-pics](https://github.com/ethangodt/lit-pics) - 🐱 Simple SMS application to make sure my girlfriend and I are cleaning the damn litter box.
@@ -2000,7 +2000,7 @@
 - [KRTirtho/wallywiz](https://github.com/KRTirtho/wallywiz) - A Random Wallpaper shuffler application
 - [kittinan/thai-name-gender-classifier](https://github.com/kittinan/thai-name-gender-classifier) - Thai name gender classifier with Deep learning
 - [kittinan/trex-keras-cnn](https://github.com/kittinan/trex-keras-cnn) - Play T-Rex game with Keras using convolutional neural network
-- [Zyplos/lounge-hub](https://github.com/Zyplos/lounge-hub) - the lounge community site
+- [zyplos/lounge-hub](https://github.com/zyplos/lounge-hub) - the lounge community site
 - [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription/translation tool that generates text overlays using real-time ML.
 - [daily-co/daily-js](https://github.com/daily-co/daily-js) - 
 - [DXsmiley/boomo](https://github.com/DXsmiley/boomo) - An implementation of the card game Boomo
