@@ -534,7 +534,7 @@
 - [joemccann/robintrack-api](https://github.com/joemccann/robintrack-api) - Unofficial node client for accessing the APIs called on Robintrack.net.
 - [joemccann/robinhood-api](https://github.com/joemccann/robinhood-api) - 📈 Unofficial node.js client for accessing the APIs called on Robinhood.com.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
-- [Zyplos/proof-tool](https://github.com/Zyplos/proof-tool) - math! 💥 (URL available on campus or through the UIC VPN)
+- [zyplos/proof-tool](https://github.com/zyplos/proof-tool) - math! 💥 (URL available on campus or through the UIC VPN)
 - [jamesgeorge007/lets-chat](https://github.com/jamesgeorge007/lets-chat) - A chat app built with socket.io real time engine.
 - [jamesgeorge007/Youtube-Mate](https://github.com/jamesgeorge007/Youtube-Mate) - A Desktop application built on top of Electron-js which simplifies the task of converting youtube videos to mp3 files. :musical_note: :notes: :musical_keyboard: :musical_score::
 - [jamesgeorge007/spacex-launcher-stats](https://github.com/jamesgeorge007/spacex-launcher-stats) - React-Apollo GraphQL WebApp to display launch stats using SpaceX API.
@@ -552,8 +552,8 @@
 - [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
-- [Zyplos/lounge-hub](https://github.com/Zyplos/lounge-hub) - the lounge community site
-- [Zyplos/discord-readme-badge](https://github.com/Zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
+- [zyplos/lounge-hub](https://github.com/zyplos/lounge-hub) - the lounge community site
+- [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
 - [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription/translation tool that generates text overlays using real-time ML.
 - [daily-co/daily-js](https://github.com/daily-co/daily-js) - 
 - [DXsmiley/boomo](https://github.com/DXsmiley/boomo) - An implementation of the card game Boomo
