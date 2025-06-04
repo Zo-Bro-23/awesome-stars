@@ -296,6 +296,7 @@
 - [jsomers/hacker-classics](https://github.com/jsomers/hacker-classics) - Classic Hacker News stories
 - [Zo-Bro-23/3D-Printing](https://github.com/Zo-Bro-23/3D-Printing) - All my 3D Printing designs!
 - [Zo-Bro-23/zoauth-logo](https://github.com/Zo-Bro-23/zoauth-logo) - All the different logos... So many lol!!
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [prajwalsouza/Epidemic-Simulation](https://github.com/prajwalsouza/Epidemic-Simulation) - An interactive inspired by 3Blue1Brown's 'Simulating an Epidemic' video.
 - [RobinLinus/socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - A demo of cross-origin login detection for most major web platforms
@@ -517,7 +518,6 @@
 - [Platane/clapping-magic-card-trick](https://github.com/Platane/clapping-magic-card-trick) - ✨👏🃏 a stunning card trick submitted at the js1k 2017 challenge
 - [Platane/js13k-2017](https://github.com/Platane/js13k-2017) - 🖼️ Vernissage !
 - [Platane/Procedural-Flower](https://github.com/Platane/Procedural-Flower) - procedurally draw beautiful flowers
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [Technetium1/Userscripts](https://github.com/Technetium1/Userscripts) - 
 - [joemccann/stock-exchange-symbols](https://github.com/joemccann/stock-exchange-symbols) - 📈 Fetch and aggregate up to date lists of stocks on the NYSE, NASDAQ and AMEX.
@@ -636,7 +636,6 @@
 - [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [aaronpk/live-chat-overlay](https://github.com/aaronpk/live-chat-overlay) - Restyle the YouTube "popout chat" window so you can key it over a video to show comments on a livestream
-- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [steveseguin/electroncapture](https://github.com/steveseguin/electroncapture) - Playback video in a frameless electron app for screen-sharing and window capture
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Chat.Overlay.Ninja -- send your live chat to OBS or VMix as featured chat
@@ -1145,6 +1144,7 @@
 - [Platane/github-secret-dotenv](https://github.com/Platane/github-secret-dotenv) - 🗝 upload secrets to github from your .env file
 - [Platane/yAR-htzee](https://github.com/Platane/yAR-htzee) - 🎲🎲🥽 A pretty cool yahtzee game in augmented reality
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [JeffreyCA/lastfm-recently-played-readme](https://github.com/JeffreyCA/lastfm-recently-played-readme) - Display your recent Last.fm scrobbles on your GitHub profile README.
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 - [statsfm/web](https://github.com/statsfm/web) - stats.fm web repository
