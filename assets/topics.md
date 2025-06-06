@@ -754,7 +754,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [xanderfrangos/crushee](https://github.com/xanderfrangos/crushee) - Desktop tool for batch image optimization and resizing. Available for Windows and Mac. Built with Electron and Node.js.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [andycb/AdventurerClientJS](https://github.com/andycb/AdventurerClientJS) - An unofficial cross platform client for working with the Monoprice Voxel or Flashforge Adventurer 3
 
 ## elixir 
@@ -1384,7 +1384,7 @@
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [lennardv2/ehh](https://github.com/lennardv2/ehh) - Commandline tool for remembering linux/terminal commands
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## low-code 
@@ -1400,7 +1400,7 @@
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 
 ## machine-learning 
 
@@ -1516,7 +1516,7 @@
 - [wsmd/github-now-playing](https://github.com/wsmd/github-now-playing) - 🎵 Display what you're listening to right on your Github profile
 - [totallynotadi/mel](https://github.com/totallynotadi/mel) - a simple interactive command line tool written in python for playing music with sweet features
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 
 ## natural-language-processing 
 
@@ -1554,7 +1554,7 @@
 - [plibither8/github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - :octocat::bell: Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
 - [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 🙁 A CLI that tells you who recently unfollowed you on GitHub
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## nodejs 
@@ -2655,7 +2655,7 @@
 - [prashantsengar/ArrangePy](https://github.com/prashantsengar/ArrangePy) - Organizes files in folders and helps you to clean your PC
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## xamarin 
