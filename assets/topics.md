@@ -181,6 +181,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -205,6 +206,7 @@
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [rastmob/openai-grammar-correction](https://github.com/rastmob/openai-grammar-correction) - English grammar fixer with the help of OpenAI: just paste your text and copy the grammar-fixed sentence.
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
 ## algorithm 
@@ -1867,7 +1869,6 @@
 - [staltz/matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz) - 
 - [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy) - Easy script for running youtube-dl with basic options
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
-- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 - [samholmes/node-open-graph](https://github.com/samholmes/node-open-graph) - An Open Graph implementation for Node.js.
 - [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
@@ -2095,7 +2096,7 @@
 - [Zo-Bro-23/meme-bot](https://github.com/Zo-Bro-23/meme-bot) - A meme bot for Discord... Go to https://discord.com/developers, create a bot, and copy the id. Clone the repo, and add a file called cred.json in this format: {bot: 'yourUniqueId'}. Run index.js with 
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
-- [qntm/t-a-i](https://github.com/qntm/t-a-i) - Converts Unix milliseconds to and from International Atomic Time (TAI) milliseconds
+- [qntm/t-a-i](https://github.com/qntm/t-a-i) - Converts Unix time to and from International Atomic Time (TAI)
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece
 - [martinchrzan/FileExplorerGallery](https://github.com/martinchrzan/FileExplorerGallery) - Windows File Explorer Gallery
 - [martinchrzan/ColorPicker](https://github.com/martinchrzan/ColorPicker) - Windows system-wide color picker
@@ -2518,6 +2519,10 @@
 - [vegeta897/discord-syntax-test](https://github.com/vegeta897/discord-syntax-test) - Automated testing of all syntax highlighting languages for code blocks
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## text-to-speech 
+
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 
 ## trading 
 
