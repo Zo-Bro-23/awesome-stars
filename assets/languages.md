@@ -632,7 +632,7 @@
 - [Zo-Bro-23/meme-bot](https://github.com/Zo-Bro-23/meme-bot) - A meme bot for Discord... Go to https://discord.com/developers, create a bot, and copy the id. Clone the repo, and add a file called cred.json in this format: {bot: 'yourUniqueId'}. Run index.js with 
 - [Zo-Bro-23/c29](https://github.com/Zo-Bro-23/c29) - C29 - Configure your Logitech G29!
 - [Araxeus/Youtube-Volume-Scroll](https://github.com/Araxeus/Youtube-Volume-Scroll) - Browser Extension that enable scrolling mousewheel to control volume on Youtube and Youtube Music
-- [qntm/t-a-i](https://github.com/qntm/t-a-i) - Converts Unix milliseconds to and from International Atomic Time (TAI) milliseconds
+- [qntm/t-a-i](https://github.com/qntm/t-a-i) - Converts Unix time to and from International Atomic Time (TAI)
 - [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [aaronpk/live-chat-overlay](https://github.com/aaronpk/live-chat-overlay) - Restyle the YouTube "popout chat" window so you can key it over a video to show comments on a livestream
