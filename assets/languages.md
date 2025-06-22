@@ -533,7 +533,7 @@
 - [joemccann/robintrack-api](https://github.com/joemccann/robintrack-api) - Unofficial node client for accessing the APIs called on Robintrack.net.
 - [joemccann/robinhood-api](https://github.com/joemccann/robinhood-api) - 📈 Unofficial node.js client for accessing the APIs called on Robinhood.com.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
-- [zyplos/proof-tool](https://github.com/zyplos/proof-tool) - math! 💥 (URL available on campus or through the UIC VPN)
+- [zyplos/proof-tool](https://github.com/zyplos/proof-tool) - math! 💥
 - [jamesgeorge007/lets-chat](https://github.com/jamesgeorge007/lets-chat) - A chat app built with socket.io real time engine.
 - [jamesgeorge007/Youtube-Mate](https://github.com/jamesgeorge007/Youtube-Mate) - A Desktop application built on top of Electron-js which simplifies the task of converting youtube videos to mp3 files. :musical_note: :notes: :musical_keyboard: :musical_score::
 - [jamesgeorge007/spacex-launcher-stats](https://github.com/jamesgeorge007/spacex-launcher-stats) - React-Apollo GraphQL WebApp to display launch stats using SpaceX API.
