@@ -1982,7 +1982,7 @@
 - [joemccann/robintrack-api](https://github.com/joemccann/robintrack-api) - Unofficial node client for accessing the APIs called on Robintrack.net.
 - [joemccann/robinhood-api](https://github.com/joemccann/robinhood-api) - 📈 Unofficial node.js client for accessing the APIs called on Robinhood.com.
 - [skyhong2002/bird-sound-classification](https://github.com/skyhong2002/bird-sound-classification) - Bird sound classification using machine learning (SA19-226)
-- [zyplos/proof-tool](https://github.com/zyplos/proof-tool) - math! 💥 (URL available on campus or through the UIC VPN)
+- [zyplos/proof-tool](https://github.com/zyplos/proof-tool) - math! 💥
 - [abrasic/abratools](https://github.com/abrasic/abratools) - Free animation toolset for Blender 4.
 - [abrasic/iridescent](https://github.com/abrasic/iridescent) - Dark and modern blender theme for 3.0
 - [ethangodt/lit-pics](https://github.com/ethangodt/lit-pics) - 🐱 Simple SMS application to make sure my girlfriend and I are cleaning the damn litter box.
