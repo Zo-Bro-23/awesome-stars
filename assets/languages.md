@@ -187,7 +187,7 @@
 - [Alan-Zhao-908/mjolnir](https://github.com/Alan-Zhao-908/mjolnir) - 
 - [DiscordStyles/DarkMatter](https://github.com/DiscordStyles/DarkMatter) - A cold, dark & frosty theme.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
-- [Technetium1/BetterDiscordPlugins](https://github.com/Technetium1/BetterDiscordPlugins) - Plugins and themes for BandagedBetterDiscord
+- [Technetium1/BetterDiscordPlugins](https://github.com/Technetium1/BetterDiscordPlugins) - Plugins and themes for BetterDiscord
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community)
 - [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
