@@ -1967,7 +1967,7 @@
 - [Platane/Procedural-Flower](https://github.com/Platane/Procedural-Flower) - procedurally draw beautiful flowers
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [nastyox/Repo-Roster](https://github.com/nastyox/Repo-Roster) - Shout-out supporters in your GitHub README file.
-- [Technetium1/BetterDiscordPlugins](https://github.com/Technetium1/BetterDiscordPlugins) - Plugins and themes for BandagedBetterDiscord
+- [Technetium1/BetterDiscordPlugins](https://github.com/Technetium1/BetterDiscordPlugins) - Plugins and themes for BetterDiscord
 - [Technetium1/Userscripts](https://github.com/Technetium1/Userscripts) - 
 - [Technetium1/Technetium1](https://github.com/Technetium1/Technetium1) - 
 - [eagrundy/eagrundy](https://github.com/eagrundy/eagrundy) - 
