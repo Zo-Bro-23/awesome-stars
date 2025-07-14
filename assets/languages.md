@@ -551,7 +551,6 @@
 - [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
-- [zyplos/lounge-hub](https://github.com/zyplos/lounge-hub) - the lounge community site
 - [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
 - [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription/translation tool that generates text overlays using real-time ML.
 - [daily-co/daily-js](https://github.com/daily-co/daily-js) - 
@@ -1164,6 +1163,7 @@
 - [wsmd/github-profile-status](https://github.com/wsmd/github-profile-status) - :octocat: Update the status of your GitHub profile programmatically
 - [KRTirtho/schoolacious](https://github.com/KRTirtho/schoolacious) - A destination where all the reading sound📔 of small learners🧒 & day to day learning👩‍🏫 takes place bringing up all the thing a student👩‍🎓 used to do before Quarantine & Pandemic🦠
 - [uditkarode/wikari](https://github.com/uditkarode/wikari) - 💡 A NodeJS TS library to control Philips WiZ bulbs.
+- [zyplos/lounge-hub](https://github.com/zyplos/lounge-hub) - the lounge community site
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [iCrawl/kaori](https://github.com/iCrawl/kaori) - 🎻 Your friendly neighbourhood violinist bringing you the best booru images
 - [iCrawl/not-a-spy-game](https://github.com/iCrawl/not-a-spy-game) - A game not about spies.
