@@ -286,6 +286,7 @@
 - [Brenden2008/git.taxi](https://github.com/Brenden2008/git.taxi) - The git.taxi service is a link shortener like git.io powered by deta.sh.
 - [Platane/performance-clock](https://github.com/Platane/performance-clock) - 🕕 Detect performance lag in your app
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
+- [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription/translation tool that generates text overlays using real-time ML.
 - [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 - [plibither8/made-with-love-in](https://github.com/plibither8/made-with-love-in) - 🛠️ ❤️ 🗺️ 🛡️ — Mircoservice for serving and listing "Made with love in &lt;country-name&gt;" badges
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
@@ -552,7 +553,6 @@
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
 - [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
-- [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription/translation tool that generates text overlays using real-time ML.
 - [daily-co/daily-js](https://github.com/daily-co/daily-js) - 
 - [DXsmiley/boomo](https://github.com/DXsmiley/boomo) - An implementation of the card game Boomo
 - [DXsmiley/Whiteboard](https://github.com/DXsmiley/Whiteboard) - An online whiteboard
