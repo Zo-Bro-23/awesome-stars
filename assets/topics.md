@@ -1691,6 +1691,7 @@
 
 ## others 
 
+- [RyanBai07/MultiP5](https://github.com/RyanBai07/MultiP5) - The Final Project for Multi 2025
 - [thelevicole/youtube-to-html5-loader](https://github.com/thelevicole/youtube-to-html5-loader) - Load YouTube videos with the HTLML5 &lt;video&gt; element without needing iframes or the YouTube JS API.
 - [6004x/jade](https://github.com/6004x/jade) - JAvascript Design Environment
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
@@ -2073,7 +2074,7 @@
 - [Zo-Bro-23/adventurer-3-communication](https://github.com/Zo-Bro-23/adventurer-3-communication) - NOTE: NOT COMPLETED! Testing out a reverse-engineered API for the Adventurer 3! Also have plans to integrate with PushBullet to remotely access my printer.
 - [Zo-Bro-23/arduino](https://github.com/Zo-Bro-23/arduino) - All my arduino projects!
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
-- [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
+- [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
 - [git/git-reference](https://github.com/git/git-reference) - Online Git Reference at http://git.github.io/git-reference/
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
