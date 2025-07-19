@@ -255,7 +255,7 @@
 - [jamesgeorge007/hackalist-cli](https://github.com/jamesgeorge007/hackalist-cli) - Get to know about the upcoming hackathons without leaving your terminal.
 - [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in GoLang.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
+- [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [hoppscotch/hopp-cli](https://github.com/hoppscotch/hopp-cli) - 🤖 HTTP CLI client for https://hoppscotch.io
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -684,6 +684,7 @@
 
 ## Jupyter Notebook 
 
+- [RyanBai07/MultiP5](https://github.com/RyanBai07/MultiP5) - The Final Project for Multi 2025
 - [DaltonLens/daltonlens.org](https://github.com/DaltonLens/daltonlens.org) - DaltonLens public website
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [kittinan/thai-name-gender-classifier](https://github.com/kittinan/thai-name-gender-classifier) - Thai name gender classifier with Deep learning
