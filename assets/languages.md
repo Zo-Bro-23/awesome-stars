@@ -435,7 +435,6 @@
 - [wei/minifier](https://github.com/wei/minifier) - ⚡️ Offline-first web app for an HTML, JS, CSS minifier.
 - [snapcrunch/electron-preferences](https://github.com/snapcrunch/electron-preferences) - A simple, consistent interface for managing user preferences within an Electron application.
 - [Chernavskikh/pixel-avatars](https://github.com/Chernavskikh/pixel-avatars) - React pixel avatars generator https://chernavskikh.github.io/pixel-avatars/
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
 - [probot/unfurl](https://github.com/probot/unfurl) - a GitHub App built with Probot that unfurls links on Issues and Pull Request discussions
 - [probot/stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
@@ -1113,6 +1112,7 @@
 - [coffee-cup/gradient-avatars](https://github.com/coffee-cup/gradient-avatars) - Generate gradient profile images based on some text
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [jitterbit/get-changed-files](https://github.com/jitterbit/get-changed-files) - Get all of the files changed/modified in a pull request or push's commits.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [femioladeji/movie-app](https://github.com/femioladeji/movie-app) - A chrome extension developed with angular2 that consumes omdb api to make movie search, scheduling and streaming a lot more fun
