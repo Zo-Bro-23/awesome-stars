@@ -53,6 +53,7 @@
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [discord](#discord)
 - [django](#django)
@@ -646,6 +647,12 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
+
+## developer-tools 
+
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [Platane/performance-clock](https://github.com/Platane/performance-clock) - 🕕 Detect performance lag in your app
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## development 
 
@@ -1964,7 +1971,6 @@
 - [MrS0m30n3/twodict](https://github.com/MrS0m30n3/twodict) - Simple two way ordered dictionary for Python
 - [MrS0m30n3/google-translate](https://github.com/MrS0m30n3/google-translate) - Small library to translate text for free using Google translate.
 - [DiscordStyles/DarkMatter](https://github.com/DiscordStyles/DarkMatter) - A cold, dark & frosty theme.
-- [Platane/performance-clock](https://github.com/Platane/performance-clock) - 🕕 Detect performance lag in your app
 - [Platane/clapping-magic-card-trick](https://github.com/Platane/clapping-magic-card-trick) - ✨👏🃏 a stunning card trick submitted at the js1k 2017 challenge
 - [Platane/Procedural-Flower](https://github.com/Platane/Procedural-Flower) - procedurally draw beautiful flowers
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
