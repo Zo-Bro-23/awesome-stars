@@ -200,6 +200,7 @@
 - [windows](#windows)
 - [xamarin](#xamarin)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -2687,6 +2688,16 @@
 ## xml 
 
 - [iCrawl/kaori](https://github.com/iCrawl/kaori) - 🎻 Your friendly neighbourhood violinist bringing you the best booru images
+
+## zsh 
+
+- [Lissy93/minimal-terminal-prompt](https://github.com/Lissy93/minimal-terminal-prompt) - 📟 A clean PS1 bash prompt, showing user, host, pathname and git status
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [agarrharr/settings](https://github.com/agarrharr/settings) - 🖥 🛠 My macOS and GNU+Linux settings and dotfiles
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 
 
 ## License
