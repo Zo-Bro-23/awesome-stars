@@ -1127,7 +1127,7 @@
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [staltz/matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz) - 
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
-- [requestly/requestly](https://github.com/requestly/requestly) - Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [Korilakkuma/XSound](https://github.com/Korilakkuma/XSound) - XSound gives Web Developers Powerful Audio Features Easily !
