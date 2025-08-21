@@ -136,6 +136,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -1665,6 +1666,10 @@
 - [sindresorhus/Blear](https://github.com/sindresorhus/Blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## obsidian-md 
+
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
 ## open-source 
 
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
@@ -1755,7 +1760,6 @@
 - [coffee-cup/lastfm-top](https://github.com/coffee-cup/lastfm-top) - See your top albums on last.fm
 - [coffee-cup/lastfm-leaderboards](https://github.com/coffee-cup/lastfm-leaderboards) - Music leaderboards powered by last.fm
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [kdzwinel/Proofreader](https://github.com/kdzwinel/Proofreader) - Simple text proofreader based on 'write-good' (hemingway-app-like suggestions) and 'nodehun' (spelling).
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
