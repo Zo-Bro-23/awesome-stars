@@ -147,7 +147,6 @@
 - [MinhasKamal/StupidKeylogger](https://github.com/MinhasKamal/StupidKeylogger) - A Terrific Keystroke Recorder
 - [MinhasKamal/TrojanCockroach](https://github.com/MinhasKamal/TrojanCockroach) - A Stealthy Trojan Spyware
 - [exeldro/obs-device-switcher](https://github.com/exeldro/obs-device-switcher) - 
-- [exeldro/obs-source-copy](https://github.com/exeldro/obs-source-copy) - 
 - [exeldro/obs-scene-collection-manager](https://github.com/exeldro/obs-scene-collection-manager) - 
 - [exeldro/obs-source-dock](https://github.com/exeldro/obs-source-dock) - 
 - [exeldro/obs-media-controls](https://github.com/exeldro/obs-media-controls) - 
@@ -171,6 +170,7 @@
 - [exeldro/obs-dir-watch-media](https://github.com/exeldro/obs-dir-watch-media) - 
 - [exeldro/obs-recursion-effect](https://github.com/exeldro/obs-recursion-effect) - Plugin for OBS Studio to add recursion effect to a source using a filter
 - [exeldro/obs-dynamic-delay](https://github.com/exeldro/obs-dynamic-delay) - 
+- [exeldro/obs-source-copy](https://github.com/exeldro/obs-source-copy) - 
 - [exeldro/obs-freeze-filter](https://github.com/exeldro/obs-freeze-filter) - Plugin for OBS Studio to freeze a source using a filter
 
 ## CSS 
