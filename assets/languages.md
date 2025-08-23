@@ -592,7 +592,7 @@
 - [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 - [anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js) - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:
 - [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [anuraghazra/CanvasFun](https://github.com/anuraghazra/CanvasFun) - :heart: Creative Coding Projects
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [yochrisbolton/terminal-adventure-framework](https://github.com/yochrisbolton/terminal-adventure-framework) - Choose-your-own-adventure terminal mini-framework
