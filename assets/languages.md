@@ -801,7 +801,7 @@
 
 ## PHP 
 
-- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Testing some stuff
+- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Personal music charts
 - [Dinduks/Lastfm-Top-Albums](https://github.com/Dinduks/Lastfm-Top-Albums) - This script generates a banner with the covers of your top albums, based on your Last.fm statistics.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [stefanzweifel/laravel-sends](https://github.com/stefanzweifel/laravel-sends) - A package to keep track of outgoing emails in your Laravel application.
