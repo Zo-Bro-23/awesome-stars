@@ -1546,7 +1546,6 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
-- [statsfm/web](https://github.com/statsfm/web) - stats.fm web repository
 - [KRTirtho/schoolacious](https://github.com/KRTirtho/schoolacious) - A destination where all the reading sound📔 of small learners🧒 & day to day learning👩‍🏫 takes place bringing up all the thing a student👩‍🎓 used to do before Quarantine & Pandemic🦠
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
@@ -1713,7 +1712,7 @@
 - [kevinthegreat1/gotcha](https://github.com/kevinthegreat1/gotcha) - Gotcha web app
 - [siddharthroy12/TouchTyper](https://github.com/siddharthroy12/TouchTyper) - A minimalistic typing test software inspired by monkeytype built using C++ for both desktop and browser.
 - [DaltonLens/daltonlens.org](https://github.com/DaltonLens/daltonlens.org) - DaltonLens public website
-- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [stratumauth/icons](https://github.com/stratumauth/icons) - 🖼️ Icon packs for Stratum
 - [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel) - Keep an eye on ▲ Vercel deployments without ever leaving Visual Studio Code.
 - [Zo-Bro-23/discord-status-notification](https://github.com/Zo-Bro-23/discord-status-notification) - Get Discord notifications for when your friends are online!
@@ -2325,7 +2324,6 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [zhravan/github-readme-quotes](https://github.com/zhravan/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [skolakoda/programming-quotes](https://github.com/skolakoda/programming-quotes) - Programming Quotes, an open source app and database.
-- [statsfm/web](https://github.com/statsfm/web) - stats.fm web repository
 - [jamesgeorge007/spacex-launcher-stats](https://github.com/jamesgeorge007/spacex-launcher-stats) - React-Apollo GraphQL WebApp to display launch stats using SpaceX API.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
@@ -2494,7 +2492,6 @@
 ## tailwindcss 
 
 - [sawyerpollard/Crossy](https://github.com/sawyerpollard/Crossy) - A Modern Embeddable Crossword Client
-- [statsfm/web](https://github.com/statsfm/web) - stats.fm web repository
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [theabhayprajapati/twitter-m-2](https://github.com/theabhayprajapati/twitter-m-2) - A simple twitter Clone build on next.js and tailwindcss
 
