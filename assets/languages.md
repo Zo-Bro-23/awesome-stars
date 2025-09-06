@@ -272,7 +272,6 @@
 - [pcottle/FriendMapper](https://github.com/pcottle/FriendMapper) - Map your friends geographically
 - [pcottle/MSWorddit](https://github.com/pcottle/MSWorddit) - Reskin Reddit into Microsoft Word
 - [califyn/andover-housing](https://github.com/califyn/andover-housing) - A report on housing at Phillips Academy. || Made by the Bias Group @ The Workshop 2022
-- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
@@ -1122,6 +1121,7 @@
 - [tomondre/portfolio-angular](https://github.com/tomondre/portfolio-angular) - Portfolio webpage converted from static HTML to Angular for easier webpage development and management.
 - [digitalheir/lastfm-to-librefm-exporter](https://github.com/digitalheir/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
