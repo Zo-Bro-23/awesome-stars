@@ -79,6 +79,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -874,6 +875,10 @@
 
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [DXsmiley/fireform](https://github.com/DXsmiley/fireform) - An entity-driven game framework for python.
+
+## gaming 
+
+- [Zo-Bro-23/c29](https://github.com/Zo-Bro-23/c29) - C29 - Configure your Logitech G29!
 
 ## git 
 
