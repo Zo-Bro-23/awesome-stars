@@ -1493,7 +1493,7 @@
 ## minecraft 
 
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
-- [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in GoLang.
+- [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in Golang.
 - [Tikolu/WorldExporter](https://github.com/Tikolu/WorldExporter) - Minecraft Pocket Edition World Exporter
 - [sawyerpollard/MineWeather](https://github.com/sawyerpollard/MineWeather) - Chrome Extension that displays a Minecraft scene on New Tabs depending on local weather conditions.
 - [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
@@ -2503,7 +2503,7 @@
 ## telegram 
 
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
-- [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in GoLang.
+- [uditkarode/Minegram](https://github.com/uditkarode/Minegram) - 🌉 A Minecraft-Telegram bridge written in Golang.
 - [plibither8/bookbroker](https://github.com/plibither8/bookbroker) - 🤖📚 Telegram bot to convert and email PDFs, EPUBs or MOBIs to your Kindle
 
 ## telegram-bot 
