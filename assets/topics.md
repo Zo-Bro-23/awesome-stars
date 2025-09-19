@@ -137,6 +137,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -1670,6 +1671,10 @@
 - [sindresorhus/Blear](https://github.com/sindresorhus/Blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## obsidian 
+
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
 ## obsidian-md 
 
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
@@ -1820,7 +1825,7 @@
 - [emerleite/node-gravatar](https://github.com/emerleite/node-gravatar) - Node.JS library to generate gravatar URLs
 - [wei/discord-actions-bot](https://github.com/wei/discord-actions-bot) - 🤖 A Discord Bot that helps with Action Items.
 - [wei/minifier](https://github.com/wei/minifier) - ⚡️ Offline-first web app for an HTML, JS, CSS minifier.
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [snapcrunch/electron-preferences](https://github.com/snapcrunch/electron-preferences) - A simple, consistent interface for managing user preferences within an Electron application.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
