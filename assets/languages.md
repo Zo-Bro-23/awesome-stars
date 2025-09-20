@@ -127,7 +127,7 @@
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [martinchrzan/FileExplorerGallery](https://github.com/martinchrzan/FileExplorerGallery) - Windows File Explorer Gallery
 - [martinchrzan/ColorPicker](https://github.com/martinchrzan/ColorPicker) - Windows system-wide color picker
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [x360ce/x360ce](https://github.com/x360ce/x360ce) - Primary repository for the x360ce library, front-end and tools.
 - [mjvh80/SymWin](https://github.com/mjvh80/SymWin) - Allows one to type special characters such as å or λ on Windows without the alt-key bullshit
 - [A-tG/VoicemeeterFancyOSD](https://github.com/A-tG/VoicemeeterFancyOSD) - On-screen display for Voicemeeter that works with fullscreen apps.
@@ -266,7 +266,7 @@
 - [timleland/WeatherCE](https://github.com/timleland/WeatherCE) - Weather Browser Extension
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [jlord/essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [femioladeji/celebrity-game](https://github.com/femioladeji/celebrity-game) - A simple game that tests how much you recognize your favourite celebrities
 - [pcottle/FriendMapper](https://github.com/pcottle/FriendMapper) - Map your friends geographically
