@@ -31,6 +31,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [code-quality](#code-quality)
 - [coding](#coding)
 - [compiler](#compiler)
@@ -519,6 +520,10 @@
 - [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen) - 📔 API documentation generator CLI for https://hoppscotch.io
 - [theabhayprajapati/timeis](https://github.com/theabhayprajapati/timeis) - Help's to see the UTC time right in your terminal, without any hassle
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+
+## cloud 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## code-quality 
 
