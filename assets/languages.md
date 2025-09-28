@@ -800,7 +800,6 @@
 
 ## PHP 
 
-- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Personal music charts
 - [Dinduks/Lastfm-Top-Albums](https://github.com/Dinduks/Lastfm-Top-Albums) - This script generates a banner with the covers of your top albums, based on your Last.fm statistics.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [stefanzweifel/laravel-sends](https://github.com/stefanzweifel/laravel-sends) - A package to keep track of outgoing emails in your Laravel application.
@@ -1050,6 +1049,7 @@
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
+- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Personal music charts
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [felhag/spotify-stats-web](https://github.com/felhag/spotify-stats-web) - Mirror of lastfm-stats-web since gh-pages cant deploy branches sites yet.
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
