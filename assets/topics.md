@@ -207,6 +207,7 @@
 - [windows](#windows)
 - [xamarin](#xamarin)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -775,7 +776,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [xanderfrangos/crushee](https://github.com/xanderfrangos/crushee) - Desktop tool for batch image optimization and resizing. Available for Windows and Mac. Built with Electron and Node.js.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [andycb/AdventurerClientJS](https://github.com/andycb/AdventurerClientJS) - An unofficial cross platform client for working with the Monoprice Voxel or Flashforge Adventurer 3
 
 ## elixir 
@@ -1101,7 +1102,6 @@
 - [ManimCommunity/manim-website](https://github.com/ManimCommunity/manim-website) - Manim landing page.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -1408,7 +1408,7 @@
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [lennardv2/ehh](https://github.com/lennardv2/ehh) - Commandline tool for remembering linux/terminal commands
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## low-code 
@@ -1424,7 +1424,7 @@
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 
 ## machine-learning 
 
@@ -1541,7 +1541,7 @@
 - [wsmd/github-now-playing](https://github.com/wsmd/github-now-playing) - 🎵 Display what you're listening to right on your Github profile
 - [totallynotadi/mel](https://github.com/totallynotadi/mel) - a simple interactive command line tool written in python for playing music with sweet features
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 
 ## natural-language-processing 
 
@@ -1578,7 +1578,7 @@
 - [plibither8/github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - :octocat::bell: Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
 - [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 🙁 A CLI that tells you who recently unfollowed you on GitHub
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## nodejs 
@@ -1720,7 +1720,6 @@
 ## others 
 
 - [RyanBai07/MultiP5](https://github.com/RyanBai07/MultiP5) - The Final Project for Multi 2025
-- [thelevicole/youtube-to-html5-loader](https://github.com/thelevicole/youtube-to-html5-loader) - Load YouTube videos with the HTLML5 &lt;video&gt; element without needing iframes or the YouTube JS API.
 - [6004x/jade](https://github.com/6004x/jade) - JAvascript Design Environment
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [luisignaciocc/youtube-music-scrobbler](https://github.com/luisignaciocc/youtube-music-scrobbler) - a python script to scrobble your YouTube Music history to Last.fm
@@ -1797,7 +1796,6 @@
 - [timleland/url-shorteners](https://github.com/timleland/url-shorteners) - List of URL Shorteners
 - [avi12/youtube-subscriptions-sort](https://github.com/avi12/youtube-subscriptions-sort) - A browser extension for opening YouTube videos in ascending watch time order
 - [avi12/steam-id-finder](https://github.com/avi12/steam-id-finder) - A browser extension that calculates the IDs of given Steam users.
-- [avi12/youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Like videos with Shift+Plus, dislike with Shift+Minus.
 - [avi12/youtube-downloader](https://github.com/avi12/youtube-downloader) - A browser extension for simplifying downloading YouTube videos.
 - [avi12/youtube-auto-hd](https://github.com/avi12/youtube-auto-hd) - A simple browser extension for changing YouTube videos' quality based on FPS.
 - [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen
@@ -1873,7 +1871,6 @@
 - [GNOME/gnome-sudoku](https://github.com/GNOME/gnome-sudoku) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-sudoku
 - [GNOME/gnome-mines](https://github.com/GNOME/gnome-mines) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-mines
 - [krateng/doreah](https://github.com/krateng/doreah) - Personal package of helpful utilities
-- [krateng/surselva](https://github.com/krateng/surselva) - Self-hosted website for youtube video downloads
 - [lastfm/lastfm-android](https://github.com/lastfm/lastfm-android) - The official Last.fm Android application suite
 - [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
 - [mattl/librefm](https://github.com/mattl/librefm) - 
@@ -1898,7 +1895,6 @@
 - [2016rshah/Tic-Hack-Toe](https://github.com/2016rshah/Tic-Hack-Toe) - :x: :o: TicTacToe in Haskell.
 - [staltz/matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz) - 
 - [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy) - Easy script for running youtube-dl with basic options
-- [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [samholmes/node-open-graph](https://github.com/samholmes/node-open-graph) - An Open Graph implementation for Node.js.
 - [browserify/watchify](https://github.com/browserify/watchify) - watch mode for browserify builds
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) - 
@@ -2135,7 +2131,6 @@
 - [steveseguin/discordbot](https://github.com/steveseguin/discordbot) - The Discord bot for VDO.Ninja
 - [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
-- [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Chat.Overlay.Ninja -- send your live chat to OBS or VMix as featured chat
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [sharadcodes/jekyll-theme-retro-yellow](https://github.com/sharadcodes/jekyll-theme-retro-yellow) - A super simple and Light theme for Jekyll with minimal CSS by Sharad Raj Singh Maurya
@@ -2710,7 +2705,7 @@
 - [prashantsengar/ArrangePy](https://github.com/prashantsengar/ArrangePy) - Organizes files in folders and helps you to clean your PC
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## xamarin 
@@ -2720,6 +2715,37 @@
 ## xml 
 
 - [iCrawl/kaori](https://github.com/iCrawl/kaori) - 🎻 Your friendly neighbourhood violinist bringing you the best booru images
+
+## youtube 
+
+- [thelevicole/youtube-to-html5-loader](https://github.com/thelevicole/youtube-to-html5-loader) - Load YouTube videos with the HTLML5 &lt;video&gt; element without needing iframes or the YouTube JS API.
+- [Zo-Bro-23/youtube-music-api](https://github.com/Zo-Bro-23/youtube-music-api) - 🖥️ API for @th-ch/youtube-music
+- [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player.
+- [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
+- [drodil/video_auto_pause](https://github.com/drodil/video_auto_pause) - Chrome extension to automatically pause/continue video on tab focus changes
+- [avi12/youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Like videos with Shift+Plus, dislike with Shift+Minus.
+- [avi12/youtube-speed-control](https://github.com/avi12/youtube-speed-control) - A browser extension for changing the speed of videos on YouTube, as well as embedded YouTube videos.
+- [web-scrobbler/metadata-filter](https://github.com/web-scrobbler/metadata-filter) - A module for cleaning up artist, album, and song names
+- [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
+- [krateng/surselva](https://github.com/krateng/surselva) - Self-hosted website for youtube video downloads
+- [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
+- [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
+- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
+- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
+- [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
+- [AnsonH/youtube-playlist-export](https://github.com/AnsonH/youtube-playlist-export) - Node.js command line app for exporting video data from a YouTube playlist to a JSON/CSV file.
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
+- [knightron0/tempus](https://github.com/knightron0/tempus) - chrome extension to 10x your youtube experience
+- [sonigy/YCS](https://github.com/sonigy/YCS) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
+- [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
+- [Araxeus/Youtube-Volume-Scroll](https://github.com/Araxeus/Youtube-Volume-Scroll) - Browser Extension that enable scrolling mousewheel to control volume on Youtube and Youtube Music
+- [aaronpk/live-chat-overlay](https://github.com/aaronpk/live-chat-overlay) - Restyle the YouTube "popout chat" window so you can key it over a video to show comments on a livestream
+- [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Chat.Overlay.Ninja -- send your live chat to OBS or VMix as featured chat
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 
 ## zsh 
 
