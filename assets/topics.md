@@ -1529,7 +1529,7 @@
 - [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [web-scrobbler/metadata-filter](https://github.com/web-scrobbler/metadata-filter) - A module for cleaning up artist, album, and song names
-- [digitalheir/lastfm-to-librefm-exporter](https://github.com/digitalheir/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
+- [cacfd3a/lastfm-to-librefm-exporter](https://github.com/cacfd3a/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [krateng/albula](https://github.com/krateng/albula) - Minimalist self-hosted music server
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
@@ -2218,7 +2218,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [digitalheir/lastfm-to-librefm-exporter](https://github.com/digitalheir/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
+- [cacfd3a/lastfm-to-librefm-exporter](https://github.com/cacfd3a/lastfm-to-librefm-exporter) - 🎶 Easily export your tracks from Last.fm and import them to Libre.fm or Scrobble.fm
 
 ## productivity 
 
