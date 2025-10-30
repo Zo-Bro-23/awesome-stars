@@ -767,6 +767,7 @@
 - [texttools/texttools.github.io](https://github.com/texttools/texttools.github.io) - TextTools.org: Free Text Formatting & Text Manipulation Tools
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
+- [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
@@ -1026,7 +1027,6 @@
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
 - [nzufelt/salutations_generator_assignment](https://github.com/nzufelt/salutations_generator_assignment) - A quiz or lab to challenge a student's ability to refactor for both efficacy and inclusivity.
 - [mxcl/Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
-- [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [dkhamsing/fastmdb](https://github.com/dkhamsing/fastmdb) - :mag: Fast iOS app to browse and search movies, tv, actors, credits
 - [dkhamsing/news](https://github.com/dkhamsing/news) - 📰 iOS news app in the style of Apple News, CNN, BBC, Facebook, NYT, Reddit, X (Twitter) & more
