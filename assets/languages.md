@@ -1042,6 +1042,7 @@
 
 ## TypeScript 
 
+- [SamuelPinho/gitgraph-creator](https://github.com/SamuelPinho/gitgraph-creator) - 
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [luisignaciocc/ytmusic-scrobbler-web](https://github.com/luisignaciocc/ytmusic-scrobbler-web) - a Last.fm scrobbler from your YouTube Music history. a monorepo with a web app and background workers
 - [kevinthegreat1/gotcha](https://github.com/kevinthegreat1/gotcha) - Gotcha web app
