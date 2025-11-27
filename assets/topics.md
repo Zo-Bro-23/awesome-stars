@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -34,6 +35,7 @@
 - [cloud](#cloud)
 - [code-quality](#code-quality)
 - [coding](#coding)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -225,6 +227,12 @@
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+## algorithms 
+
+- [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [sagemath/sage-archive-2023-02-01](https://github.com/sagemath/sage-archive-2023-02-01) - This repository used to be the user-facing mirror of the Sage source tree. As Sage development migrated on 2023-02-01 from https://trac.sagemath.org/ to our new repository on GitHub, https://github.co
 
 ## analytics 
 
@@ -536,6 +544,20 @@
 ## coding 
 
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+
+## command-line 
+
+- [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
+- [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for interacting with command-line interfaces
+- [jamesgeorge007/jamesgeorge-cli](https://github.com/jamesgeorge007/jamesgeorge-cli) - The James George CLI
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [msaaddev/git-commands-workflows](https://github.com/msaaddev/git-commands-workflows) - 🚀 All the git commands and workflows you need to know
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
 ## compiler 
 
