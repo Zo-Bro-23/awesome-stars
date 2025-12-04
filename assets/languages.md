@@ -1056,7 +1056,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed Discord data package explorer designed to help users visualize the data Discord collects.
 - [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 image generator
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [wojtekmaj/make-cancellable-promise](https://github.com/wojtekmaj/make-cancellable-promise) - Make any Promise cancellable.
