@@ -725,7 +725,7 @@
 - [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
 - [narcisbugeag/auto-discord-status](https://github.com/narcisbugeag/auto-discord-status) - ⛅ Automatized Discord Custom Status using openweathermap.org API
 - [narcisbugeag/vscord](https://github.com/narcisbugeag/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
-- [Naval-Base/yuudachi](https://github.com/Naval-Base/yuudachi) - Discord moderation bot
+- [iCrawl/yuudachi](https://github.com/iCrawl/yuudachi) - Discord moderation bot
 - [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 - [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
 - [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
