@@ -438,16 +438,16 @@
 ## chatbot 
 
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt 
 
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt-api 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chrome 
 
@@ -1384,7 +1384,7 @@
 
 - [wojtekmaj/get-user-locale](https://github.com/wojtekmaj/get-user-locale) - A function that returns user's locale as an IETF language tag, based on all available sources.
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## laravel 
@@ -1859,7 +1859,7 @@
 - [emerleite/node-gravatar](https://github.com/emerleite/node-gravatar) - Node.JS library to generate gravatar URLs
 - [wei/discord-actions-bot](https://github.com/wei/discord-actions-bot) - 🤖 A Discord Bot that helps with Action Items.
 - [wei/minifier](https://github.com/wei/minifier) - ⚡️ Offline-first web app for an HTML, JS, CSS minifier.
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [snapcrunch/electron-preferences](https://github.com/snapcrunch/electron-preferences) - A simple, consistent interface for managing user preferences within an Electron application.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
