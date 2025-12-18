@@ -192,6 +192,7 @@
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -2534,7 +2535,7 @@
 
 ## tailwind 
 
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 
 ## tailwindcss 
@@ -2586,6 +2587,12 @@
 ## trading 
 
 - [joemccann/robintrack-api-utilities](https://github.com/joemccann/robintrack-api-utilities) - 🧰 A collection of utilities for building datasets and interacting with the Robintrack API.
+
+## tui 
+
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
+- [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
 
 ## twitter 
 
@@ -2648,7 +2655,7 @@
 
 - [TheTeaCat/lastfm-tag-cloud](https://github.com/TheTeaCat/lastfm-tag-cloud) - A last.fm tag cloud generator, built with Vue!
 - [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding) - 🌀 Quickly preview and select the branding icon used by github action.
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
 - [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries) - 🌎 Just a quick app, for learning the countries, their capital cities, flags and other info
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2750,7 +2757,7 @@
 
 - [thelevicole/youtube-to-html5-loader](https://github.com/thelevicole/youtube-to-html5-loader) - Load YouTube videos with the HTLML5 &lt;video&gt; element without needing iframes or the YouTube JS API.
 - [Zo-Bro-23/youtube-music-api](https://github.com/Zo-Bro-23/youtube-music-api) - 🖥️ API for @th-ch/youtube-music
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [ris58h/youtube-chapters-in-player](https://github.com/ris58h/youtube-chapters-in-player) - Web extension that shows YouTube chapters right in the player.
 - [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps) - Web extension that shows timestamps from YouTube comments on timeline.
 - [drodil/video_auto_pause](https://github.com/drodil/video_auto_pause) - Chrome extension to automatically pause/continue video on tab focus changes
