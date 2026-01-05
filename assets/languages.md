@@ -971,6 +971,7 @@
 
 ## Rust 
 
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [ajeetdsouza/loxcraft](https://github.com/ajeetdsouza/loxcraft) - Language tooling for the Lox programming language.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Araxeus/ls-interactive](https://github.com/Araxeus/ls-interactive) - Interactive ls command
@@ -1231,7 +1232,6 @@
 - [TheTeaCat/lastfm-tag-cloud](https://github.com/TheTeaCat/lastfm-tag-cloud) - A last.fm tag cloud generator, built with Vue!
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding) - 🌀 Quickly preview and select the branding icon used by github action.
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - 🎧 A simple SoundCloud client built with Vue and Nuxt
 - [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries) - 🌎 Just a quick app, for learning the countries, their capital cities, flags and other info
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
