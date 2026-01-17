@@ -332,7 +332,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [zhravan/LearningResources](https://github.com/zhravan/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
@@ -364,7 +364,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [zhravan/LearningResources](https://github.com/zhravan/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
@@ -828,7 +828,6 @@
 ## eslint 
 
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
-- [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 
 ## express 
 
@@ -954,7 +953,7 @@
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [Zo-Bro-23/Zo-Bro-23](https://github.com/Zo-Bro-23/Zo-Bro-23) - My profile repo!
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
@@ -1271,7 +1270,6 @@
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [aarush-narang/games](https://github.com/aarush-narang/games) - includes tictactoe, hangman, rock paper scissors, and guessing games
 - [aarush-narang/wordle](https://github.com/aarush-narang/wordle) - 
-- [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 - [aarush-narang/URL-Shortener](https://github.com/aarush-narang/URL-Shortener) - 
 - [aarush-narang/typing-test-app](https://github.com/aarush-narang/typing-test-app) - 
 - [skolakoda/programming-quotes](https://github.com/skolakoda/programming-quotes) - Programming Quotes, an open source app and database.
@@ -1587,7 +1585,6 @@
 ## nextjs 
 
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [aarush-narang/rivian-summer-project](https://github.com/aarush-narang/rivian-summer-project) - parallax animation with rivian truck
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [KRTirtho/schoolacious](https://github.com/KRTirtho/schoolacious) - A destination where all the reading sound📔 of small learners🧒 & day to day learning👩‍🏫 takes place bringing up all the thing a student👩‍🎓 used to do before Quarantine & Pandemic🦠
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -2011,7 +2008,7 @@
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [ChristopherChudzicki/math3d-react](https://github.com/ChristopherChudzicki/math3d-react) - A user-friendly 3d graphing calculator for the web. Create, share, and animate 3d mathematical scenes.
 - [PiyushSuthar/clpy](https://github.com/PiyushSuthar/clpy) - Save image from your clipboard 📋 as an image file directly from your command line! 🔥
-- [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
+- [saturn-abhishek/todoist-readme](https://github.com/saturn-abhishek/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [Brenden2008/git.taxi](https://github.com/Brenden2008/git.taxi) - The git.taxi service is a link shortener like git.io powered by deta.sh.
 - [MrS0m30n3/movies-for-hackers](https://github.com/MrS0m30n3/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [MrS0m30n3/twodict](https://github.com/MrS0m30n3/twodict) - Simple two way ordered dictionary for Python
