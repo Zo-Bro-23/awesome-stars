@@ -720,7 +720,7 @@
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-- [abrasic/blendpresence](https://github.com/abrasic/blendpresence) - Discord RPC support for Blender 3.0
+- [abrasic/blendpresence](https://github.com/abrasic/blendpresence) - Discord Rich Presence for Blender
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 - [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
