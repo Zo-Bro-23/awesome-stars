@@ -267,6 +267,7 @@
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [jlord/essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
 - [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [femioladeji/celebrity-game](https://github.com/femioladeji/celebrity-game) - A simple game that tests how much you recognize your favourite celebrities
 - [pcottle/FriendMapper](https://github.com/pcottle/FriendMapper) - Map your friends geographically
 - [pcottle/MSWorddit](https://github.com/pcottle/MSWorddit) - Reskin Reddit into Microsoft Word
@@ -707,7 +708,6 @@
 ## MDX 
 
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation - https://docs.hoppscotch.io
 
 ## Markdown 
@@ -892,7 +892,7 @@
 - [Technetium1/VSCodeExtensionInstaller](https://github.com/Technetium1/VSCodeExtensionInstaller) - Batch install Visual Studio Code extensions
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [abrasic/abratools](https://github.com/abrasic/abratools) - Free animation toolset for Blender 4.
-- [abrasic/blendpresence](https://github.com/abrasic/blendpresence) - Discord RPC support for Blender 3.0
+- [abrasic/blendpresence](https://github.com/abrasic/blendpresence) - Discord Rich Presence for Blender
 - [jamesgeorge007/GitHub-Mate](https://github.com/jamesgeorge007/GitHub-Mate) - This is the web implementation of github-mate Desktop app using the Flask web application framework with extended capabilities.
 - [jamesgeorge007/Catch-It](https://github.com/jamesgeorge007/Catch-It) - The traditional Egg Catching game clone with a much better user experience. :video_game:
 - [jamesgeorge007/Maze-Runner](https://github.com/jamesgeorge007/Maze-Runner) - The Maze Runner game inspired by Chrome T-Rex. :video_game:
