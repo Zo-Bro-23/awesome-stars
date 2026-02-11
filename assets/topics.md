@@ -419,8 +419,8 @@
 - [vegeta897/discord-syntax-test](https://github.com/vegeta897/discord-syntax-test) - Automated testing of all syntax highlighting languages for code blocks
 - [vegeta897/weekly-notices](https://github.com/vegeta897/weekly-notices) - A simple Discord notification bot designed for weekly schedules
 - [vegeta897/d-bot](https://github.com/vegeta897/d-bot) - A quirky Discord bot made for single, small, private servers
-- [DXsmiley/LatexBot](https://github.com/DXsmiley/LatexBot) - Discord bot that renders LaTeX equations.
-- [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
+- [dxsmiley/LatexBot](https://github.com/dxsmiley/LatexBot) - Discord bot that renders LaTeX equations.
+- [dxsmiley/mathbot](https://github.com/dxsmiley/mathbot) - Discord bot for mathematics
 - [ManimCommunity/DiscordManimator](https://github.com/ManimCommunity/DiscordManimator) - A Manim Rendering Bot for Discord. Requires a Functioning Manim install.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
@@ -729,7 +729,7 @@
 - [narcisbugeag/vscord](https://github.com/narcisbugeag/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [iCrawl/yuudachi](https://github.com/iCrawl/yuudachi) - Discord moderation bot
 - [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
-- [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
+- [dxsmiley/mathbot](https://github.com/dxsmiley/mathbot) - Discord bot for mathematics
 - [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [ManimCommunity/DiscordManimator](https://github.com/ManimCommunity/DiscordManimator) - A Manim Rendering Bot for Discord. Requires a Functioning Manim install.
@@ -909,7 +909,7 @@
 ## game-engine 
 
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
-- [DXsmiley/fireform](https://github.com/DXsmiley/fireform) - An entity-driven game framework for python.
+- [dxsmiley/fireform](https://github.com/dxsmiley/fireform) - An entity-driven game framework for python.
 
 ## gaming 
 
@@ -1398,8 +1398,8 @@
 - [jstrieb/homework-template](https://github.com/jstrieb/homework-template) - Typeset assignments and problem sets using LaTeX; typographically optimized for online submission
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
-- [DXsmiley/LatexBot](https://github.com/DXsmiley/LatexBot) - Discord bot that renders LaTeX equations.
-- [DXsmiley/rtex](https://github.com/DXsmiley/rtex) - Minimal LaTeX rendering server
+- [dxsmiley/LatexBot](https://github.com/dxsmiley/LatexBot) - Discord bot that renders LaTeX equations.
+- [dxsmiley/rtex](https://github.com/dxsmiley/rtex) - Minimal LaTeX rendering server
 - [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
 - [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -2070,10 +2070,10 @@
 - [zyplos/lounge-hub](https://github.com/zyplos/lounge-hub) - the lounge community site
 - [steveseguin/captionninja](https://github.com/steveseguin/captionninja) - Closed-captioning transcription/translation tool that generates text overlays using real-time ML.
 - [daily-co/daily-js](https://github.com/daily-co/daily-js) - 
-- [DXsmiley/boomo](https://github.com/DXsmiley/boomo) - An implementation of the card game Boomo
-- [DXsmiley/aioc420](https://github.com/DXsmiley/aioc420) - Might be a game of 500. IDK.
-- [DXsmiley/edgy-json](https://github.com/DXsmiley/edgy-json) - JSON verification for hipsters
-- [DXsmiley/dismock](https://github.com/DXsmiley/dismock) - Automate the testing of discord bots.
+- [dxsmiley/boomo](https://github.com/dxsmiley/boomo) - An implementation of the card game Boomo
+- [dxsmiley/aioc420](https://github.com/dxsmiley/aioc420) - Might be a game of 500. IDK.
+- [dxsmiley/edgy-json](https://github.com/dxsmiley/edgy-json) - JSON verification for hipsters
+- [dxsmiley/dismock](https://github.com/dxsmiley/dismock) - Automate the testing of discord bots.
 - [texttools/texttools.github.io](https://github.com/texttools/texttools.github.io) - TextTools.org: Free Text Formatting & Text Manipulation Tools
 - [jekyll/jekyll-archives](https://github.com/jekyll/jekyll-archives) - :books: Archive pages for your Jekyll tags and categories.
 - [vectorgraphics/asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
@@ -2319,8 +2319,8 @@
 - [jamesgeorge007/Maze-Runner](https://github.com/jamesgeorge007/Maze-Runner) - The Maze Runner game inspired by Chrome T-Rex. :video_game:
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [narcisbugeag/auto-discord-status](https://github.com/narcisbugeag/auto-discord-status) - ⛅ Automatized Discord Custom Status using openweathermap.org API
-- [DXsmiley/rtex](https://github.com/DXsmiley/rtex) - Minimal LaTeX rendering server
-- [DXsmiley/fireform](https://github.com/DXsmiley/fireform) - An entity-driven game framework for python.
+- [dxsmiley/rtex](https://github.com/dxsmiley/rtex) - Minimal LaTeX rendering server
+- [dxsmiley/fireform](https://github.com/dxsmiley/fireform) - An entity-driven game framework for python.
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 - [knightron0/helloworld](https://github.com/knightron0/helloworld) - Collection of "hello world" programs in different programming languages.
 - [CCExtractor/cimico](https://github.com/CCExtractor/cimico) - A python debugger video creator (knightron0's original implementation)
@@ -2735,7 +2735,7 @@
 - [Zo-Bro-23/portfolio](https://github.com/Zo-Bro-23/portfolio) - My portfolio website
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [eggsy/lanyard-web](https://github.com/eggsy/lanyard-web) - 🏷 Landing page and API documentation concept for Lanyard API.
-- [DXsmiley/Whiteboard](https://github.com/DXsmiley/Whiteboard) - An online whiteboard
+- [dxsmiley/Whiteboard](https://github.com/dxsmiley/Whiteboard) - An online whiteboard
 - [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com) - The Annoying Site a.k.a. "The Power of the Web Platform"
 - [ManimCommunity/plugins-site](https://github.com/ManimCommunity/plugins-site) - Manim's plugins site
 - [ManimCommunity/manim-website](https://github.com/ManimCommunity/manim-website) - Manim landing page.
