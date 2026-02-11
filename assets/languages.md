@@ -551,8 +551,8 @@
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
 - [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
 - [daily-co/daily-js](https://github.com/daily-co/daily-js) - 
-- [DXsmiley/boomo](https://github.com/DXsmiley/boomo) - An implementation of the card game Boomo
-- [DXsmiley/Whiteboard](https://github.com/DXsmiley/Whiteboard) - An online whiteboard
+- [dxsmiley/boomo](https://github.com/dxsmiley/boomo) - An implementation of the card game Boomo
+- [dxsmiley/Whiteboard](https://github.com/dxsmiley/Whiteboard) - An online whiteboard
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [agarrharr/2048-mini](https://github.com/agarrharr/2048-mini) - 🎮 A clone of 2048 written in javascript using D3.
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
@@ -593,7 +593,6 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [yochrisbolton/terminal-adventure-framework](https://github.com/yochrisbolton/terminal-adventure-framework) - Choose-your-own-adventure terminal mini-framework
 - [yochrisbolton/chrisbolton.dev](https://github.com/yochrisbolton/chrisbolton.dev) - Personal landing page
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [discord/discord-open-source](https://github.com/discord/discord-open-source) - List of open source communities living on Discord
 - [behackl/manim-with-ease](https://github.com/behackl/manim-with-ease) - Tutorial series for the community maintained version of Manim, https://www.manim.community
 - [leoncvlt/imml](https://github.com/leoncvlt/imml) - ⚡ Create minimalist, blazing fast no-javascript websites from a single, portable plain text file
@@ -708,6 +707,7 @@
 ## MDX 
 
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation - https://docs.hoppscotch.io
 
 ## Markdown 
@@ -905,13 +905,13 @@
 - [kittinan/trex-keras-cnn](https://github.com/kittinan/trex-keras-cnn) - Play T-Rex game with Keras using convolutional neural network
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [narcisbugeag/auto-discord-status](https://github.com/narcisbugeag/auto-discord-status) - ⛅ Automatized Discord Custom Status using openweathermap.org API
-- [DXsmiley/LatexBot](https://github.com/DXsmiley/LatexBot) - Discord bot that renders LaTeX equations.
-- [DXsmiley/rtex](https://github.com/DXsmiley/rtex) - Minimal LaTeX rendering server
-- [DXsmiley/aioc420](https://github.com/DXsmiley/aioc420) - Might be a game of 500. IDK.
-- [DXsmiley/fireform](https://github.com/DXsmiley/fireform) - An entity-driven game framework for python.
-- [DXsmiley/edgy-json](https://github.com/DXsmiley/edgy-json) - JSON verification for hipsters
-- [DXsmiley/dismock](https://github.com/DXsmiley/dismock) - Automate the testing of discord bots.
-- [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
+- [dxsmiley/LatexBot](https://github.com/dxsmiley/LatexBot) - Discord bot that renders LaTeX equations.
+- [dxsmiley/rtex](https://github.com/dxsmiley/rtex) - Minimal LaTeX rendering server
+- [dxsmiley/aioc420](https://github.com/dxsmiley/aioc420) - Might be a game of 500. IDK.
+- [dxsmiley/fireform](https://github.com/dxsmiley/fireform) - An entity-driven game framework for python.
+- [dxsmiley/edgy-json](https://github.com/dxsmiley/edgy-json) - JSON verification for hipsters
+- [dxsmiley/dismock](https://github.com/dxsmiley/dismock) - Automate the testing of discord bots.
+- [dxsmiley/mathbot](https://github.com/dxsmiley/mathbot) - Discord bot for mathematics
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [lennardv2/ehh](https://github.com/lennardv2/ehh) - Commandline tool for remembering linux/terminal commands
