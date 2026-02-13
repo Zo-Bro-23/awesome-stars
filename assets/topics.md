@@ -2296,7 +2296,6 @@
 ## python 
 
 - [joergdietrich/daltonize](https://github.com/joergdietrich/daltonize) - Simulate and correct images for dichromatic color blindness
-- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -2334,7 +2333,6 @@
 
 ## python3 
 
-- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [jamesgeorge007/GitHub-Mate](https://github.com/jamesgeorge007/GitHub-Mate) - This is the web implementation of github-mate Desktop app using the Flask web application framework with extended capabilities.
 - [jamesgeorge007/Catch-It](https://github.com/jamesgeorge007/Catch-It) - The traditional Egg Catching game clone with a much better user experience. :video_game:
