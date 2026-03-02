@@ -880,7 +880,7 @@
 - [Jxck-S/TFR-Scraper](https://github.com/Jxck-S/TFR-Scraper) - Scrapes TFRs from FAA site
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
 - [georgebrock/git-browse](https://github.com/georgebrock/git-browse) - Like git blame, but interactive.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [aarush-narang/password-breaker](https://github.com/aarush-narang/password-breaker) - 
 - [aarush-narang/USACO](https://github.com/aarush-narang/USACO) - USACO training problems and competitive problems
 - [aarush-narang/Best-Buy-Product-Automatic-Buyer](https://github.com/aarush-narang/Best-Buy-Product-Automatic-Buyer) - 
