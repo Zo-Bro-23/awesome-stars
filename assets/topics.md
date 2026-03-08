@@ -1075,7 +1075,6 @@
 - [drodil/video_auto_pause](https://github.com/drodil/video_auto_pause) - Chrome extension to automatically pause/continue video on tab focus changes
 - [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay) - This is a small project to evaluate "1" and "0" polls in Twitch streams, and display them live in the stream.
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [martinwoodward/PumpkinPi](https://github.com/martinwoodward/PumpkinPi) - Spooky build status indicator
