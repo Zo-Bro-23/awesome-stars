@@ -899,6 +899,7 @@
 
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [patzly/buzz-android](https://github.com/patzly/buzz-android) - Unofficial Android game based on the official Spelling Bee by The New York Times
+- [vegeta897/word-peaks](https://github.com/vegeta897/word-peaks) - A word guessing game of highs and lows
 - [Platane/skull-ocean](https://github.com/Platane/skull-ocean) - 💀💀🌊  A grim wave simulation. It was made for the 2022 js13kGames.com competition.
 - [Platane/yAR-htzee](https://github.com/Platane/yAR-htzee) - 🎲🎲🥽 A pretty cool yahtzee game in augmented reality
 - [Platane/js13k-2017](https://github.com/Platane/js13k-2017) - 🖼️ Vernissage !
