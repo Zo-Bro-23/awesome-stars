@@ -1740,7 +1740,7 @@
 - [zhravan/LearningResources](https://github.com/zhravan/LearningResources) - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [JacobLinCool/Clubhouse-Avatar-Pro](https://github.com/JacobLinCool/Clubhouse-Avatar-Pro) - A simple but powerful web app that helps you to create excellent Clubhouse avatars with beautiful borders. Free, secure, and highly customizable.
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Data Platform (CDP)
+- [linuxfoundation/crowd.dev](https://github.com/linuxfoundation/crowd.dev) - LFX Community Data Platform (CDP)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
