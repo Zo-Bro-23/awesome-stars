@@ -708,7 +708,7 @@
 - [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [Farcrada/DiscordPlugins](https://github.com/Farcrada/DiscordPlugins) - This repo holds all the plugins I made for Discord.
 - [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
-- [ItsRauf/slash](https://github.com/ItsRauf/slash) - slash command generator
+- [rosethornbush/slash](https://github.com/rosethornbush/slash) - slash command generator
 - [ishwi/Chuu](https://github.com/ishwi/Chuu) - Last.fm bot for discord
 - [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [edvardpotter/DiscordLastfmScrobbler](https://github.com/edvardpotter/DiscordLastfmScrobbler) - Allows you to display music from Last.FM to Discord
@@ -1070,7 +1070,7 @@
 
 - [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - Transfer Playlists from YouTube Music to Spotify
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
-- [ItsRauf/datetimecord](https://github.com/ItsRauf/datetimecord) - 
+- [rosethornbush/datetimecord](https://github.com/rosethornbush/datetimecord) - 
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [drodil/video_auto_pause](https://github.com/drodil/video_auto_pause) - Chrome extension to automatically pause/continue video on tab focus changes
