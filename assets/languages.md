@@ -652,7 +652,7 @@
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [nightmode/logitech-g29](https://github.com/nightmode/logitech-g29) - Logitech G29 Racing Wheel for Node
 - [gtanner/qrcode-terminal](https://github.com/gtanner/qrcode-terminal) - QRCodes in your terminal, cause thats hot.
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [izayl/spotify-box](https://github.com/izayl/spotify-box) - 🎶 Automatic update pinned gist to show your recent Spotify top tracks.
 - [kylepaulsen/kbm-robot](https://github.com/kylepaulsen/kbm-robot) - A module to help you emulate system wide keyboard and mouse actions.
 - [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
