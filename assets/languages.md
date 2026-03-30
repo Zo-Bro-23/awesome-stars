@@ -531,7 +531,6 @@
 - [joemccann/robintrack-api-utilities](https://github.com/joemccann/robintrack-api-utilities) - 🧰 A collection of utilities for building datasets and interacting with the Robintrack API.
 - [joemccann/robintrack-api](https://github.com/joemccann/robintrack-api) - Unofficial node client for accessing the APIs called on Robintrack.net.
 - [joemccann/robinhood-api](https://github.com/joemccann/robinhood-api) - 📈 Unofficial node.js client for accessing the APIs called on Robinhood.com.
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [zyplos/proof-tool](https://github.com/zyplos/proof-tool) - math! 💥
 - [jamesgeorge007/lets-chat](https://github.com/jamesgeorge007/lets-chat) - A chat app built with socket.io real time engine.
 - [jamesgeorge007/Youtube-Mate](https://github.com/jamesgeorge007/Youtube-Mate) - A Desktop application built on top of Electron-js which simplifies the task of converting youtube videos to mp3 files. :musical_note: :notes: :musical_keyboard: :musical_score::
@@ -1146,6 +1145,7 @@
 - [Platane/yAR-htzee](https://github.com/Platane/yAR-htzee) - 🎲🎲🥽 A pretty cool yahtzee game in augmented reality
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [JeffreyCA/lastfm-recently-played-readme](https://github.com/JeffreyCA/lastfm-recently-played-readme) - Display your recent Last.fm scrobbles on your GitHub profile README.
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 - [JacobLinCool/node-cloudflared](https://github.com/JacobLinCool/node-cloudflared) - Cloudflared in Node. Create HTTPS tunnel in 10 seconds. Works on macOS, Linux, and Windows.
