@@ -55,6 +55,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [Zig](#zig)
 
 ## ActionScript 
 
@@ -299,6 +300,7 @@
 - [jsomers/hacker-classics](https://github.com/jsomers/hacker-classics) - Classic Hacker News stories
 - [Zo-Bro-23/3D-Printing](https://github.com/Zo-Bro-23/3D-Printing) - All my 3D Printing designs!
 - [Zo-Bro-23/zoauth-logo](https://github.com/Zo-Bro-23/zoauth-logo) - All the different logos... So many lol!!
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [prajwalsouza/Epidemic-Simulation](https://github.com/prajwalsouza/Epidemic-Simulation) - An interactive inspired by 3Blue1Brown's 'Simulating an Epidemic' video.
 - [RobinLinus/socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - A demo of cross-origin login detection for most major web platforms
@@ -630,7 +632,6 @@
 - [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [aaronpk/live-chat-overlay](https://github.com/aaronpk/live-chat-overlay) - Restyle the YouTube "popout chat" window so you can key it over a video to show comments on a livestream
-- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [steveseguin/electroncapture](https://github.com/steveseguin/electroncapture) - Playback video in a frameless electron app for screen-sharing and window capture
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [steveseguin/twitch-youtube-restream-chat-overlay](https://github.com/steveseguin/twitch-youtube-restream-chat-overlay) - Chat.Overlay.Ninja -- send your live chat to OBS or VMix as featured chat
@@ -845,7 +846,6 @@
 - [joergdietrich/daltonize](https://github.com/joergdietrich/daltonize) - Simulate and correct images for dichromatic color blindness
 - [stratumauth/icons](https://github.com/stratumauth/icons) - 🖼️ Icon packs for Stratum
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [akshayravikumar/imagegen](https://github.com/akshayravikumar/imagegen) - random image generator
 - [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
@@ -1250,6 +1250,10 @@
 ## XSLT 
 
 - [lastfm/lastfm-android](https://github.com/lastfm/lastfm-android) - The official Last.fm Android application suite
+
+## Zig 
+
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 
 ## License
