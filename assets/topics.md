@@ -26,6 +26,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -448,6 +449,11 @@
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+## c-sharp 
+
+- [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+- [sonigy/W10Driver](https://github.com/sonigy/W10Driver) - The application Win10Driver, installs and saves drivers and also safely removes old versions of drivers.
 
 ## chatbot 
 
@@ -2143,7 +2149,6 @@
 - [developerish/tab-count](https://github.com/developerish/tab-count) - Source for the TabCount Chrome extension.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [SjoerdV/ConvertOneNote2MarkDown](https://github.com/SjoerdV/ConvertOneNote2MarkDown) - Ready to make the step to Markdown and saying farewell to your OneNote, EverNote or whatever proprietary note taking tool you are using? Nothing beats clear text, right? Read on!
-- [sonigy/W10Driver](https://github.com/sonigy/W10Driver) - The application Win10Driver, installs and saves drivers and also safely removes old versions of drivers.
 - [abhinavs/pincodr](https://github.com/abhinavs/pincodr) - JSON Web Service for Indian Pincodes
 - [abhinavs/blockr](https://github.com/abhinavs/blockr) - Command line tool to block websites that distract you and activate focus mode.
 - [dwyl/hits](https://github.com/dwyl/hits) - :chart_with_upwards_trend: General purpose hits (page views) counter
