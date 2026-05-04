@@ -776,8 +776,8 @@
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [feross/awesome-mad-science](https://github.com/feross/awesome-mad-science) - Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [msaaddev/open-source](https://github.com/msaaddev/open-source) - ⚡️ A comprehensive list of all the open-source work I have done over the years. Authored 20+ open-source software that includes automation tools, node packages, web applications, etc.
@@ -904,7 +904,7 @@
 - [totallynotadi/cvplayer](https://github.com/totallynotadi/cvplayer) - simple platform independant video player written in python using ffpyplayer and OpenCV
 - [kittinan/trex-keras-cnn](https://github.com/kittinan/trex-keras-cnn) - Play T-Rex game with Keras using convolutional neural network
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
-- [narcisbugeag/auto-discord-status](https://github.com/narcisbugeag/auto-discord-status) - ⛅ Automatized Discord Custom Status using openweathermap.org API
+- [leonardssh/auto-discord-status](https://github.com/leonardssh/auto-discord-status) - ⛅ Automatized Discord Custom Status using openweathermap.org API
 - [dxsmiley/LatexBot](https://github.com/dxsmiley/LatexBot) - Discord bot that renders LaTeX equations.
 - [dxsmiley/rtex](https://github.com/dxsmiley/rtex) - Minimal LaTeX rendering server
 - [dxsmiley/aioc420](https://github.com/dxsmiley/aioc420) - Might be a game of 500. IDK.
@@ -1168,7 +1168,7 @@
 - [KRTirtho/schoolacious](https://github.com/KRTirtho/schoolacious) - A destination where all the reading sound📔 of small learners🧒 & day to day learning👩‍🏫 takes place bringing up all the thing a student👩‍🎓 used to do before Quarantine & Pandemic🦠
 - [uditkarode/wikari](https://github.com/uditkarode/wikari) - 💡 A NodeJS TS library to control Philips WiZ bulbs.
 - [zyplos/lounge-hub](https://github.com/zyplos/lounge-hub) - the lounge community site
-- [narcisbugeag/vscord](https://github.com/narcisbugeag/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
+- [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [iCrawl/kaori](https://github.com/iCrawl/kaori) - 🎻 Your friendly neighbourhood violinist bringing you the best booru images
 - [iCrawl/not-a-spy-game](https://github.com/iCrawl/not-a-spy-game) - A game not about spies.
 - [iCrawl/yuudachi](https://github.com/iCrawl/yuudachi) - Discord moderation bot
