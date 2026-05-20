@@ -1812,7 +1812,7 @@
 - [jstrieb/procrastinate](https://github.com/jstrieb/procrastinate) - One button, infinite web comics. Never focus again.
 - [rocksdanister/lively-linux](https://github.com/rocksdanister/lively-linux) - Experimental linux version of Lively Wallpaper
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles
-- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Personal music charts
+- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Versão antiga do Zero Charts, não é mais usada e nem atualizada.
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [Dinduks/Lastfm-Top-Albums](https://github.com/Dinduks/Lastfm-Top-Albums) - This script generates a banner with the covers of your top albums, based on your Last.fm statistics.
 - [mold/explr](https://github.com/mold/explr) - Explr the world through music
