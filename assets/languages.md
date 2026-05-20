@@ -1049,7 +1049,7 @@
 - [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel) - Keep an eye on ▲ Vercel deployments without ever leaving Visual Studio Code.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
-- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Personal music charts
+- [Bruno7kp/zero](https://github.com/Bruno7kp/zero) - Versão antiga do Zero Charts, não é mais usada e nem atualizada.
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [felhag/spotify-stats-web](https://github.com/felhag/spotify-stats-web) - Mirror of lastfm-stats-web since gh-pages cant deploy branches sites yet.
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
