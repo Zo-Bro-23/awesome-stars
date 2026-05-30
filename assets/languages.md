@@ -1018,7 +1018,6 @@
 
 - [vegeta897/word-peaks](https://github.com/vegeta897/word-peaks) - A word guessing game of highs and lows
 - [limesdotpink/limes.pink](https://github.com/limesdotpink/limes.pink) - my website!
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 
 ## Swift 
 
@@ -1191,6 +1190,7 @@
 - [anuraghazra/convoychat](https://github.com/anuraghazra/convoychat) - Help us take over the world! React + TS + GraphQL Chat App
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [timovv/speed-interview-bot](https://github.com/timovv/speed-interview-bot) - 
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
