@@ -971,7 +971,7 @@
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [abhinavs/pincodr](https://github.com/abhinavs/pincodr) - JSON Web Service for Indian Pincodes
 - [abhinavs/blockr](https://github.com/abhinavs/blockr) - Command line tool to block websites that distract you and activate focus mode.
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [jsomers/git-game](https://github.com/jsomers/git-game) - The git committer guessing game!
 - [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
 
