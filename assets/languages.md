@@ -301,6 +301,7 @@
 - [Zo-Bro-23/3D-Printing](https://github.com/Zo-Bro-23/3D-Printing) - All my 3D Printing designs!
 - [Zo-Bro-23/zoauth-logo](https://github.com/Zo-Bro-23/zoauth-logo) - All the different logos... So many lol!!
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+- [shenuja/himandher](https://github.com/shenuja/himandher) - Personal blog
 - [prajwalsouza/Epidemic-Simulation](https://github.com/prajwalsouza/Epidemic-Simulation) - An interactive inspired by 3Blue1Brown's 'Simulating an Epidemic' video.
 - [RobinLinus/socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - A demo of cross-origin login detection for most major web platforms
 
@@ -795,7 +796,6 @@
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [somq/consolas-ligaturized](https://github.com/somq/consolas-ligaturized) - 🖊️ Standard Consolas font with FiraCode ligatures
 - [pygaurav/vasuki-dark-vscode-theme](https://github.com/pygaurav/vasuki-dark-vscode-theme) - Vasuki Dark Theme - A dark theme for VS Code which add amazing experience and feel into your coding.
-- [shenuja/himandher](https://github.com/shenuja/himandher) - Personal blog
 - [thesilican/duotrigordle](https://github.com/thesilican/duotrigordle) - Play 32 wordles simultaneously
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
 - [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
