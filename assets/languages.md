@@ -589,7 +589,6 @@
 - [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 - [anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js) - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:
 - [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [anuraghazra/CanvasFun](https://github.com/anuraghazra/CanvasFun) - :heart: Creative Coding Projects
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [yochrisbolton/terminal-adventure-framework](https://github.com/yochrisbolton/terminal-adventure-framework) - Choose-your-own-adventure terminal mini-framework
@@ -1187,6 +1186,7 @@
 - [anuraghazra/ToyLang](https://github.com/anuraghazra/ToyLang) - A toy programming language built with TypeScript for learning purposes.
 - [anuraghazra/vscode-strip-ts-copy](https://github.com/anuraghazra/vscode-strip-ts-copy) - Strip types from TypeScript code while copying it.
 - [anuraghazra/convoychat](https://github.com/anuraghazra/convoychat) - Help us take over the world! React + TS + GraphQL Chat App
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [timovv/speed-interview-bot](https://github.com/timovv/speed-interview-bot) - 
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
