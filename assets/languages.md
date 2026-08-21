@@ -258,6 +258,7 @@
 - [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [hoppscotch/hopp-cli](https://github.com/hoppscotch/hopp-cli) - 🤖 HTTP CLI client for https://hoppscotch.io
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 
 ## HTML 
@@ -1214,7 +1215,6 @@
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Savjee/google-sheets-wrapper](https://github.com/Savjee/google-sheets-wrapper) - Lightweight wrapper around the official Google Sheets API that makes it easy to read/write rows
 - [andycb/AdventurerClientJS](https://github.com/andycb/AdventurerClientJS) - An unofficial cross platform client for working with the Monoprice Voxel or Flashforge Adventurer 3
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
