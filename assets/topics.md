@@ -159,6 +159,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [php](#php)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -2144,7 +2145,6 @@
 - [anuraghazra/ToyLang](https://github.com/anuraghazra/ToyLang) - A toy programming language built with TypeScript for learning purposes.
 - [anuraghazra/Atomic.js](https://github.com/anuraghazra/Atomic.js) - :collision: Atomic.js | Greatly Simple Physics Engine For Javascript
 - [anuraghazra/vscode-strip-ts-copy](https://github.com/anuraghazra/vscode-strip-ts-copy) - Strip types from TypeScript code while copying it.
-- [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 - [anuraghazra/Verly.js](https://github.com/anuraghazra/Verly.js) - :red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:
 - [DenverCoder1/readme-download-button-action](https://github.com/DenverCoder1/readme-download-button-action) - GitHub Action workflow configuration for keeping a direct download link to the latest version on your repo's readme
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
@@ -2283,6 +2283,14 @@
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
+
+## portfolio 
+
+- [Zo-Bro-23/portfolio](https://github.com/Zo-Bro-23/portfolio) - My portfolio website
+- [Zo-Bro-23/terminal-portfolio](https://github.com/Zo-Bro-23/terminal-portfolio) - Fork of @aarush-narang/portfolio
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [jamesgeorge007/jamesgeorge-cli](https://github.com/jamesgeorge007/jamesgeorge-cli) - The James George CLI
+- [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 
 ## postgresql 
 
