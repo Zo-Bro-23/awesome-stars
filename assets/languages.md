@@ -920,7 +920,7 @@
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [lennardv2/ehh](https://github.com/lennardv2/ehh) - Commandline tool for remembering linux/terminal commands
 - [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
-- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme. Show your YouTube Feed on your GitHub profile!
 - [behackl/manim-content](https://github.com/behackl/manim-content) - Sources for my content produced with Manim
 - [ManimCommunity/DiscordManimator](https://github.com/ManimCommunity/DiscordManimator) - A Manim Rendering Bot for Discord. Requires a Functioning Manim install.
 - [Tikolu/fractal.py](https://github.com/Tikolu/fractal.py) - A simple Mandelbrot fractal generator made in python
