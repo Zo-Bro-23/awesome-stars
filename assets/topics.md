@@ -1001,7 +1001,7 @@
 - [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 🙁 A CLI that tells you who recently unfollowed you on GitHub
 - [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
 - [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter) - Simple view counter for websites and Github READMEs.
-- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme. Show your YouTube Feed on your GitHub profile!
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -1155,7 +1155,7 @@
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text
 - [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter) - Simple view counter for websites and Github READMEs.
-- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme. Show your YouTube Feed on your GitHub profile!
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
@@ -2854,7 +2854,7 @@
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source.
-- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme. Show your YouTube Feed on your GitHub profile!
 - [knightron0/tempus](https://github.com/knightron0/tempus) - chrome extension to 10x your youtube experience
 - [sonigy/YCS](https://github.com/sonigy/YCS) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
