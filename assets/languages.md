@@ -552,7 +552,6 @@
 - [ethangodt/portfolio](https://github.com/ethangodt/portfolio) - Engineering Portfolio
 - [ethangodt/songlink](https://github.com/ethangodt/songlink) - share music to anyone on any platform
 - [seia-soto/chrome-discord-presence](https://github.com/seia-soto/chrome-discord-presence) - The Discord Rich-Presence(activity) support for Google Chrome(Web Browser), only using Extension.
-- [limesdotpink/microsoftgithub.com](https://github.com/limesdotpink/microsoftgithub.com) - a website that lets you create official-looking GitHub/Nintendo links that rickroll the visitor.
 - [wsmd/ui-sketchbook](https://github.com/wsmd/ui-sketchbook) - 🎨  Experiments with various UI components and interactions
 - [KRTirtho/Shopler](https://github.com/KRTirtho/Shopler) - Shopler The Dino Shopping Mall
 - [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
@@ -1006,7 +1005,7 @@
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [zhravan/software-installation-guides](https://github.com/zhravan/software-installation-guides) - Installation Guide for various development software, tools and packages
 - [MrS0m30n3/movies-for-hackers](https://github.com/MrS0m30n3/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [nathanielop/achievements](https://github.com/nathanielop/achievements) - A collection of shell scripts to achieve 100% of API-accessible Github achievements
@@ -1158,6 +1157,7 @@
 - [unickhow/knowme](https://github.com/unickhow/knowme) - simple UI for awesome github-readme-stats
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Discord Presence in your GitHub Profile
+- [limesdotpink/microsoftgithub.com](https://github.com/limesdotpink/microsoftgithub.com) - a website that lets you create official-looking GitHub/Nintendo links that rickroll the visitor.
 - [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server.
 - [wsmd/reattempt](https://github.com/wsmd/reattempt) - 🤞 Give your functions another chance
 - [wsmd/use-clipboard-copy](https://github.com/wsmd/use-clipboard-copy) - 📋 Lightweight copy to clipboard hook for React
