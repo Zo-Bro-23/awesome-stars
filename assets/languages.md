@@ -212,7 +212,7 @@
 - [KRTirtho/metadata_god](https://github.com/KRTirtho/metadata_god) - Audio file Metadata reading and writing library for Flutter
 - [workhog-app/wives](https://github.com/workhog-app/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [KRTirtho/wallywiz](https://github.com/KRTirtho/wallywiz) - A Random Wallpaper shuffler application
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## Elixir 
 
