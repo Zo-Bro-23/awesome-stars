@@ -241,7 +241,7 @@
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
-- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [changkun/occamy](https://github.com/changkun/occamy) - 🖥️ a modern remote desktop proxy written in Go
 - [changkun/rmtrash](https://github.com/changkun/rmtrash) - 🗑️ Move directory entries to Trash
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
