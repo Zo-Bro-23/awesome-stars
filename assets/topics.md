@@ -1024,7 +1024,7 @@
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
-- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [changkun/occamy](https://github.com/changkun/occamy) - 🖥️ a modern remote desktop proxy written in Go
 - [changkun/rmtrash](https://github.com/changkun/rmtrash) - 🗑️ Move directory entries to Trash
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
@@ -1047,7 +1047,7 @@
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
-- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [changkun/occamy](https://github.com/changkun/occamy) - 🖥️ a modern remote desktop proxy written in Go
 - [changkun/rmtrash](https://github.com/changkun/rmtrash) - 🗑️ Move directory entries to Trash
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
@@ -1233,7 +1233,7 @@
 
 ## ios 
 
-- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [KRTirtho/platform_ui](https://github.com/KRTirtho/platform_ui) - Flutter platform specific Widgets and abstractions
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [dkhamsing/fastmdb](https://github.com/dkhamsing/fastmdb) - :mag: Fast iOS app to browse and search movies, tv, actors, credits
@@ -1469,7 +1469,7 @@
 
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
@@ -1522,7 +1522,7 @@
 - [soroushchehresa/Rial](https://github.com/soroushchehresa/Rial) - 💵 A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial
 - [soroushchehresa/giant-sur](https://github.com/soroushchehresa/giant-sur) - 🍏 macOS Big Sur UI clone for the web built with React, Next.js, TypeScript, and Tailwind CSS
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
-- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [changkun/rmtrash](https://github.com/changkun/rmtrash) - 🗑️ Move directory entries to Trash
 - [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server) - Local RTMP Streaming Server
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -2517,6 +2517,7 @@
 
 ## self-hosted 
 
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2591,6 +2592,7 @@
 
 ## swiftui 
 
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [sindresorhus/Blear](https://github.com/sindresorhus/Blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -2800,7 +2802,7 @@
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [torchgm/ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - A simple app that lets you pin windows to your desktop and use fullscreen programs and videos as interactive wallpapers.
 - [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
-- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+- [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [coreybutler/node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).
 - [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
