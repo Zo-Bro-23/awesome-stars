@@ -637,7 +637,7 @@
 ## csharp 
 
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [torchgm/ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - A simple app that lets you pin windows to your desktop and use fullscreen programs and videos as interactive wallpapers.
 - [A-tG/VoicemeeterFancyOSD](https://github.com/A-tG/VoicemeeterFancyOSD) - On-screen display for Voicemeeter that works with fullscreen apps.
 
@@ -2230,7 +2230,7 @@
 - [pygaurav/vasuki-dark-vscode-theme](https://github.com/pygaurav/vasuki-dark-vscode-theme) - Vasuki Dark Theme - A dark theme for VS Code which add amazing experience and feel into your coding.
 - [tom-james-watson/breaktimer-app](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
 - [tom-james-watson/wikitrivia](https://github.com/tom-james-watson/wikitrivia) - Wikidata as a trivia card game.
-- [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
+- [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK4
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 - [shenuja/himandher](https://github.com/shenuja/himandher) - Personal blog
 - [LaunchMenu/node-global-key-listener](https://github.com/LaunchMenu/node-global-key-listener) - A package to listen to global key events
