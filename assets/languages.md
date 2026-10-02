@@ -109,7 +109,7 @@
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [rocksdanister/lively-linux](https://github.com/rocksdanister/lively-linux) - Experimental linux version of Lively Wallpaper
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [gpkgpk/HideVolumeOSD](https://github.com/gpkgpk/HideVolumeOSD) - Hide the Windows 10/11 volume bar
 - [UnlimitedStack/HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide the Windows 10 volume bar
 - [torchgm/ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - A simple app that lets you pin windows to your desktop and use fullscreen programs and videos as interactive wallpapers.
@@ -938,7 +938,7 @@
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [steveseguin/discordbot](https://github.com/steveseguin/discordbot) - The Discord bot for VDO.Ninja
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
+- [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK4
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [prajwalsouza/Maze-Solver](https://github.com/prajwalsouza/Maze-Solver) - Solves Mazes taking an image input, along with the starting and ending points. There are two Algorithms here which solve mazes. One of them is a Shortest Path Algorithm, the other, Minimal Tree Agorit
 - [cpitclaudel/monospacifier](https://github.com/cpitclaudel/monospacifier) - Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming)
