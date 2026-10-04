@@ -221,6 +221,7 @@
 - [website](#website)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [xamarin](#xamarin)
 - [xml](#xml)
@@ -260,6 +261,7 @@
 
 - [awhite/lastfm-collage-generator](https://github.com/awhite/lastfm-collage-generator) - Top albums collage generator for Last.fm
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
+- [changkun/urlstat](https://github.com/changkun/urlstat) - Page views and visitors for your sites and repositories: one Go service, one Postgres table, and a dashboard
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 
 ## android 
@@ -1021,7 +1023,7 @@
 ## go 
 
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
-- [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
+- [changkun/urlstat](https://github.com/changkun/urlstat) - Page views and visitors for your sites and repositories: one Go service, one Postgres table, and a dashboard
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
@@ -1044,7 +1046,7 @@
 
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
-- [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
+- [changkun/urlstat](https://github.com/changkun/urlstat) - Page views and visitors for your sites and repositories: one Go service, one Postgres table, and a dashboard
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
@@ -2292,6 +2294,7 @@
 
 ## postgresql 
 
+- [changkun/urlstat](https://github.com/changkun/urlstat) - Page views and visitors for your sites and repositories: one Go service, one Postgres table, and a dashboard
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 
 ## powershell 
@@ -2516,6 +2519,7 @@
 
 ## self-hosted 
 
+- [changkun/urlstat](https://github.com/changkun/urlstat) - Page views and visitors for your sites and repositories: one Go service, one Postgres table, and a dashboard
 - [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -2819,6 +2823,15 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+
+## windows-11 
+
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
+- [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
+- [KRTirtho/platform_ui](https://github.com/KRTirtho/platform_ui) - Flutter platform specific Widgets and abstractions
+- [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## workflow 
 
