@@ -237,7 +237,7 @@
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [akshayravikumar/crosswords](https://github.com/akshayravikumar/crosswords) - generates nyt crossword grids
-- [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
+- [changkun/urlstat](https://github.com/changkun/urlstat) - Page views and visitors for your sites and repositories: one Go service, one Postgres table, and a dashboard
 - [changkun/sched](https://github.com/changkun/sched) - ⏳ a high performance reliable task scheduling package in Go.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Your clipboard and its history on all your devices: a Mac menu-bar app, a daemon for Linux and Windows, iPhone Shortcuts, and a self-hosted relay that keeps no copies
