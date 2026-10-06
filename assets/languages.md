@@ -745,7 +745,6 @@
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [trekhleb/okso-app](https://github.com/trekhleb/okso-app) - ✍🏻 The drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 - [deta/deta](https://github.com/deta/deta) - For doers & dreamers
-- [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [drknzz/drknzz](https://github.com/drknzz/drknzz) - 
 - [Zo-Bro-23/templates](https://github.com/Zo-Bro-23/templates) - All the GitHub template repos that I have created!
 - [drhus/awesome-identicons](https://github.com/drhus/awesome-identicons) - A curated list of "Visual Hashs" (Identicon, Avatar, Fractal, RandomArt and general Hash Visualization)
@@ -858,6 +857,7 @@
 - [martinwoodward/PumpkinPi](https://github.com/martinwoodward/PumpkinPi) - Spooky build status indicator
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [ajeetdsouza/image-to-video](https://github.com/ajeetdsouza/image-to-video) - A Python script to make a still image appear like a video recording
+- [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [drknzz/auto-lingo](https://github.com/drknzz/auto-lingo) - A Duolingo Bot for automatic XP earning
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [femioladeji/License-Plate-Recognition-Nigerian-vehicles](https://github.com/femioladeji/License-Plate-Recognition-Nigerian-vehicles) - A python program that uses the concept of OCR using machine learning to identify the characters on a Nigerian license plate
