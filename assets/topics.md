@@ -531,7 +531,7 @@
 ## cli 
 
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
-- [maddhruv/npmtotal](https://github.com/maddhruv/npmtotal) - Find you npm download statistics
+- [dhruvjainin/npmtotal](https://github.com/dhruvjainin/npmtotal) - Find you npm download statistics
 - [soroushchehresa/cli-corona](https://github.com/soroushchehresa/cli-corona) - 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.
 - [trekhleb/nodejs-master-class](https://github.com/trekhleb/nodejs-master-class) - 🛠 This repository contains the homework assignment for Node.js Master Class that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS with no NPM or 3rd-party libraries
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
@@ -649,7 +649,7 @@
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
-- [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
+- [dhruvjainin/fire](https://github.com/dhruvjainin/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [jeffreytse/oh-my-resume](https://github.com/jeffreytse/oh-my-resume) - 🍉 Oh, my resume!
@@ -1753,7 +1753,7 @@
 
 ## npm 
 
-- [maddhruv/npmtotal](https://github.com/maddhruv/npmtotal) - Find you npm download statistics
+- [dhruvjainin/npmtotal](https://github.com/dhruvjainin/npmtotal) - Find you npm download statistics
 - [Zo-Bro-23/population-simulation](https://github.com/Zo-Bro-23/population-simulation) - NPM package that runs population simulations based on Hardy-Weinberg principles
 - [sakai-akinobu/lastify](https://github.com/sakai-akinobu/lastify) - Generate Last.fm listening report for CLI.
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
@@ -1857,8 +1857,8 @@
 - [jammus/lastfm-node](https://github.com/jammus/lastfm-node) - Read and write to Last.fm with node.js
 - [keune/demastered](https://github.com/keune/demastered) - Clean up your recent scrobbles.
 - [googlesamples/assistant-sdk-nodejs](https://github.com/googlesamples/assistant-sdk-nodejs) - 
-- [maddhruv/loading-messages](https://github.com/maddhruv/loading-messages) - Get Random Funny Loading Messages/Texts for your app.
-- [maddhruv/imaginator](https://github.com/maddhruv/imaginator) - :circus_tent: Generates Random Quotes :speech_balloon: Images! https://maddhruv.github.io/imaginator
+- [dhruvjainin/loading-messages](https://github.com/dhruvjainin/loading-messages) - Get Random Funny Loading Messages/Texts for your app.
+- [dhruvjainin/imaginator](https://github.com/dhruvjainin/imaginator) - :circus_tent: Generates Random Quotes :speech_balloon: Images! https://maddhruv.github.io/imaginator
 - [omidnikrah/github-readme-medium](https://github.com/omidnikrah/github-readme-medium) - 📖    Dynamically generated your latest Medium article on your GitHub readmes!
 - [akshayravikumar/imagegen](https://github.com/akshayravikumar/imagegen) - random image generator
 - [akshayravikumar/crosswords](https://github.com/akshayravikumar/crosswords) - generates nyt crossword grids
@@ -1867,7 +1867,7 @@
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 image generator
 - [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [wojtekmaj/make-cancellable-promise](https://github.com/wojtekmaj/make-cancellable-promise) - Make any Promise cancellable.
-- [maddhruv/github-readme-npm-downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show npm packages downloads :arrow_double_down: in GitHub README
+- [dhruvjainin/github-readme-npm-downloads](https://github.com/dhruvjainin/github-readme-npm-downloads) - Show npm packages downloads :arrow_double_down: in GitHub README
 - [omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - 📊.  Dynamically generated your StackOverflow status on your GitHub READMEs!
 - [soroushchehresa/map-nearest-location](https://github.com/soroushchehresa/map-nearest-location) - 📍 Find the nearest location and get distance from locations list without network request
 - [coffee-cup/lastfm-top](https://github.com/coffee-cup/lastfm-top) - See your top albums on last.fm
@@ -2638,7 +2638,7 @@
 
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [maddhruv/fire](https://github.com/maddhruv/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
+- [dhruvjainin/fire](https://github.com/dhruvjainin/fire) - It is an Open Source Online OS Environment primarily for Text Editing :fire:
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [Zo-Bro-23/terminal-portfolio](https://github.com/Zo-Bro-23/terminal-portfolio) - Fork of @aarush-narang/portfolio
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
