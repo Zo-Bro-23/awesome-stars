@@ -574,7 +574,6 @@
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com) - The Annoying Site a.k.a. "The Power of the Web Platform"
-- [mikaelbr/marked-terminal](https://github.com/mikaelbr/marked-terminal) - A Renderer for the marked project. Allowing you to render Markdown to print to your Terminal
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [plibither8/github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - :octocat::bell: Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
 - [plibither8/markdown-new-tab](https://github.com/plibither8/markdown-new-tab) - 🗒️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page
@@ -1180,6 +1179,7 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [plibither8/url-title-api](https://github.com/plibither8/url-title-api) - 🔗 Tiny API to get the title of webpage from its URL
+- [mikaelbr/marked-terminal](https://github.com/mikaelbr/marked-terminal) - A Renderer for the marked project. Allowing you to render Markdown to print to your Terminal
 - [plibither8/bookbroker](https://github.com/plibither8/bookbroker) - 🤖📚 Telegram bot to convert and email PDFs, EPUBs or MOBIs to your Kindle
 - [plibither8/gh-followers-tracker](https://github.com/plibither8/gh-followers-tracker) - :octocat: Tracking my GitHub following and un-following with notifications on Telegram (why not lol)
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
