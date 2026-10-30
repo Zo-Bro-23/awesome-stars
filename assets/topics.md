@@ -12,6 +12,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [api](#api)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
@@ -290,6 +291,14 @@
 - [neilmenon/lastfm-with-friends](https://github.com/neilmenon/lastfm-with-friends) - Music stats and visualizations for groups of friends, powered by Last.fm.
 - [lissy93/happy-app](https://github.com/lissy93/happy-app) - 😃 Frictionless and anonymouse feedback system for agile teams
 - [iCrawl/not-a-spy-game](https://github.com/iCrawl/not-a-spy-game) - A game not about spies.
+
+## animation 
+
+- [Steven-Roberts/Crazy-Page](https://github.com/Steven-Roberts/Crazy-Page) - A silly Chrome Extension
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- [patzly/pallax-android](https://github.com/patzly/pallax-android) - Photo live wallpaper with auto dark mode and power-efficient animations
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 
 ## api 
 
