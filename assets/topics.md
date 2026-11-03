@@ -11,6 +11,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [api](#api)
@@ -284,6 +285,12 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [ligi/PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
 - [tylerbwong/stack](https://github.com/tylerbwong/stack) - An Android app for browsing Stack Overflow and other Stack Exchange sites.
+- [fennifith/Metronome-Android](https://github.com/fennifith/Metronome-Android) - A lightweight, well designed metronome app for Android.
+
+## android-app 
+
+- [patzly/grocy-android-unlock](https://github.com/patzly/grocy-android-unlock) - Unlock AI-based barcode scanning in Grocy Android
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 - [fennifith/Metronome-Android](https://github.com/fennifith/Metronome-Android) - A lightweight, well designed metronome app for Android.
 
 ## angular 
