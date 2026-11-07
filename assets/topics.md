@@ -215,6 +215,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1918,7 +1919,6 @@
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - 
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
-- [trekhleb/vscode-search-tree](https://github.com/trekhleb/vscode-search-tree) - 🔎 (Draft!) VSCode extension to show the search results in a tree view
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
 - [Steven-Roberts/Binary-Clock](https://github.com/Steven-Roberts/Binary-Clock) - A simple binary clock progressive web app
@@ -2284,7 +2284,6 @@
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
-- [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
 - [Zo-Bro-23/obs-voicemeeter-integration](https://github.com/Zo-Bro-23/obs-voicemeeter-integration) - A server to integrate OBS and Voicemeeter using your voice, keyboard shortcuts and more!
 - [Zo-Bro-23/zoauth](https://github.com/Zo-Bro-23/zoauth) - Zero effort OAuth - ZoAuth!
 - [subhash/cookie-monster](https://github.com/subhash/cookie-monster) - 
@@ -2756,6 +2755,15 @@
 ## visualization 
 
 - [nroutasuo/lastfm-vis](https://github.com/nroutasuo/lastfm-vis) - Visualizations of Last.fm data
+
+## vscode 
+
+- [trekhleb/vscode-search-tree](https://github.com/trekhleb/vscode-search-tree) - 🔎 (Draft!) VSCode extension to show the search results in a tree view
+- [Technetium1/VSCodeExtensionInstaller](https://github.com/Technetium1/VSCodeExtensionInstaller) - Batch install Visual Studio Code extensions
+- [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
+- [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
+- [tecosaur/LaTeX-Utilities](https://github.com/tecosaur/LaTeX-Utilities) - An add-on to LaTeX Workshop that provides some features that go beyond the bare essentials
+- [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
 
 ## vue 
 
