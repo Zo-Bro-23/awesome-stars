@@ -224,6 +224,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [windows-11](#windows-11)
@@ -2829,6 +2830,11 @@
 - [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com) - The Annoying Site a.k.a. "The Power of the Web Platform"
 - [ManimCommunity/plugins-site](https://github.com/ManimCommunity/plugins-site) - Manim's plugins site
 - [ManimCommunity/manim-website](https://github.com/ManimCommunity/manim-website) - Manim landing page.
+
+## whatsapp 
+
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
+- [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 ## whatsapp-bot 
 
