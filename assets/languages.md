@@ -972,6 +972,7 @@
 ## Rust 
 
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
+- [avi12/youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Like videos with Shift+Plus, dislike with Shift+Minus.
 - [ajeetdsouza/loxcraft](https://github.com/ajeetdsouza/loxcraft) - Language tooling for the Lox programming language.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [GNOME/gnome-sudoku](https://github.com/GNOME/gnome-sudoku) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-sudoku
@@ -1083,7 +1084,6 @@
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [avi12/youtube-subscriptions-sort](https://github.com/avi12/youtube-subscriptions-sort) - A browser extension for opening YouTube videos in ascending watch time order
 - [avi12/steam-id-finder](https://github.com/avi12/steam-id-finder) - A browser extension that calculates the IDs of given Steam users.
-- [avi12/youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Like videos with Shift+Plus, dislike with Shift+Minus.
 - [avi12/youtube-speed-control](https://github.com/avi12/youtube-speed-control) - A browser extension for changing the speed of videos on YouTube, as well as embedded YouTube videos.
 - [avi12/web-ext-deploy](https://github.com/avi12/web-ext-deploy) - A tool for deploying WebExtensions to multiple stores.
 - [avi12/youtube-downloader](https://github.com/avi12/youtube-downloader) - A browser extension for simplifying downloading YouTube videos.
